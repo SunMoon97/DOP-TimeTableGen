@@ -1,0 +1,91 @@
+{
+    "B2A7": {
+        "Year 1 Sem 1": {
+            "CHEMISTRY LABORATORY": {
+                "lectures": 2,
+                "tutorials": 1,
+                "labs": 0
+            },
+            "GENERAL CHEMISTRY": {
+                "lectures": 3,
+                "tutorials": 0,
+                "labs": 3
+            }
+        },
+        "Year 2 Sem 1": {
+            "PHYSICAL CHEMISTRY I": {
+                "lectures": 3,
+                "tutorials": 0,
+                "labs": 3
+            },
+            "ORGANIC CHEMISTRY I": {
+                "lectures": 3,
+                "tutorials": 0,
+                "labs": 3
+            },
+            "PHYSICAL CHEMISTRY II": {
+                "lectures": 3,
+                "tutorials": 0,
+                "labs": 3
+            },
+            "INORGANIC CHEMISTRY I": {
+                "lectures": 3,
+                "tutorials": 0,
+                "labs": 3
+            },
+            "OBJECT ORIENTED PROGRAMMING": {
+                "lectures": 3,
+                "tutorials": 1,
+                "labs": 4
+            },
+            "LOGIC IN COMPUTER SC": {
+                "lectures": 3,
+                "tutorials": 0,
+                "labs": 3
+            },
+            "DISCR STRUC FOR COMP SCI": {
+                "lectures": 3,
+                "tutorials": 0,
+                "labs": 3
+            }
+        },
+        "Year 3 Sem 1": {
+            "ORGANIC CHEMISTRY III": {
+                "lectures": 3,
+                "tutorials": 0,
+                "labs": 3
+            },
+            "PHYSICAL CHEMISTRY IV": {
+                "lectures": 3,
+                "tutorials": 0,
+                "labs": 3
+            },
+            "INSTRU METHODS OF ANAL": {
+                "lectures": 3,
+                "tutorials": 1,
+                "labs": 4
+            },
+            "PRINCIPLES OF PROGG LANG": {
+                "lectures": 2,
+                "tutorials": 0,
+                "labs": 2
+            },
+            "COMPUTER ARCHITECTURE": {
+                "lectures": 3,
+                "tutorials": 1,
+                "labs": 4
+            },
+            "THEORY OF COMPUTATION": {
+                "lectures": 3,
+                "tutorials": 0,
+                "labs": 3
+            },
+            "OPERATING SYSTEMS": {
+                "lectures": 3,
+                "tutorials": 0,
+                "labs": 3
+            }
+        },
+        "Year 4 Sem 1": {}
+    }
+}

@@ -1,3 +1,4 @@
+import os
 import random
 import json
 import pandas as pd
@@ -24,7 +25,12 @@ def load_course_data(filename):
 
 def is_valid_slot(slot, is_tutorial=False):
     """Check if the slot is valid for assignment (not 1 PM to 2 PM and not 8 AM for lectures/labs)."""
-    return slot != "1:00" and (slot != "8:00" or is_tutorial)
+    #if there is a tutorial i want it to assihn  to the 8 am slot only
+        
+    if is_tutorial:
+        return slot != "1:00"
+    else:
+        return slot != "1:00" and slot != "8:00"
 
 def is_valid_day_for_course(course, day, assigned_slots):
     """Check if a day is valid for assigning a new session for a course."""
@@ -36,7 +42,7 @@ def assign_session(course, session_type, count, series, assigned_slots):
         while True:
             day = random.choice([d for d in series if is_valid_day_for_course(course, d, assigned_slots)])
             valid_slots = [slot for slot in time_slots if not visited[day][slot] and is_valid_slot(slot, session_type == "Tut")]
-            if valid_slots :
+            if valid_slots:
                 slot = random.choice(valid_slots)
                 visited[day][slot] = True  # Mark the slot as visited
                 timetable[day][slot] = f"{course} {session_type}"
@@ -52,24 +58,12 @@ def assign_lab(course, labs, assigned_slots):
         for start_index in range(len(time_slots) - labs + 1):
             if all(is_valid_slot(time_slots[start_index + j]) and not visited[day][time_slots[start_index + j]] for j in range(labs)):
                 for j in range(labs):
-                    if visited[day][time_slots[start_index + j]] == False:
-                        timetable[day][time_slots[start_index + j]] = f"{course} Lab"
-                        visited[day][time_slots[start_index + j]] = True  # Mark as visited
+                    timetable[day][time_slots[start_index + j]] = f"{course} Lab"
+                    visited[day][time_slots[start_index + j]] = True  # Mark as visited
                 assigned_slots.append((day, time_slots[start_index]))  # Record the starting time slot
                 labs -= len(range(labs))  # Deduct the assigned labs
                 break
         attempts += 1
-
-    # If not all labs are assigned, attempt to find slots on alternate days
-    # while labs > 0:
-    #     day = random.choice(ordered_days)
-    #     valid_slots = [slot for slot in time_slots if is_valid_slot(slot) and not visited[day][slot]]
-    #     if valid_slots:
-    #         slot = random.choice(valid_slots)
-    #         timetable[day][slot] = f"{course} Lab"
-    #         visited[day][slot] = True  # Mark as visited
-    #         assigned_slots.append((day, slot))
-    #         labs -= 1  # Deduct assigned lab
 
 def assign_course_to_timetable(course, lectures, tutorials, lab_hours, lecture_series, tutorial_series):
     """Assign all sessions for a course to the timetable."""
@@ -108,36 +102,55 @@ def assign_course_to_timetable(course, lectures, tutorials, lab_hours, lecture_s
 
     return remaining_lectures, remaining_tutorials
 
-
-
 def assign_courses(courses):
     """Assign all courses to the timetable based on their series."""
     unassigned_courses = {}
 
     # Assign Mon-Wed-Fri and Tue-Thu courses
-    for course, load in courses.items():
+    half_courses = len(courses) // 2
+    course_list = list(courses.items())
+    mwf_courses = course_list[:half_courses]
+    tt_courses = course_list[half_courses:]
+
+    for course, load in mwf_courses:
         lectures_left, tutorials_left = assign_course_to_timetable(
             course, load['lectures'], load['tutorials'], load['labs'], days_mwf, days_tt
         )
 
         # Check if any unassigned sessions are left
+        if lectures_left > 0 or tutorials_left > 0 :
+            unassigned_courses[course] = {
+                'lectures': lectures_left,
+                'tutorials': tutorials_left,
+                
+            }
+            
+    for course, load in tt_courses:
+        #in days tt series add one of the mwf days randomly
+        days_tt.append(random.choice([d for d in days_mwf if is_valid_day_for_course(course, d, [])]))
+        lectures_left, tutorials_left = assign_course_to_timetable(
+            course, load['lectures'], load['tutorials'], load['labs'], days_tt, days_mwf
+        )
+        days_tt.pop()
+
+        # Check if any unassigned sessions are left
         if lectures_left > 0 or tutorials_left > 0:
             unassigned_courses[course] = {
                 'lectures': lectures_left,
-                'tutorials': tutorials_left
+                'tutorials': tutorials_left,
             }
 
     # Try to reassign unassigned sessions if needed
     reassign_unassigned_courses(unassigned_courses)
-
-
 
 def reassign_unassigned_courses(unassigned_courses):
     """Reassign any remaining unassigned sessions to available time slots."""
     for course, load in unassigned_courses.items():
         print(f"Reassigning remaining sessions for {course}...")
 
-        lectures_left, tutorials_left, labs_left = load['lectures'], load['tutorials'], load['labs']
+        lectures_left = load.get('lectures', 0)
+        tutorials_left = load.get('tutorials', 0)
+        labs_left = load.get('labs', 0)  # Use .get() to avoid KeyError
 
         # Try to reassign remaining lectures
         while lectures_left > 0:
@@ -166,7 +179,6 @@ def reassign_unassigned_courses(unassigned_courses):
         else:
             print(f"Could not reassign all sessions for {course}. Please check availability.")
 
-
 def generate_timetable(branch, course_data):
     """Generate the timetable for all semesters of a specific branch."""
     all_semester_data = {}
@@ -180,25 +192,52 @@ def generate_timetable(branch, course_data):
         visited = {day: {slot: False for slot in time_slots} for day in ordered_days}  # Reset visited matrix
 
         assign_courses(courses)
-        all_semester_data[semester] = timetable.copy()
+        
+        # Store each semester with branch information
+        if semester not in all_semester_data:
+            all_semester_data[semester] = {}
 
-    save_timetable_to_excel(all_semester_data)
+        # Combine multiple branches under the same semester
+        all_semester_data[semester][branch] = timetable.copy()
 
+    return all_semester_data
 
 def save_timetable_to_excel(all_semester_data):
-    """Save the combined timetable for all semesters into an Excel file."""
-    with pd.ExcelWriter("complete_timetableb2a72.xlsx", engine='xlsxwriter') as writer:
-        for semester, timetable in all_semester_data.items():
-            df = pd.DataFrame(timetable)
-            df.index.name = 'Day'
-            df.columns.name = 'Time Slot'
-            df.to_excel(writer, sheet_name=semester)
+    """Save the combined timetable for all branches into an Excel file, separated by semesters."""
+    with pd.ExcelWriter("combined_timetable.xlsx", engine='xlsxwriter') as writer:
+        for semester, branches in all_semester_data.items():
+            # Create a DataFrame for each semester, combining branches with an empty row separating them
+            combined_df = pd.DataFrame()
+
+            for branch, timetable in branches.items():
+                df = pd.DataFrame(timetable)
+                df.index.name = 'Day'
+                df.columns.name = 'Time Slot'
+                
+                # Add branch name as a header to separate data visually
+                branch_header = pd.DataFrame([[f"Branch: {branch}"]], columns=[None])
+                combined_df = pd.concat([combined_df, branch_header, df, pd.DataFrame([[]])])
+                    # Add an empty row after each branch's data
+            
+            # Write the combined data for the semester into the sheet
+            combined_df.to_excel(writer, sheet_name=f"Semester {semester}", index=True, header=True)
 
 def main():
     """Main function to start the program."""
-    course_data = load_course_data('B2A7.txt')
-    branch = 'B2A7'  # For computer science branch
-    generate_timetable(branch, course_data)
+    course_data = load_course_data('result.txt')
+    all_branch_data = {}
+
+    # Generate timetables for all branches and semesters
+    for branch in course_data:
+        branch_timetable = generate_timetable(branch, course_data)
+        
+        # Merge branch data into the overall semester structure
+        for semester, semester_data in branch_timetable.items():
+            if semester not in all_branch_data:
+                all_branch_data[semester] = {}
+            all_branch_data[semester].update(semester_data)
+
+    save_timetable_to_excel(all_branch_data)
 
 if __name__ == "__main__":
     main()

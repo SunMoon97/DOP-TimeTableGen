@@ -1,0 +1,406 @@
+{
+    "B1A7": {
+        "Year 1 Sem 1": {
+            "BIOLOGY LABORATORY": {
+                "lectures": 0,
+                "tutorials": 0,
+                "labs": 2
+            },
+            "GENERAL BIOLOGY": {
+                "lectures": 3,
+                "tutorials": 1,
+                "labs": 0
+            }
+        },
+        "Year 2 Sem 1": {
+            "BIOLOGICAL CHEMISTRY": {
+                "lectures": 3,
+                "tutorials": 1,
+                "labs": 0
+            },
+            "MICROBIOLOGY": {
+                "lectures": 3,
+                "tutorials": 0,
+                "labs": 1
+            },
+            "CELL BIOLOGY": {
+                "lectures": 3,
+                "tutorials": 1,
+                "labs": 0
+            },
+            "INTEGRATED BIOLOGY": {
+                "lectures": 3,
+                "tutorials": 1,
+                "labs": 0
+            },
+            "INTRODUCTION TO ENVIRONMENTAL STUDIES": {
+                "lectures": 3,
+                "tutorials": 1,
+                "labs": 0
+            },
+            "OBJECT ORIENTED PROGRAMMING": {
+                "lectures": 3,
+                "tutorials": 0,
+                "labs": 1
+            },
+            "LOGIC IN COMPUTER SC": {
+                "lectures": 3,
+                "tutorials": 1,
+                "labs": 0
+            },
+            "DISCR STRUC FOR COMP SCI": {
+                "lectures": 3,
+                "tutorials": 1,
+                "labs": 0
+            }
+        },
+        "Year 3 Sem 1": {
+            "RECOMBINANT DNA TECH": {
+                "lectures": 3,
+                "tutorials": 1,
+                "labs": 0
+            },
+            "PLANT PHYSIOLOGY": {
+                "lectures": 3,
+                "tutorials": 1,
+                "labs": 0
+            },
+            "ANIMAL PHYSIOLOGY": {
+                "lectures": 3,
+                "tutorials": 1,
+                "labs": 0
+            },
+            "PRINCIPLES OF PROGG LANG": {
+                "lectures": 2,
+                "tutorials": 1,
+                "labs": 0
+            },
+            "COMPUTER ARCHITECTURE": {
+                "lectures": 3,
+                "tutorials": 0,
+                "labs": 1
+            },
+            "THEORY OF COMPUTATION": {
+                "lectures": 3,
+                "tutorials": 1,
+                "labs": 0
+            },
+            "OPERATING SYSTEMS": {
+                "lectures": 3,
+                "tutorials": 1,
+                "labs": 0
+            }
+        },
+        "Year 4 Sem 1": {}
+    },
+    "B2A7": {
+        "Year 1 Sem 1": {
+            "CHEMISTRY LABORATORY": {
+                "lectures": 0,
+                "tutorials": 0,
+                "labs": 2
+            },
+            "GENERAL CHEMISTRY": {
+                "lectures": 3,
+                "tutorials": 1,
+                "labs": 0
+            }
+        },
+        "Year 2 Sem 1": {
+            "PHYSICAL CHEMISTRY I": {
+                "lectures": 3,
+                "tutorials": 1,
+                "labs": 0
+            },
+            "ORGANIC CHEMISTRY I": {
+                "lectures": 3,
+                "tutorials": 1,
+                "labs": 0
+            },
+            "PHYSICAL CHEMISTRY II": {
+                "lectures": 3,
+                "tutorials": 1,
+                "labs": 0
+            },
+            "INORGANIC CHEMISTRY I": {
+                "lectures": 3,
+                "tutorials": 1,
+                "labs": 0
+            },
+            "OBJECT ORIENTED PROGRAMMING": {
+                "lectures": 3,
+                "tutorials": 0,
+                "labs": 1
+            },
+            "LOGIC IN COMPUTER SC": {
+                "lectures": 3,
+                "tutorials": 1,
+                "labs": 0
+            },
+            "DISCR STRUC FOR COMP SCI": {
+                "lectures": 3,
+                "tutorials": 1,
+                "labs": 0
+            }
+        },
+        "Year 3 Sem 1": {
+            "ORGANIC CHEMISTRY III": {
+                "lectures": 3,
+                "tutorials": 1,
+                "labs": 0
+            },
+            "PHYSICAL CHEMISTRY IV": {
+                "lectures": 3,
+                "tutorials": 1,
+                "labs": 0
+            },
+            "INSTRU METHODS OF ANAL": {
+                "lectures": 3,
+                "tutorials": 0,
+                "labs": 1
+            },
+            "PRINCIPLES OF PROGG LANG": {
+                "lectures": 2,
+                "tutorials": 1,
+                "labs": 0
+            },
+            "COMPUTER ARCHITECTURE": {
+                "lectures": 3,
+                "tutorials": 0,
+                "labs": 1
+            },
+            "THEORY OF COMPUTATION": {
+                "lectures": 3,
+                "tutorials": 1,
+                "labs": 0
+            },
+            "OPERATING SYSTEMS": {
+                "lectures": 3,
+                "tutorials": 1,
+                "labs": 0
+            }
+        },
+        "Year 4 Sem 1": {}
+    },
+    "B3A7": {
+        "Year 1 Sem 1": {},
+        "Year 2 Sem 1": {
+            "OBJECT ORIENTED PROGRAMMING": {
+                "lectures": 3,
+                "tutorials": 0,
+                "labs": 1
+            },
+            "LOGIC IN COMPUTER SC": {
+                "lectures": 3,
+                "tutorials": 1,
+                "labs": 0
+            },
+            "DISCR STRUC FOR COMP SCI": {
+                "lectures": 3,
+                "tutorials": 1,
+                "labs": 0
+            }
+        },
+        "Year 3 Sem 1": {
+            "PRINCIPLES OF PROGG LANG": {
+                "lectures": 2,
+                "tutorials": 1,
+                "labs": 0
+            },
+            "COMPUTER ARCHITECTURE": {
+                "lectures": 3,
+                "tutorials": 0,
+                "labs": 1
+            },
+            "THEORY OF COMPUTATION": {
+                "lectures": 3,
+                "tutorials": 1,
+                "labs": 0
+            },
+            "OPERATING SYSTEMS": {
+                "lectures": 3,
+                "tutorials": 1,
+                "labs": 0
+            }
+        },
+        "Year 4 Sem 1": {}
+    },
+    "B4A7": {
+        "Year 1 Sem 1": {
+            "MATHEMATICS I": {
+                "lectures": 3,
+                "tutorials": 1,
+                "labs": 0
+            },
+            "PROBABILITY & STATISTICS": {
+                "lectures": 3,
+                "tutorials": 1,
+                "labs": 0
+            }
+        },
+        "Year 2 Sem 1": {
+            "OBJECT ORIENTED PROGRAMMING": {
+                "lectures": 3,
+                "tutorials": 0,
+                "labs": 1
+            },
+            "LOGIC IN COMPUTER SC": {
+                "lectures": 3,
+                "tutorials": 1,
+                "labs": 0
+            },
+            "DISCR STRUC FOR COMP SCI": {
+                "lectures": 3,
+                "tutorials": 1,
+                "labs": 0
+            },
+            "MATHEMATICS III": {
+                "lectures": 3,
+                "tutorials": 1,
+                "labs": 0
+            },
+            "OPTIMIZATION": {
+                "lectures": 3,
+                "tutorials": 1,
+                "labs": 0
+            },
+            "DISCREET MATHEMATICS": {
+                "lectures": 3,
+                "tutorials": 1,
+                "labs": 0
+            },
+            "ELEMENTARY REAL ANALYSIS": {
+                "lectures": 3,
+                "tutorials": 1,
+                "labs": 0
+            },
+            "ALGEBRA I": {
+                "lectures": 3,
+                "tutorials": 1,
+                "labs": 0
+            }
+        },
+        "Year 3 Sem 1": {
+            "PRINCIPLES OF PROGG LANG": {
+                "lectures": 2,
+                "tutorials": 1,
+                "labs": 0
+            },
+            "COMPUTER ARCHITECTURE": {
+                "lectures": 3,
+                "tutorials": 0,
+                "labs": 1
+            },
+            "THEORY OF COMPUTATION": {
+                "lectures": 3,
+                "tutorials": 1,
+                "labs": 0
+            },
+            "OPERATING SYSTEMS": {
+                "lectures": 3,
+                "tutorials": 1,
+                "labs": 0
+            },
+            "INTRODUCTION TO TOPOLOGY": {
+                "lectures": 3,
+                "tutorials": 1,
+                "labs": 0
+            },
+            "ORDINARY DIFFERENTIAL EQUATIONS": {
+                "lectures": 3,
+                "tutorials": 1,
+                "labs": 0
+            },
+            "NUMERICAL ANALYSIS": {
+                "lectures": 3,
+                "tutorials": 1,
+                "labs": 0
+            }
+        },
+        "Year 4 Sem 1": {}
+    },
+    "B5A7": {
+        "Year 1 Sem 1": {
+            "PHYSICS LABORATORY": {
+                "lectures": 0,
+                "tutorials": 0,
+                "labs": 2
+            },
+            "MECHANICS OSCILLATIONS &WAVES": {
+                "lectures": 3,
+                "tutorials": 1,
+                "labs": 0
+            }
+        },
+        "Year 2 Sem 1": {
+            "OBJECT ORIENTED PROGRAMMING": {
+                "lectures": 3,
+                "tutorials": 0,
+                "labs": 1
+            },
+            "LOGIC IN COMPUTER SC": {
+                "lectures": 3,
+                "tutorials": 1,
+                "labs": 0
+            },
+            "DISCR STRUC FOR COMP SCI": {
+                "lectures": 3,
+                "tutorials": 1,
+                "labs": 0
+            },
+            "CLASSICAL MECHANICS": {
+                "lectures": 3,
+                "tutorials": 0,
+                "labs": 1
+            },
+            "OPTICS": {
+                "lectures": 3,
+                "tutorials": 1,
+                "labs": 0
+            },
+            "ELEC, MAGNET & OPTICS LAB": {
+                "lectures": 0,
+                "tutorials": 0,
+                "labs": 2
+            }
+        },
+        "Year 3 Sem 1": {
+            "PRINCIPLES OF PROGG LANG": {
+                "lectures": 2,
+                "tutorials": 1,
+                "labs": 0
+            },
+            "COMPUTER ARCHITECTURE": {
+                "lectures": 3,
+                "tutorials": 0,
+                "labs": 1
+            },
+            "THEORY OF COMPUTATION": {
+                "lectures": 3,
+                "tutorials": 1,
+                "labs": 0
+            },
+            "OPERATING SYSTEMS": {
+                "lectures": 3,
+                "tutorials": 1,
+                "labs": 0
+            },
+            "QUANTUM MECHANICS II": {
+                "lectures": 3,
+                "tutorials": 1,
+                "labs": 0
+            },
+            "STATISTICAL MECHANICS": {
+                "lectures": 3,
+                "tutorials": 1,
+                "labs": 0
+            },
+            "COMPUTATIONAL PHYSICS": {
+                "lectures": 3,
+                "tutorials": 1,
+                "labs": 0
+            }
+        },
+        "Year 4 Sem 1": {}
+    }
+}

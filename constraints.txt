@@ -1,0 +1,40 @@
+Here are all the constraints based on your requirements for the timetable generation system:
+
+### General Constraints
+1. **No Overlapping Sessions**: No two sessions (lectures, tutorials, or labs) for any course can be scheduled in the same time slot.
+2. **Avoid 1 PM to 2 PM Slot**: No session (lecture, tutorial, or lab) should be assigned to the 1 PM to 2 PM time slot.
+3. **No 8 AM Slot for Lectures and Labs**:
+   - Lectures and labs should not be scheduled at 8 AM.
+   - Tutorials, however, can be scheduled at 8 AM.
+
+### Lecture Constraints
+4. **Lecture Series Separation**:
+   - Half of the courses should follow the Mon-Wed-Fri series.
+   - The other half should follow the Tue-Thu series.
+5. **Consistent Lecture Timing Within Series**: The time slot assigned for a lecture on one day (e.g., Monday) should be the same for the other days in the series (e.g., Wednesday and Friday).
+6. **No Consecutive Lecture and Tutorial**: A course’s tutorial and lecture should not be scheduled back-to-back.
+
+### Tutorial Constraints
+7. **Prefer 8 AM Slot for Tutorials**: Tutorials should be scheduled at 8 AM wherever possible. If that slot is unavailable, other slots can be used, but they should not conflict with other sessions for the same course.
+8. **First Hour Preference for Tutorials**: Tutorials should be scheduled in the first available hour if possible.
+
+### Lab Constraints
+9. **Single Lab per Day**: No more than one lab should be scheduled per day for any course.
+10. **Multi-Hour Labs**: Multi-hour labs (e.g., a 2-hour or 3-hour lab) must be scheduled as continuous time blocks. The system should ensure that these blocks are available before assigning the lab.
+11. **Avoid 8 AM for Labs**: Labs should not start at 8 AM.
+12. **No Lecture and Lab for the Same Course on the Same Day**: A course should not have both a lecture and a lab scheduled on the same day.
+
+### Assignment Constraints
+13. **Spread of Courses**: Courses must be spread evenly between the Mon-Wed-Fri and Tue-Thu series.
+14. **Random Assignment of Remaining Slots**: If specific timings are not provided for a session, the system should randomly assign it within the constraints mentioned above.
+15. **Avoid Randomizing Too Many Courses on the Same Day**: Ensure that courses within the same series (Mon-Wed-Fri or Tue-Thu) do not get clustered excessively on the same day.
+16.  divides lectures equally between the Monday (Mon-Wed-Fri) and Tuesday (Tue-Thu) series, while ensuring that the lab for a course is placed on the alternate series.
+
+
+
+These constraints are designed to create a balanced and conflict-free timetable. Let me know if there are any other constraints you want to add or if further adjustments are needed!
+
+After generating the timetable for a branch, save the course assignments in an extra sheet, storing the course name, session type (lecture, tutorial, lab), and the assigned day and time.
+When generating the timetable for a new branch, check this extra sheet to see if a course has already been assigned. If the course is found, use the same day and time for that course. If not, proceed with the usual logic to assign a time slot and update the extra sheet with the new assignment.
+Update the extra sheet with new course assignments after each branch is processed.
+

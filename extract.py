@@ -2,7 +2,7 @@ import pandas as pd
 import json
 
 # Load the entire Excel file
-file_path = r"C:\Users\mundh\Documents\DOP-timetable-generator\Copy of Data_for_Time_Table_software_-27_july_20(1).xlsx"
+file_path = r"/Users/adi-2310/College/CS DOP/DOP-TimeTableGen/Copy of Data_for_Time_Table_software_-27_july_20(1).xlsx"
 
 # Load specific sheets
 sheet1 = pd.read_excel(file_path, sheet_name="5CDCS of sem I")

@@ -7,10 +7,11 @@ file_path = r"/Users/adi-2310/College/CS DOP/DOP-TimeTableGen/Copy of Data_for_T
 # Load specific sheets
 sheet1 = pd.read_excel(file_path, sheet_name="5CDCS of sem I")
 sheet2 = pd.read_excel(file_path, sheet_name="2.course load")
-sheet3 = pd.read_excel(file_path, sheet_name="1.Time Table")  # Sheet containing 'SEC' column for number of sections
+# Load sheet3 to get 'coursename' and 'SEC' columns for section counts
+sheet3 = pd.read_excel(file_path, sheet_name='1.Time Table')
 
-# Debug: Check columns in sheet3
-print("Columns in sheet3:", sheet3.columns.tolist())
+# Get the maximum number of sections for each course from 'SEC' column in sheet3
+max_sections_per_course = sheet3.groupby('COURSETITLE')['SEC'].max().to_dict()
 
 # Define branch codes and their corresponding names
 branches = {
@@ -21,7 +22,8 @@ branches = {
     "MATH": "B4",
     "PHY": "B5"
 }
-branches["CHE"] = "A1"  # General courses marked under A1
+
+branches["CHE"] = "A1"  # Using "GEN" for general courses marked under A1
 
 # Special cases for A7 and A1
 cs_branch = "CS"
@@ -29,7 +31,7 @@ cs_code = "A7"
 che_branch = "CHE"
 che_code = "A1"
 
-# Create combined branch names like B1A7, B2A7, etc., and standalone A7 and A1
+# Create combined branch names like B1A7, B2A7, B1A1, B2A1, etc., and standalone A7 and A1
 combined_branches = {
     f"{value}{cs_code}": (value, cs_code) for value in branches.values() if value not in {cs_code, che_code}
 }
@@ -51,16 +53,14 @@ years = sheet1_filtered['Year']
 
 # Create a mapping of course codes to years and branches
 course_to_year_branch = {
-    row['SEM 1']: (row['Year'], branches.get(row['branch'], cs_code))
+    row['SEM 1']: (row['Year'], branches.get(row['branch'], cs_code),
+                   max_sections_per_course.get(row['coursename'], 1)  # Include max sections
+                   )
     for _, row in sheet1_filtered.iterrows()
 }
 
 # Filter rows in the second sheet where course codes match
 matching_courses = sheet2[sheet2['courseno'].isin(course_codes)]
-
-# Calculate the maximum number of sections for each course from sheet3
-# Ensure that 'courseno' and 'SEC' match the actual names in sheet3
-max_sections = sheet3.groupby('courseno')['SEC'].max().to_dict()  # Group by 'courseno' to find max SEC values
 
 # Debug: Print if no matching courses found
 if matching_courses.empty:
@@ -69,13 +69,8 @@ else:
     print("Matching Courses (first 5 rows):")
     print(matching_courses.head())
 
-# Create a dictionary to store the final JSON structure for combined branches like B1A7, B2A7, etc.
-result = {
-    combined_branch: {
-        f"Year {year} Sem 1": {} for year in range(1, 5)
-    }
-    for combined_branch in combined_branches.keys()
-}
+# Prepare the result dictionary to be converted to JSON
+result = {}
 
 # Function to map LPU values to structured format
 def parse_lpu(lpu):
@@ -107,13 +102,11 @@ for _, row in matching_courses.iterrows():
     course_code = row['courseno']
     lpu = row['LPU']
     course_name = row['coursetitle']  # Use 'coursetitle' as the course name
-    max_sec = max_sections.get(course_code, 1)  # Get maximum sections for this course
 
-    # Get the year and base branch code from the course_to_year_branch dictionary
-    year_branch = course_to_year_branch.get(course_code, (1, "B2"))  # Default to Year 1, Branch B2 if not found
-    year, base_branch_code = year_branch
+    # Get the year, base branch code, and max number of sections
+    year, base_branch_code, num_sections = course_to_year_branch.get(course_code, (1, "B2", 1))
 
-    # Find the corresponding combined branch code (e.g., B1A7 , B2A7, B1A1, B2A1, etc.)
+    # Find the corresponding combined branch code (e.g., B1A7, B2A7, B1A1, B2A1, etc.)
     for combined_branch, (base_code, target_code) in combined_branches.items():
         if base_branch_code == base_code or base_branch_code == target_code:
             # Adjust the year if it's a combined branch with A7 or A1
@@ -125,23 +118,23 @@ for _, row in matching_courses.iterrows():
             # Create the key with the adjusted year
             key = f"Year {adjusted_year} Sem 1"
             
-            # Debug: Check if the key is in the result dictionary
-            if key in result[combined_branch]:
-                print(f"Adding course {course_name} to {combined_branch}, {key} with LPU: {lpu}")
-                
-                # Populate result dictionary with course data, including number of sections
-                result[combined_branch][key][course_name] = {
-                    **parse_lpu(lpu),  # Add LPU structure
-                    "number_of_sections": max_sec  # Include the max number of sections
-                }
-            else:
-                print(f"Key {key} not found in result dictionary for branch {combined_branch}.")
-   
+            # Initialize branch and year structure in result if not present
+            if combined_branch not in result:
+                result[combined_branch] = {}
+            if key not in result[combined_branch]:
+                result[combined_branch][key] = {}
+
+            # Add course details with number of sections
+            result[combined_branch][key][course_name] = {
+                **parse_lpu(lpu),
+                "number of sections": num_sections
+            }
+
 # Convert the result to JSON format
 result_json = json.dumps(result, indent=4)
 
-# Save the result to a file or print it
-with open('result.txt', 'w') as json_file:
-    json_file.write(result_json)
+# Write the result to a JSON file
+with open('result1.txt', 'w') as f:
+    json.dump(result, f, indent=4)
 
 print(result_json)

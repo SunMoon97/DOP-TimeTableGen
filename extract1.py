@@ -1,5 +1,6 @@
 import pandas as pd
 import json
+import random
 
 # Load the entire Excel file
 file_path = r"/Users/adi-2310/College/CS DOP/DOP-TimeTableGen/Copy of Data_for_Time_Table_software_-27_july_20(1).xlsx"
@@ -7,7 +8,7 @@ file_path = r"/Users/adi-2310/College/CS DOP/DOP-TimeTableGen/Copy of Data_for_T
 # Load specific sheets
 sheet1 = pd.read_excel(file_path, sheet_name="5CDCS of sem I")
 sheet2 = pd.read_excel(file_path, sheet_name="2.course load")
-# Load sheet3 to get 'coursename' and 'SEC' columns for section counts
+# Load sheet3 to get 'COURSETITLE' and 'SEC' columns for section counts
 sheet3 = pd.read_excel(file_path, sheet_name='1.Time Table')
 
 # Get the maximum number of sections for each course from 'SEC' column in sheet3
@@ -124,10 +125,14 @@ for _, row in matching_courses.iterrows():
             if key not in result[combined_branch]:
                 result[combined_branch][key] = {}
 
-            # Add course details with number of sections
+            # Generate a random "number of sections parallel" that is less than "number of sections"
+            number_of_sections_parallel = random.randint(1, max(1, num_sections - 1))
+
+            # Add course details with number of sections and number of sections parallel
             result[combined_branch][key][course_name] = {
                 **parse_lpu(lpu),
-                "number of sections": num_sections
+                "number of sections": num_sections,
+                "number of sections parallel": number_of_sections_parallel
             }
 
 # Convert the result to JSON format

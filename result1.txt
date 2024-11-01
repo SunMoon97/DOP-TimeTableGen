@@ -5,13 +5,15 @@
                 "lectures": 0,
                 "tutorials": 0,
                 "labs": 2,
-                "number of sections": 15
+                "number of sections": 15,
+                "number of sections parallel": 6
             },
             "GENERAL BIOLOGY": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 11
+                "number of sections": 11,
+                "number of sections parallel": 7
             }
         },
         "Year 2 Sem 1": {
@@ -19,31 +21,36 @@
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "MICROBIOLOGY": {
                 "lectures": 3,
                 "tutorials": 0,
                 "labs": 1,
-                "number of sections": 2
+                "number of sections": 2,
+                "number of sections parallel": 1
             },
             "CELL BIOLOGY": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "INTEGRATED BIOLOGY": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "INTRODUCTION TO ENVIRONMENTAL STUDIES": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             }
         },
         "Year 3 Sem 1": {
@@ -51,37 +58,43 @@
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "PLANT PHYSIOLOGY": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "ANIMAL PHYSIOLOGY": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "OBJECT ORIENTED PROGRAMMING": {
                 "lectures": 3,
                 "tutorials": 0,
                 "labs": 1,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "LOGIC IN COMPUTER SC": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "DISCR STRUC FOR COMP SCI": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             }
         },
         "Year 5 Sem 1": {
@@ -89,19 +102,22 @@
                 "lectures": 3,
                 "tutorials": 0,
                 "labs": 2,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "ENVIRONMENTAL BIOTECH & WASTE MANAGEMENT": {
                 "lectures": 3,
                 "tutorials": 0,
                 "labs": 2,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "ADVANCED CELL MOLE BIO": {
                 "lectures": 0,
                 "tutorials": 0,
                 "labs": 5,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             }
         },
         "Year 6 Sem 1": {
@@ -109,25 +125,29 @@
                 "lectures": 3,
                 "tutorials": 0,
                 "labs": 2,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "ADVANCED COMPUTER NETWORKS": {
                 "lectures": 3,
                 "tutorials": 0,
                 "labs": 2,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "ADVANCED ALGORITHMS AND COMPLEXITY": {
                 "lectures": 3,
                 "tutorials": 0,
                 "labs": 2,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "ADVANCED OPERATING SYSTEMS": {
                 "lectures": 3,
                 "tutorials": 0,
                 "labs": 2,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             }
         },
         "Year 4 Sem 1": {
@@ -135,25 +155,29 @@
                 "lectures": 2,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "COMPUTER ARCHITECTURE": {
                 "lectures": 3,
                 "tutorials": 0,
                 "labs": 1,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "THEORY OF COMPUTATION": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "OPERATING SYSTEMS": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             }
         }
     },
@@ -163,13 +187,15 @@
                 "lectures": 0,
                 "tutorials": 0,
                 "labs": 2,
-                "number of sections": 15
+                "number of sections": 15,
+                "number of sections parallel": 8
             },
             "GENERAL BIOLOGY": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 11
+                "number of sections": 11,
+                "number of sections parallel": 10
             }
         },
         "Year 2 Sem 1": {
@@ -177,31 +203,36 @@
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "MICROBIOLOGY": {
                 "lectures": 3,
                 "tutorials": 0,
                 "labs": 1,
-                "number of sections": 2
+                "number of sections": 2,
+                "number of sections parallel": 1
             },
             "CELL BIOLOGY": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "INTEGRATED BIOLOGY": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "INTRODUCTION TO ENVIRONMENTAL STUDIES": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             }
         },
         "Year 3 Sem 1": {
@@ -209,43 +240,50 @@
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "PLANT PHYSIOLOGY": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "ANIMAL PHYSIOLOGY": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "CHEMICAL PROCESS CALCULA": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "FLUID MECHANICS": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "CHEM ENGG THERMODYNAMICS": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "ENGG CHEMISTRY": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             }
         },
         "Year 5 Sem 1": {
@@ -253,19 +291,22 @@
                 "lectures": 3,
                 "tutorials": 0,
                 "labs": 2,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "ENVIRONMENTAL BIOTECH & WASTE MANAGEMENT": {
                 "lectures": 3,
                 "tutorials": 0,
                 "labs": 2,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "ADVANCED CELL MOLE BIO": {
                 "lectures": 0,
                 "tutorials": 0,
                 "labs": 5,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             }
         },
         "Year 6 Sem 1": {
@@ -273,19 +314,22 @@
                 "lectures": 3,
                 "tutorials": 0,
                 "labs": 2,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "MATHEMATICAL METHODS IN CHEMICAL ENGINEERING": {
                 "lectures": 3,
                 "tutorials": 0,
                 "labs": 2,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "ADVANCED CHEMICAL ENGINEERING THERMODYNAMICS": {
                 "lectures": 3,
                 "tutorials": 0,
                 "labs": 2,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             }
         },
         "Year 4 Sem 1": {
@@ -293,25 +337,29 @@
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "CHEMICAL ENGINEERING LABORATORY I": {
                 "lectures": 0,
                 "tutorials": 0,
                 "labs": 3,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "SEPARATION PROCESSES II": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "PROCESS DESIGN PRINCIPLES I": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             }
         }
     },
@@ -321,43 +369,50 @@
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "FLUID MECHANICS": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "CHEM ENGG THERMODYNAMICS": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "ENGG CHEMISTRY": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "ORGANIC CHEMISTRY III": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "PHYSICAL CHEMISTRY IV": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "INSTRU METHODS OF ANAL": {
                 "lectures": 3,
                 "tutorials": 0,
                 "labs": 1,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             }
         },
         "Year 4 Sem 1": {
@@ -365,25 +420,29 @@
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "CHEMICAL ENGINEERING LABORATORY I": {
                 "lectures": 0,
                 "tutorials": 0,
                 "labs": 3,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "SEPARATION PROCESSES II": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "PROCESS DESIGN PRINCIPLES I": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             }
         },
         "Year 6 Sem 1": {
@@ -391,13 +450,15 @@
                 "lectures": 3,
                 "tutorials": 0,
                 "labs": 2,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "ADVANCED CHEMICAL ENGINEERING THERMODYNAMICS": {
                 "lectures": 3,
                 "tutorials": 0,
                 "labs": 2,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             }
         },
         "Year 1 Sem 1": {
@@ -405,13 +466,15 @@
                 "lectures": 0,
                 "tutorials": 0,
                 "labs": 2,
-                "number of sections": 12
+                "number of sections": 12,
+                "number of sections parallel": 1
             },
             "GENERAL CHEMISTRY": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 11
+                "number of sections": 11,
+                "number of sections parallel": 7
             }
         },
         "Year 2 Sem 1": {
@@ -419,25 +482,29 @@
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "ORGANIC CHEMISTRY I": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "PHYSICAL CHEMISTRY II": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "INORGANIC CHEMISTRY I": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             }
         }
     },
@@ -447,43 +514,50 @@
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "FLUID MECHANICS": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "CHEM ENGG THERMODYNAMICS": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "ENGG CHEMISTRY": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "INTERNATIONAL ECONOMICS": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "MONEY BANK & FIN MARKETS": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "ISSUES IN ECONOMIC DEVELOPMENT": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             }
         },
         "Year 4 Sem 1": {
@@ -491,25 +565,29 @@
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "CHEMICAL ENGINEERING LABORATORY I": {
                 "lectures": 0,
                 "tutorials": 0,
                 "labs": 3,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "SEPARATION PROCESSES II": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "PROCESS DESIGN PRINCIPLES I": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             }
         },
         "Year 6 Sem 1": {
@@ -517,13 +595,15 @@
                 "lectures": 3,
                 "tutorials": 0,
                 "labs": 2,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "ADVANCED CHEMICAL ENGINEERING THERMODYNAMICS": {
                 "lectures": 3,
                 "tutorials": 0,
                 "labs": 2,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             }
         },
         "Year 2 Sem 1": {
@@ -531,25 +611,29 @@
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "FUNDA OF FIN AND ACCOUNT": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "MATHEMATIC & STAT METHOD": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "ECONOMIC ENV OF BUSINESSS": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             }
         }
     },
@@ -559,43 +643,50 @@
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "FLUID MECHANICS": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "CHEM ENGG THERMODYNAMICS": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "ENGG CHEMISTRY": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "INTRODUCTION TO TOPOLOGY": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "ORDINARY DIFFERENTIAL EQUATIONS": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "NUMERICAL ANALYSIS": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             }
         },
         "Year 4 Sem 1": {
@@ -603,25 +694,29 @@
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "CHEMICAL ENGINEERING LABORATORY I": {
                 "lectures": 0,
                 "tutorials": 0,
                 "labs": 3,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "SEPARATION PROCESSES II": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "PROCESS DESIGN PRINCIPLES I": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             }
         },
         "Year 6 Sem 1": {
@@ -629,13 +724,15 @@
                 "lectures": 3,
                 "tutorials": 0,
                 "labs": 2,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "ADVANCED CHEMICAL ENGINEERING THERMODYNAMICS": {
                 "lectures": 3,
                 "tutorials": 0,
                 "labs": 2,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             }
         },
         "Year 1 Sem 1": {
@@ -643,13 +740,15 @@
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 14
+                "number of sections": 14,
+                "number of sections parallel": 13
             },
             "PROBABILITY & STATISTICS": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 8
+                "number of sections": 8,
+                "number of sections parallel": 7
             }
         },
         "Year 2 Sem 1": {
@@ -657,31 +756,36 @@
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 12
+                "number of sections": 12,
+                "number of sections parallel": 9
             },
             "OPTIMIZATION": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "DISCREET MATHEMATICS": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "ELEMENTARY REAL ANALYSIS": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "ALGEBRA I": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             }
         }
     },
@@ -691,43 +795,50 @@
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "FLUID MECHANICS": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "CHEM ENGG THERMODYNAMICS": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "ENGG CHEMISTRY": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "QUANTUM MECHANICS II": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "STATISTICAL MECHANICS": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "COMPUTATIONAL PHYSICS": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             }
         },
         "Year 4 Sem 1": {
@@ -735,25 +846,29 @@
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "CHEMICAL ENGINEERING LABORATORY I": {
                 "lectures": 0,
                 "tutorials": 0,
                 "labs": 3,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "SEPARATION PROCESSES II": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "PROCESS DESIGN PRINCIPLES I": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             }
         },
         "Year 6 Sem 1": {
@@ -761,13 +876,15 @@
                 "lectures": 3,
                 "tutorials": 0,
                 "labs": 2,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "ADVANCED CHEMICAL ENGINEERING THERMODYNAMICS": {
                 "lectures": 3,
                 "tutorials": 0,
                 "labs": 2,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             }
         },
         "Year 1 Sem 1": {
@@ -775,13 +892,15 @@
                 "lectures": 0,
                 "tutorials": 0,
                 "labs": 2,
-                "number of sections": 13
+                "number of sections": 13,
+                "number of sections parallel": 11
             },
             "MECHANICS OSCILLATIONS &WAVES": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             }
         },
         "Year 2 Sem 1": {
@@ -789,19 +908,22 @@
                 "lectures": 3,
                 "tutorials": 0,
                 "labs": 1,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "OPTICS": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "ELEC, MAGNET & OPTICS LAB": {
                 "lectures": 0,
                 "tutorials": 0,
                 "labs": 2,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             }
         }
     },
@@ -811,25 +933,29 @@
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "FLUID MECHANICS": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "CHEM ENGG THERMODYNAMICS": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "ENGG CHEMISTRY": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             }
         },
         "Year 3 Sem 1": {
@@ -837,25 +963,29 @@
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "CHEMICAL ENGINEERING LABORATORY I": {
                 "lectures": 0,
                 "tutorials": 0,
                 "labs": 3,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "SEPARATION PROCESSES II": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "PROCESS DESIGN PRINCIPLES I": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             }
         },
         "Year 5 Sem 1": {
@@ -863,13 +993,15 @@
                 "lectures": 3,
                 "tutorials": 0,
                 "labs": 2,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "ADVANCED CHEMICAL ENGINEERING THERMODYNAMICS": {
                 "lectures": 3,
                 "tutorials": 0,
                 "labs": 2,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             }
         }
     },
@@ -879,13 +1011,15 @@
                 "lectures": 0,
                 "tutorials": 0,
                 "labs": 2,
-                "number of sections": 12
+                "number of sections": 12,
+                "number of sections parallel": 10
             },
             "GENERAL CHEMISTRY": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 11
+                "number of sections": 11,
+                "number of sections parallel": 7
             }
         },
         "Year 2 Sem 1": {
@@ -893,25 +1027,29 @@
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "ORGANIC CHEMISTRY I": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "PHYSICAL CHEMISTRY II": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "INORGANIC CHEMISTRY I": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             }
         },
         "Year 3 Sem 1": {
@@ -919,37 +1057,43 @@
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "PHYSICAL CHEMISTRY IV": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "INSTRU METHODS OF ANAL": {
                 "lectures": 3,
                 "tutorials": 0,
                 "labs": 1,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "OBJECT ORIENTED PROGRAMMING": {
                 "lectures": 3,
                 "tutorials": 0,
                 "labs": 1,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "LOGIC IN COMPUTER SC": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "DISCR STRUC FOR COMP SCI": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             }
         },
         "Year 4 Sem 1": {
@@ -957,25 +1101,29 @@
                 "lectures": 2,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "COMPUTER ARCHITECTURE": {
                 "lectures": 3,
                 "tutorials": 0,
                 "labs": 1,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "THEORY OF COMPUTATION": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "OPERATING SYSTEMS": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             }
         },
         "Year 6 Sem 1": {
@@ -983,19 +1131,22 @@
                 "lectures": 3,
                 "tutorials": 0,
                 "labs": 2,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "ADVANCED ALGORITHMS AND COMPLEXITY": {
                 "lectures": 3,
                 "tutorials": 0,
                 "labs": 2,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "ADVANCED OPERATING SYSTEMS": {
                 "lectures": 3,
                 "tutorials": 0,
                 "labs": 2,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             }
         }
     },
@@ -1005,37 +1156,43 @@
                 "lectures": 3,
                 "tutorials": 0,
                 "labs": 1,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "LOGIC IN COMPUTER SC": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "DISCR STRUC FOR COMP SCI": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "INTERNATIONAL ECONOMICS": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "MONEY BANK & FIN MARKETS": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "ISSUES IN ECONOMIC DEVELOPMENT": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             }
         },
         "Year 4 Sem 1": {
@@ -1043,25 +1200,29 @@
                 "lectures": 2,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "COMPUTER ARCHITECTURE": {
                 "lectures": 3,
                 "tutorials": 0,
                 "labs": 1,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "THEORY OF COMPUTATION": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "OPERATING SYSTEMS": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             }
         },
         "Year 6 Sem 1": {
@@ -1069,19 +1230,22 @@
                 "lectures": 3,
                 "tutorials": 0,
                 "labs": 2,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "ADVANCED ALGORITHMS AND COMPLEXITY": {
                 "lectures": 3,
                 "tutorials": 0,
                 "labs": 2,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "ADVANCED OPERATING SYSTEMS": {
                 "lectures": 3,
                 "tutorials": 0,
                 "labs": 2,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             }
         },
         "Year 2 Sem 1": {
@@ -1089,25 +1253,29 @@
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "FUNDA OF FIN AND ACCOUNT": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "MATHEMATIC & STAT METHOD": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "ECONOMIC ENV OF BUSINESSS": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             }
         }
     },
@@ -1117,37 +1285,43 @@
                 "lectures": 3,
                 "tutorials": 0,
                 "labs": 1,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "LOGIC IN COMPUTER SC": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "DISCR STRUC FOR COMP SCI": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "INTRODUCTION TO TOPOLOGY": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "ORDINARY DIFFERENTIAL EQUATIONS": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "NUMERICAL ANALYSIS": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             }
         },
         "Year 4 Sem 1": {
@@ -1155,25 +1329,29 @@
                 "lectures": 2,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "COMPUTER ARCHITECTURE": {
                 "lectures": 3,
                 "tutorials": 0,
                 "labs": 1,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "THEORY OF COMPUTATION": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "OPERATING SYSTEMS": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             }
         },
         "Year 6 Sem 1": {
@@ -1181,19 +1359,22 @@
                 "lectures": 3,
                 "tutorials": 0,
                 "labs": 2,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "ADVANCED ALGORITHMS AND COMPLEXITY": {
                 "lectures": 3,
                 "tutorials": 0,
                 "labs": 2,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "ADVANCED OPERATING SYSTEMS": {
                 "lectures": 3,
                 "tutorials": 0,
                 "labs": 2,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             }
         },
         "Year 1 Sem 1": {
@@ -1201,13 +1382,15 @@
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 14
+                "number of sections": 14,
+                "number of sections parallel": 9
             },
             "PROBABILITY & STATISTICS": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 8
+                "number of sections": 8,
+                "number of sections parallel": 5
             }
         },
         "Year 2 Sem 1": {
@@ -1215,31 +1398,36 @@
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 12
+                "number of sections": 12,
+                "number of sections parallel": 10
             },
             "OPTIMIZATION": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "DISCREET MATHEMATICS": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "ELEMENTARY REAL ANALYSIS": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "ALGEBRA I": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             }
         }
     },
@@ -1249,37 +1437,43 @@
                 "lectures": 3,
                 "tutorials": 0,
                 "labs": 1,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "LOGIC IN COMPUTER SC": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "DISCR STRUC FOR COMP SCI": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "QUANTUM MECHANICS II": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "STATISTICAL MECHANICS": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "COMPUTATIONAL PHYSICS": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             }
         },
         "Year 4 Sem 1": {
@@ -1287,25 +1481,29 @@
                 "lectures": 2,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "COMPUTER ARCHITECTURE": {
                 "lectures": 3,
                 "tutorials": 0,
                 "labs": 1,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "THEORY OF COMPUTATION": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "OPERATING SYSTEMS": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             }
         },
         "Year 6 Sem 1": {
@@ -1313,19 +1511,22 @@
                 "lectures": 3,
                 "tutorials": 0,
                 "labs": 2,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "ADVANCED ALGORITHMS AND COMPLEXITY": {
                 "lectures": 3,
                 "tutorials": 0,
                 "labs": 2,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "ADVANCED OPERATING SYSTEMS": {
                 "lectures": 3,
                 "tutorials": 0,
                 "labs": 2,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             }
         },
         "Year 1 Sem 1": {
@@ -1333,13 +1534,15 @@
                 "lectures": 0,
                 "tutorials": 0,
                 "labs": 2,
-                "number of sections": 13
+                "number of sections": 13,
+                "number of sections parallel": 1
             },
             "MECHANICS OSCILLATIONS &WAVES": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             }
         },
         "Year 2 Sem 1": {
@@ -1347,19 +1550,22 @@
                 "lectures": 3,
                 "tutorials": 0,
                 "labs": 1,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "OPTICS": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "ELEC, MAGNET & OPTICS LAB": {
                 "lectures": 0,
                 "tutorials": 0,
                 "labs": 2,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             }
         }
     },
@@ -1369,19 +1575,22 @@
                 "lectures": 3,
                 "tutorials": 0,
                 "labs": 1,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "LOGIC IN COMPUTER SC": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "DISCR STRUC FOR COMP SCI": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             }
         },
         "Year 3 Sem 1": {
@@ -1389,25 +1598,29 @@
                 "lectures": 2,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "COMPUTER ARCHITECTURE": {
                 "lectures": 3,
                 "tutorials": 0,
                 "labs": 1,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "THEORY OF COMPUTATION": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "OPERATING SYSTEMS": {
                 "lectures": 3,
                 "tutorials": 1,
                 "labs": 0,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             }
         },
         "Year 5 Sem 1": {
@@ -1415,19 +1628,22 @@
                 "lectures": 3,
                 "tutorials": 0,
                 "labs": 2,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "ADVANCED ALGORITHMS AND COMPLEXITY": {
                 "lectures": 3,
                 "tutorials": 0,
                 "labs": 2,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             },
             "ADVANCED OPERATING SYSTEMS": {
                 "lectures": 3,
                 "tutorials": 0,
                 "labs": 2,
-                "number of sections": 1
+                "number of sections": 1,
+                "number of sections parallel": 1
             }
         }
     }

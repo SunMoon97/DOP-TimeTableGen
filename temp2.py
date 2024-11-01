@@ -90,13 +90,13 @@ def assign_course_to_timetable(course, lectures, tutorials, lab_hours, lecture_s
             timetable[day][slot] = f"{course} {session_type}"
             visited[day][slot] = True
             assigned_slots.append((day, slot))
-
     # Assign remaining lectures
     for day in lecture_series:
         if remaining_lectures == 0:
             print("No more lectures for " + course)
             break
-        valid_slots = [slot for slot in time_slots_without_8am if not visited[day][slot] and is_valid_slot(slot)]
+        available_slots=["9:00", "10:00", "4:00", "5:00"] if day in days_mwf else ["11:00", "12:00", "2:00", "3:00"]
+        valid_slots = [slot for slot in available_slots if not visited[day][slot] and is_valid_slot(slot)]
         if valid_slots:
             lecture_time = random.choice(valid_slots)
             visited[day][lecture_time] = True  # Mark as visited

@@ -38,3 +38,7 @@ After generating the timetable for a branch, save the course assignments in an e
 When generating the timetable for a new branch, check this extra sheet to see if a course has already been assigned. If the course is found, use the same day and time for that course. If not, proceed with the usual logic to assign a time slot and update the extra sheet with the new assignment.
 Update the extra sheet with new course assignments after each branch is processed.
 
+or this code the valid slots for lectures for branches starting with A should be (9,10,4,5,2) for both mwf series and tt series 
+for branxhes starting with B should be (11,12,3) for both mwf and tt series 
+
+these are only for lectures the rest remiaing lectues ,tuts and labs should follow the same logic as given in surrect code 

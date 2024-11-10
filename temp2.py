@@ -37,52 +37,57 @@ def is_valid_day_for_course(course, day, assigned_slots):
     """Check if a day is valid for assigning a new session for a course."""
     return all(assigned_day != day for assigned_day, _ in assigned_slots)
 
+import random
+
+# Global variables and initializations
+timetable = {}  # Your timetable dictionary
+visited = {}  # Tracks visited slots
+all_course_assignments = {}  # Tracks assigned slots for each course
+ordered_days = ["Mon", "Tue", "Wed", "Thu", "Fri"]
+days_mwf = ["Mon", "Wed", "Fri"]
+days_tt = ["Tue", "Thu"]
+time_slots = ["8:00", "9:00", "10:00", "11:00", "12:00", "2:00", "3:00", "4:00", "5:00"]
+
 def assign_session(course, session_type, count, series, assigned_slots):
-    """Assign a session (lecture, tutorial, or lab) to the timetable."""
+    """Assigns sessions like lectures, tutorials, or labs to the timetable."""
     for _ in range(count):
         while True:
             day = random.choice([d for d in series if is_valid_day_for_course(course, d, assigned_slots)])
             valid_slots = [slot for slot in time_slots if not visited[day][slot] and is_valid_slot(slot, session_type == "Tut")]
             if valid_slots:
-                slot = random.choice(valid_slots)
+                slot = '8:00' if session_type == "Tut" else random.choice(valid_slots)
                 visited[day][slot] = True  # Mark the slot as visited
                 timetable[day][slot] = f"{course} {session_type}"
                 assigned_slots.append((day, slot))
-                # Add to all_course_assignments
                 all_course_assignments.setdefault(course, []).append((day, slot, session_type))
                 break
 
 def assign_lab(course, labs, assigned_slots):
-    """Assign lab sessions for a course."""
+    """Assigns lab sessions for a course."""
     attempts = 0
     while attempts < 10 and labs > 0:
         day = random.choice(ordered_days)
-        # Check for a continuous block of slots for labs
         for start_index in range(len(time_slots) - labs + 1):
             if all(is_valid_slot(time_slots[start_index + j]) and not visited[day][time_slots[start_index + j]] for j in range(labs)):
                 for j in range(labs):
                     timetable[day][time_slots[start_index + j]] = f"{course} Lab"
-                    visited[day][time_slots[start_index + j]] = True  # Mark as visited
-                    # Add to all_course_assignments
+                    visited[day][time_slots[start_index + j]] = True
                     all_course_assignments.setdefault(course, []).append((day, time_slots[start_index + j], "Lab"))
-                assigned_slots.append((day, time_slots[start_index]))  # Record the starting time slot
-                labs -= len(range(labs))  # Deduct the assigned labs
+                assigned_slots.append((day, time_slots[start_index]))
+                labs -= len(range(labs))
                 break
         attempts += 1
 
 def assign_course_to_timetable(course, lectures, tutorials, lab_hours, lecture_series, tutorial_series):
-    """Assign all sessions for a course to the timetable."""
+    """Assigns all sessions for a course to the timetable."""
     assigned_slots = []
     remaining_lectures = lectures
     remaining_tutorials = tutorials
 
-    # Check if course is already assigned
     if course in all_course_assignments:
         for day, slot, session_type in all_course_assignments[course]:
-            if session_type == "Lecture" and remaining_lectures!=0:
-                print(f"{course} already assigned on {day} at {slot}")
+            if session_type == "Lecture" and remaining_lectures != 0:
                 remaining_lectures -= 1
-                print(f"Remaining lectures: {remaining_lectures}")
             elif session_type == "Tut":
                 remaining_tutorials -= 1
             elif session_type == "Lab":
@@ -90,82 +95,109 @@ def assign_course_to_timetable(course, lectures, tutorials, lab_hours, lecture_s
             timetable[day][slot] = f"{course} {session_type}"
             visited[day][slot] = True
             assigned_slots.append((day, slot))
-    # Assign remaining lectures
+
     for day in lecture_series:
         if remaining_lectures == 0:
-            print("No more lectures for " + course)
             break
-        available_slots=["9:00", "10:00", "4:00", "5:00"] if day in days_mwf else ["11:00", "12:00", "2:00", "3:00"]
+        available_slots = ["9:00", "10:00", "4:00", "5:00"] if day in days_mwf else ["11:00", "12:00", "2:00", "3:00"]
         valid_slots = [slot for slot in available_slots if not visited[day][slot] and is_valid_slot(slot)]
         if valid_slots:
             lecture_time = random.choice(valid_slots)
-            visited[day][lecture_time] = True  # Mark as visited
+            visited[day][lecture_time] = True
             timetable[day][lecture_time] = f"{course} Lecture"
             assigned_slots.append((day, lecture_time))
             all_course_assignments.setdefault(course, []).append((day, lecture_time, "Lecture"))
-            remaining_lectures -= 1  # Decrement lecture counter
+            remaining_lectures -= 1
 
-            # Assign the same lecture slot to corresponding series days
             for series_day in lecture_series[1:]:
                 if is_valid_day_for_course(course, series_day, assigned_slots) and not visited[series_day][lecture_time]:
                     timetable[series_day][lecture_time] = f"{course} Lecture"
-                    visited[series_day][lecture_time] = True  # Mark as visited
+                    visited[series_day][lecture_time] = True
                     assigned_slots.append((series_day, lecture_time))
                     all_course_assignments.setdefault(course, []).append((series_day, lecture_time, "Lecture"))
-                    remaining_lectures -= 1  # Decrement lecture counter
+                    remaining_lectures -= 1
 
-    # Assign remaining tutorials
     while remaining_tutorials > 0:
-        assign_session(course, "Tut", 1, tutorial_series, assigned_slots)  # Assign one tutorial at a time
-        remaining_tutorials -= 1  # Decrement tutorial counter
+        assign_session(course, "Tut", 1, tutorial_series, assigned_slots)
+        remaining_tutorials -= 1
 
-    # Assign lab (labs are only one per course, with varying hours)
     if lab_hours > 0:
         assign_lab(course, lab_hours, assigned_slots)
 
     return remaining_lectures, remaining_tutorials
 
 def assign_courses(courses):
-    """Assign all courses to the timetable based on their series."""
+    """Assigns all courses to the timetable according to series constraints."""
     unassigned_courses = {}
-
-    # Assign Mon-Wed-Fri and Tue-Thu courses
     half_courses = len(courses) // 2
     course_list = list(courses.items())
     mwf_courses = course_list[:half_courses]
     tt_courses = course_list[half_courses:]
 
+    def generate_component_name(course, component, index):
+        return f"{course}_{component}_{index}"
+
+    # Assign MWF courses
     for course, load in mwf_courses:
-        lectures_left, tutorials_left = assign_course_to_timetable(
-            course, load['lectures'], load['tutorials'], load['labs'], days_mwf, days_tt
-        )
+        # Assign lectures
+        lecture_sections = load['Sections'].get('lectures', 0)
+        for i in range(1, lecture_sections + 1):
+            course_variant = generate_component_name(course, "Lecture", i)
+            lectures_left, _ = assign_course_to_timetable(
+                course_variant, load['LPU']['lectures'], 0, 0, days_mwf, days_tt
+            )
+            if lectures_left > 0:
+                unassigned_courses[course_variant] = {'lectures': lectures_left}
 
-        # Check if any unassigned sessions are left
-        if lectures_left > 0 or tutorials_left > 0:
-            unassigned_courses[course] = {
-                'lectures': lectures_left,
-                'tutorials': tutorials_left,
-            }
-            
+        # Assign tutorials
+        tutorial_sections = load['Sections'].get('tutorials', 0)
+        for i in range(1, tutorial_sections + 1):
+            course_variant = generate_component_name(course, "Tutorial", i)
+            _, tutorials_left = assign_course_to_timetable(
+                course_variant, 0, load['LPU']['tutorials'], 0, days_mwf, days_tt
+            )
+            if tutorials_left > 0:
+                unassigned_courses[course_variant] = {'tutorials': tutorials_left}
+
+        # Assign labs
+        lab_sections = load['Sections'].get('labs', 0)
+        for i in range(1, lab_sections + 1):
+            course_variant = generate_component_name(course, "Lab", i)
+            _, _ = assign_course_to_timetable(
+                course_variant, 0, 0, load['LPU']['lab_hours'], days_mwf, days_tt
+            )
+
+    # Assign TT courses
     for course, load in tt_courses:
-        # Temporarily add a random MWF day to TT series for better distribution
-        random_mwf_day = random.choice(days_mwf)
-        days_tt.append(random_mwf_day)
-        
-        lectures_left, tutorials_left = assign_course_to_timetable(
-            course, load['lectures'], load['tutorials'], load['labs'], days_tt, days_mwf
-        )
-        
-        days_tt.remove(random_mwf_day)
+        # Assign lectures
+        lecture_sections = load['Sections'].get('lectures', 0)
+        for i in range(1, lecture_sections + 1):
+            course_variant = generate_component_name(course, "Lecture", i)
+            lectures_left, _ = assign_course_to_timetable(
+                course_variant, load['LPU']['lectures'], 0, 0, days_tt, days_mwf
+            )
+            if lectures_left > 0:
+                unassigned_courses[course_variant] = {'lectures': lectures_left}
 
-        # Check if any unassigned sessions are left
-        if lectures_left > 0 or tutorials_left > 0:
-            unassigned_courses[course] = {
-                'lectures': lectures_left,
-                'tutorials': tutorials_left,
-            }
+        # Assign tutorials
+        tutorial_sections = load['Sections'].get('tutorials', 0)
+        for i in range(1, tutorial_sections + 1):
+            course_variant = generate_component_name(course, "Tutorial", i)
+            _, tutorials_left = assign_course_to_timetable(
+                course_variant, 0, load['LPU']['tutorials'], 0, days_tt, days_mwf
+            )
+            if tutorials_left > 0:
+                unassigned_courses[course_variant] = {'tutorials': tutorials_left}
 
-    # Try to reassign unassigned sessions if needed
+        # Assign labs
+        lab_sections = load['Sections'].get('labs', 0)
+        for i in range(1, lab_sections + 1):
+            course_variant = generate_component_name(course, "Lab", i)
+            _, _ = assign_course_to_timetable(
+                course_variant, 0, 0, load['LPU']['lab_hours'], days_tt, days_mwf
+            )
+
+    # Attempt to reassign any unassigned components
     reassign_unassigned_courses(unassigned_courses)
 
 def reassign_unassigned_courses(unassigned_courses):
@@ -206,23 +238,45 @@ def reassign_unassigned_courses(unassigned_courses):
 def generate_timetable(branch, course_data):
     """Generate the timetable for all semesters of a specific branch."""
     all_semester_data = {}
+    
+    if branch[0]=='A':
+        for semester, courses in course_data[branch].items():
+            # print(courses,semester)
 
-    for semester, courses in course_data[branch].items():
-        print(f"\nAssigning courses for {branch} - {semester}...")
-        global timetable
-        timetable = {day: {slot: None for slot in time_slots} for day in ordered_days}
+            print(f"\nAssigning courses for {branch} - {semester}...")
+            global timetable
+            timetable = {day: {slot: None for slot in time_slots} for day in ordered_days}
+            
+            global visited
+            visited = {day: {slot: False for slot in time_slots} for day in ordered_days}  # Reset visited matrix
+
+            assign_courses(courses)
+            
+            # Store each semester with branch information
+            if semester not in all_semester_data:
+                all_semester_data[semester] = {}    
+
+            # Combine multiple branches under the same semester
+            all_semester_data[semester][branch] = timetable.copy()
+            
         
-        global visited
-        visited = {day: {slot: False for slot in time_slots} for day in ordered_days}  # Reset visited matrix
+    else:
+        for semester, courses in course_data[branch].items():
+            print(f"\nAssigning courses for {branch} - {semester}...")
+            
+            timetable = {day: {slot: None for slot in time_slots} for day in ordered_days}
+            
+            
+            visited = {day: {slot: False for slot in time_slots} for day in ordered_days}  # Reset visited matrix
 
-        assign_courses(courses)
-        
-        # Store each semester with branch information
-        if semester not in all_semester_data:
-            all_semester_data[semester] = {}
+            assign_courses(courses)
+            
+            # Store each semester with branch information
+            if semester not in all_semester_data:
+                all_semester_data[semester] = {}
 
-        # Combine multiple branches under the same semester
-        all_semester_data[semester][branch] = timetable.copy()
+            # Combine multiple branches under the same semester
+            all_semester_data[semester][branch] = timetable.copy()
 
     return all_semester_data
 

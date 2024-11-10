@@ -42,3 +42,14 @@ or this code the valid slots for lectures for branches starting with A should be
 for branxhes starting with B should be (11,12,3) for both mwf and tt series 
 
 these are only for lectures the rest remiaing lectues ,tuts and labs should follow the same logic as given in surrect code 
+
+
+in my this code i want each course to be presented as <coursename>< section no> like this for every section for only songle degree branches like branches starting with A
+example 
+course OOPS in A7 branch
+it has section 3
+so there will be 3 sets of OOPS assignemnts OOPS(1) OOPS(2) OOPS(3) along with their course components 
+
+but when it A7 is combined with B1 etc like B1A7 etc then only one set like OOPS(1) should be assigned to it 
+
+can you please implment this

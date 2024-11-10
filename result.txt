@@ -2,218 +2,449 @@
     "B1A7": {
         "Year 1 Sem 1": {
             "BIOLOGY LABORATORY": {
-                "lectures": 0,
-                "tutorials": 0,
-                "labs": 2,
-                "number_of_sections": 15
+                "LPU": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 2,
+                    "lab_hours": 2
+                },
+                "Sections": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 15
+                }
             },
             "GENERAL BIOLOGY": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 2
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 11,
+                    "tutorials": 11,
+                    "labs": 0
+                }
             }
         },
         "Year 2 Sem 1": {
             "BIOLOGICAL CHEMISTRY": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "MICROBIOLOGY": {
-                "lectures": 3,
-                "tutorials": 0,
-                "labs": 1,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 0,
+                    "labs": 1,
+                    "lab_hours": 3
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 0,
+                    "labs": 2
+                }
             },
             "CELL BIOLOGY": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "INTEGRATED BIOLOGY": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "INTRODUCTION TO ENVIRONMENTAL STUDIES": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 4
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 0,
+                    "labs": 0
+                }
             }
         },
         "Year 3 Sem 1": {
             "RECOMBINANT DNA TECH": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "PLANT PHYSIOLOGY": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "ANIMAL PHYSIOLOGY": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "OBJECT ORIENTED PROGRAMMING": {
-                "lectures": 3,
-                "tutorials": 0,
-                "labs": 1,
-                "number_of_sections": 3
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 0,
+                    "labs": 1,
+                    "lab_hours": 2
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 0,
+                    "labs": 1
+                }
             },
             "LOGIC IN COMPUTER SC": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 5
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "DISCR STRUC FOR COMP SCI": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             }
         },
         "Year 4 Sem 1": {
             "PRINCIPLES OF PROGG LANG": {
-                "lectures": 2,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 2,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "COMPUTER ARCHITECTURE": {
-                "lectures": 3,
-                "tutorials": 0,
-                "labs": 1,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 0,
+                    "labs": 1,
+                    "lab_hours": 2
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 0,
+                    "labs": 1
+                }
             },
             "THEORY OF COMPUTATION": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "OPERATING SYSTEMS": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             }
         }
     },
     "B2A7": {
         "Year 1 Sem 1": {
             "CHEMISTRY LABORATORY": {
-                "lectures": 0,
-                "tutorials": 0,
-                "labs": 2,
-                "number_of_sections": 4
+                "LPU": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 2,
+                    "lab_hours": 2
+                },
+                "Sections": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 12
+                }
             },
             "GENERAL CHEMISTRY": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 5
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 11,
+                    "tutorials": 11,
+                    "labs": 0
+                }
             }
         },
         "Year 2 Sem 1": {
             "PHYSICAL CHEMISTRY I": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 4
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "ORGANIC CHEMISTRY I": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 5
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "PHYSICAL CHEMISTRY II": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 6
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "INORGANIC CHEMISTRY I": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 7
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             }
         },
         "Year 3 Sem 1": {
             "ORGANIC CHEMISTRY III": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 8
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "PHYSICAL CHEMISTRY IV": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "INSTRU METHODS OF ANAL": {
-                "lectures": 3,
-                "tutorials": 0,
-                "labs": 1,
-                "number_of_sections": 6
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 0,
+                    "labs": 1,
+                    "lab_hours": 3
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 0,
+                    "labs": 1
+                }
             },
             "OBJECT ORIENTED PROGRAMMING": {
-                "lectures": 3,
-                "tutorials": 0,
-                "labs": 1,
-                "number_of_sections": 3
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 0,
+                    "labs": 1,
+                    "lab_hours": 2
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 0,
+                    "labs": 1
+                }
             },
             "LOGIC IN COMPUTER SC": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 5
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "DISCR STRUC FOR COMP SCI": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             }
         },
         "Year 4 Sem 1": {
             "PRINCIPLES OF PROGG LANG": {
-                "lectures": 2,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 2,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "COMPUTER ARCHITECTURE": {
-                "lectures": 3,
-                "tutorials": 0,
-                "labs": 1,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 0,
+                    "labs": 1,
+                    "lab_hours": 2
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 0,
+                    "labs": 1
+                }
             },
             "THEORY OF COMPUTATION": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "OPERATING SYSTEMS": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             }
         }
     },
@@ -221,534 +452,1101 @@
         "Year 1 Sem 1": {},
         "Year 2 Sem 1": {
             "PRINCIPLES OF ECONOMICS": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "FUNDA OF FIN AND ACCOUNT": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "MATHEMATIC & STAT METHOD": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 2
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "ECONOMIC ENV OF BUSINESSS": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 2
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             }
         },
         "Year 3 Sem 1": {
             "OBJECT ORIENTED PROGRAMMING": {
-                "lectures": 3,
-                "tutorials": 0,
-                "labs": 1,
-                "number_of_sections": 3
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 0,
+                    "labs": 1,
+                    "lab_hours": 2
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 0,
+                    "labs": 1
+                }
             },
             "LOGIC IN COMPUTER SC": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 5
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "DISCR STRUC FOR COMP SCI": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "INTERNATIONAL ECONOMICS": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 4
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "MONEY BANK & FIN MARKETS": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "ISSUES IN ECONOMIC DEVELOPMENT": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 2
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             }
         },
         "Year 4 Sem 1": {
             "PRINCIPLES OF PROGG LANG": {
-                "lectures": 2,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 2,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "COMPUTER ARCHITECTURE": {
-                "lectures": 3,
-                "tutorials": 0,
-                "labs": 1,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 0,
+                    "labs": 1,
+                    "lab_hours": 2
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 0,
+                    "labs": 1
+                }
             },
             "THEORY OF COMPUTATION": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "OPERATING SYSTEMS": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             }
         }
     },
     "B4A7": {
         "Year 1 Sem 1": {
             "MATHEMATICS I": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 14,
+                    "tutorials": 14,
+                    "labs": 0
+                }
             },
             "PROBABILITY & STATISTICS": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 3
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 8,
+                    "tutorials": 8,
+                    "labs": 0
+                }
             }
         },
         "Year 2 Sem 1": {
             "MATHEMATICS III": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 5
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 12,
+                    "tutorials": 12,
+                    "labs": 0
+                }
             },
             "OPTIMIZATION": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 5
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "DISCREET MATHEMATICS": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 5
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "ELEMENTARY REAL ANALYSIS": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 6
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "ALGEBRA I": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 6
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             }
         },
         "Year 3 Sem 1": {
             "OBJECT ORIENTED PROGRAMMING": {
-                "lectures": 3,
-                "tutorials": 0,
-                "labs": 1,
-                "number_of_sections": 3
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 0,
+                    "labs": 1,
+                    "lab_hours": 2
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 0,
+                    "labs": 1
+                }
             },
             "LOGIC IN COMPUTER SC": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 5
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "DISCR STRUC FOR COMP SCI": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "INTRODUCTION TO TOPOLOGY": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 7
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "ORDINARY DIFFERENTIAL EQUATIONS": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 8
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "NUMERICAL ANALYSIS": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 8
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             }
         },
         "Year 4 Sem 1": {
             "PRINCIPLES OF PROGG LANG": {
-                "lectures": 2,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 2,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "COMPUTER ARCHITECTURE": {
-                "lectures": 3,
-                "tutorials": 0,
-                "labs": 1,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 0,
+                    "labs": 1,
+                    "lab_hours": 2
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 0,
+                    "labs": 1
+                }
             },
             "THEORY OF COMPUTATION": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "OPERATING SYSTEMS": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             }
         }
     },
     "B5A7": {
         "Year 1 Sem 1": {
             "PHYSICS LABORATORY": {
-                "lectures": 0,
-                "tutorials": 0,
-                "labs": 2,
-                "number_of_sections": 14
+                "LPU": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 2,
+                    "lab_hours": 2
+                },
+                "Sections": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 13
+                }
             },
             "MECHANICS OSCILLATIONS &WAVES": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 7
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 8,
+                    "tutorials": 8,
+                    "labs": 0
+                }
             }
         },
         "Year 2 Sem 1": {
             "CLASSICAL MECHANICS": {
-                "lectures": 3,
-                "tutorials": 0,
-                "labs": 1,
-                "number_of_sections": 7
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 0,
+                    "labs": 1,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "OPTICS": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 8
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "ELEC, MAGNET & OPTICS LAB": {
-                "lectures": 0,
-                "tutorials": 0,
-                "labs": 2,
-                "number_of_sections": 8
+                "LPU": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 2,
+                    "lab_hours": 3
+                },
+                "Sections": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 2
+                }
             }
         },
         "Year 3 Sem 1": {
             "OBJECT ORIENTED PROGRAMMING": {
-                "lectures": 3,
-                "tutorials": 0,
-                "labs": 1,
-                "number_of_sections": 3
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 0,
+                    "labs": 1,
+                    "lab_hours": 2
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 0,
+                    "labs": 1
+                }
             },
             "LOGIC IN COMPUTER SC": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 5
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "DISCR STRUC FOR COMP SCI": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "QUANTUM MECHANICS II": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 4
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "STATISTICAL MECHANICS": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 5
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "COMPUTATIONAL PHYSICS": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 5
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             }
         },
         "Year 4 Sem 1": {
             "PRINCIPLES OF PROGG LANG": {
-                "lectures": 2,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 2,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "COMPUTER ARCHITECTURE": {
-                "lectures": 3,
-                "tutorials": 0,
-                "labs": 1,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 0,
+                    "labs": 1,
+                    "lab_hours": 2
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 0,
+                    "labs": 1
+                }
             },
             "THEORY OF COMPUTATION": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "OPERATING SYSTEMS": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             }
         }
     },
     "B1A1": {
         "Year 1 Sem 1": {
             "BIOLOGY LABORATORY": {
-                "lectures": 0,
-                "tutorials": 0,
-                "labs": 2,
-                "number_of_sections": 15
+                "LPU": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 2,
+                    "lab_hours": 2
+                },
+                "Sections": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 15
+                }
             },
             "GENERAL BIOLOGY": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 2
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 11,
+                    "tutorials": 11,
+                    "labs": 0
+                }
             }
         },
         "Year 2 Sem 1": {
             "BIOLOGICAL CHEMISTRY": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "MICROBIOLOGY": {
-                "lectures": 3,
-                "tutorials": 0,
-                "labs": 1,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 0,
+                    "labs": 1,
+                    "lab_hours": 3
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 0,
+                    "labs": 2
+                }
             },
             "CELL BIOLOGY": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "INTEGRATED BIOLOGY": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "INTRODUCTION TO ENVIRONMENTAL STUDIES": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 4
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 0,
+                    "labs": 0
+                }
             }
         },
         "Year 3 Sem 1": {
             "RECOMBINANT DNA TECH": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "PLANT PHYSIOLOGY": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "ANIMAL PHYSIOLOGY": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "CHEMICAL PROCESS CALCULA": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "FLUID MECHANICS": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "CHEM ENGG THERMODYNAMICS": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "ENGG CHEMISTRY": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             }
         },
         "Year 4 Sem 1": {
             "KINETICS & REACTOR DESIGN": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "CHEMICAL ENGINEERING LABORATORY I": {
-                "lectures": 0,
-                "tutorials": 0,
-                "labs": 3,
-                "number_of_sections": 6
+                "LPU": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 3,
+                    "lab_hours": 3
+                },
+                "Sections": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 1
+                }
             },
             "SEPARATION PROCESSES II": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 6
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "PROCESS DESIGN PRINCIPLES I": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             }
         }
     },
     "B2A1": {
         "Year 1 Sem 1": {
             "CHEMISTRY LABORATORY": {
-                "lectures": 0,
-                "tutorials": 0,
-                "labs": 2,
-                "number_of_sections": 4
+                "LPU": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 2,
+                    "lab_hours": 2
+                },
+                "Sections": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 12
+                }
             },
             "GENERAL CHEMISTRY": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 5
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 11,
+                    "tutorials": 11,
+                    "labs": 0
+                }
             }
         },
         "Year 2 Sem 1": {
             "PHYSICAL CHEMISTRY I": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 4
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "ORGANIC CHEMISTRY I": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 5
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "PHYSICAL CHEMISTRY II": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 6
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "INORGANIC CHEMISTRY I": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 7
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             }
         },
         "Year 3 Sem 1": {
             "CHEMICAL PROCESS CALCULA": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "FLUID MECHANICS": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "CHEM ENGG THERMODYNAMICS": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "ENGG CHEMISTRY": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "ORGANIC CHEMISTRY III": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 8
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "PHYSICAL CHEMISTRY IV": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "INSTRU METHODS OF ANAL": {
-                "lectures": 3,
-                "tutorials": 0,
-                "labs": 1,
-                "number_of_sections": 6
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 0,
+                    "labs": 1,
+                    "lab_hours": 3
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 0,
+                    "labs": 1
+                }
             }
         },
         "Year 4 Sem 1": {
             "KINETICS & REACTOR DESIGN": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "CHEMICAL ENGINEERING LABORATORY I": {
-                "lectures": 0,
-                "tutorials": 0,
-                "labs": 3,
-                "number_of_sections": 6
+                "LPU": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 3,
+                    "lab_hours": 3
+                },
+                "Sections": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 1
+                }
             },
             "SEPARATION PROCESSES II": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 6
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "PROCESS DESIGN PRINCIPLES I": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             }
         }
     },
@@ -756,322 +1554,665 @@
         "Year 1 Sem 1": {},
         "Year 2 Sem 1": {
             "PRINCIPLES OF ECONOMICS": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "FUNDA OF FIN AND ACCOUNT": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "MATHEMATIC & STAT METHOD": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 2
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "ECONOMIC ENV OF BUSINESSS": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 2
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             }
         },
         "Year 3 Sem 1": {
             "CHEMICAL PROCESS CALCULA": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "FLUID MECHANICS": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "CHEM ENGG THERMODYNAMICS": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "ENGG CHEMISTRY": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "INTERNATIONAL ECONOMICS": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 4
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "MONEY BANK & FIN MARKETS": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "ISSUES IN ECONOMIC DEVELOPMENT": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 2
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             }
         },
         "Year 4 Sem 1": {
             "KINETICS & REACTOR DESIGN": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "CHEMICAL ENGINEERING LABORATORY I": {
-                "lectures": 0,
-                "tutorials": 0,
-                "labs": 3,
-                "number_of_sections": 6
+                "LPU": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 3,
+                    "lab_hours": 3
+                },
+                "Sections": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 1
+                }
             },
             "SEPARATION PROCESSES II": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 6
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "PROCESS DESIGN PRINCIPLES I": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             }
         }
     },
     "B4A1": {
         "Year 1 Sem 1": {
             "MATHEMATICS I": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 14,
+                    "tutorials": 14,
+                    "labs": 0
+                }
             },
             "PROBABILITY & STATISTICS": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 3
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 8,
+                    "tutorials": 8,
+                    "labs": 0
+                }
             }
         },
         "Year 2 Sem 1": {
             "MATHEMATICS III": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 5
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 12,
+                    "tutorials": 12,
+                    "labs": 0
+                }
             },
             "OPTIMIZATION": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 5
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "DISCREET MATHEMATICS": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 5
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "ELEMENTARY REAL ANALYSIS": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 6
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "ALGEBRA I": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 6
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             }
         },
         "Year 3 Sem 1": {
             "CHEMICAL PROCESS CALCULA": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "FLUID MECHANICS": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "CHEM ENGG THERMODYNAMICS": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "ENGG CHEMISTRY": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "INTRODUCTION TO TOPOLOGY": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 7
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "ORDINARY DIFFERENTIAL EQUATIONS": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 8
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "NUMERICAL ANALYSIS": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 8
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             }
         },
         "Year 4 Sem 1": {
             "KINETICS & REACTOR DESIGN": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "CHEMICAL ENGINEERING LABORATORY I": {
-                "lectures": 0,
-                "tutorials": 0,
-                "labs": 3,
-                "number_of_sections": 6
+                "LPU": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 3,
+                    "lab_hours": 3
+                },
+                "Sections": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 1
+                }
             },
             "SEPARATION PROCESSES II": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 6
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "PROCESS DESIGN PRINCIPLES I": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             }
         }
     },
     "B5A1": {
         "Year 1 Sem 1": {
             "PHYSICS LABORATORY": {
-                "lectures": 0,
-                "tutorials": 0,
-                "labs": 2,
-                "number_of_sections": 14
+                "LPU": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 2,
+                    "lab_hours": 2
+                },
+                "Sections": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 13
+                }
             },
             "MECHANICS OSCILLATIONS &WAVES": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 7
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 8,
+                    "tutorials": 8,
+                    "labs": 0
+                }
             }
         },
         "Year 2 Sem 1": {
             "CLASSICAL MECHANICS": {
-                "lectures": 3,
-                "tutorials": 0,
-                "labs": 1,
-                "number_of_sections": 7
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 0,
+                    "labs": 1,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "OPTICS": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 8
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "ELEC, MAGNET & OPTICS LAB": {
-                "lectures": 0,
-                "tutorials": 0,
-                "labs": 2,
-                "number_of_sections": 8
+                "LPU": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 2,
+                    "lab_hours": 3
+                },
+                "Sections": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 2
+                }
             }
         },
         "Year 3 Sem 1": {
             "CHEMICAL PROCESS CALCULA": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "FLUID MECHANICS": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "CHEM ENGG THERMODYNAMICS": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "ENGG CHEMISTRY": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "QUANTUM MECHANICS II": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 4
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "STATISTICAL MECHANICS": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 5
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "COMPUTATIONAL PHYSICS": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 5
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             }
         },
         "Year 4 Sem 1": {
             "KINETICS & REACTOR DESIGN": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "CHEMICAL ENGINEERING LABORATORY I": {
-                "lectures": 0,
-                "tutorials": 0,
-                "labs": 3,
-                "number_of_sections": 6
+                "LPU": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 3,
+                    "lab_hours": 3
+                },
+                "Sections": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 1
+                }
             },
             "SEPARATION PROCESSES II": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 6
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "PROCESS DESIGN PRINCIPLES I": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             }
         }
     },
@@ -1079,48 +2220,97 @@
         "Year 1 Sem 1": {},
         "Year 2 Sem 1": {
             "OBJECT ORIENTED PROGRAMMING": {
-                "lectures": 3,
-                "tutorials": 0,
-                "labs": 1,
-                "number_of_sections": 3
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 0,
+                    "labs": 1,
+                    "lab_hours": 2
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 0,
+                    "labs": 1
+                }
             },
             "LOGIC IN COMPUTER SC": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 5
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "DISCR STRUC FOR COMP SCI": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             }
         },
         "Year 3 Sem 1": {
             "PRINCIPLES OF PROGG LANG": {
-                "lectures": 2,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 2,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "COMPUTER ARCHITECTURE": {
-                "lectures": 3,
-                "tutorials": 0,
-                "labs": 1,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 0,
+                    "labs": 1,
+                    "lab_hours": 2
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 0,
+                    "labs": 1
+                }
             },
             "THEORY OF COMPUTATION": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "OPERATING SYSTEMS": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             }
         },
         "Year 4 Sem 1": {}
@@ -1129,54 +2319,110 @@
         "Year 1 Sem 1": {},
         "Year 2 Sem 1": {
             "CHEMICAL PROCESS CALCULA": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "FLUID MECHANICS": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "CHEM ENGG THERMODYNAMICS": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "ENGG CHEMISTRY": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             }
         },
         "Year 3 Sem 1": {
             "KINETICS & REACTOR DESIGN": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "CHEMICAL ENGINEERING LABORATORY I": {
-                "lectures": 0,
-                "tutorials": 0,
-                "labs": 3,
-                "number_of_sections": 6
+                "LPU": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 3,
+                    "lab_hours": 3
+                },
+                "Sections": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 1
+                }
             },
             "SEPARATION PROCESSES II": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 6
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             },
             "PROCESS DESIGN PRINCIPLES I": {
-                "lectures": 3,
-                "tutorials": 1,
-                "labs": 0,
-                "number_of_sections": 1
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                }
             }
         },
         "Year 4 Sem 1": {}

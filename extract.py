@@ -180,6 +180,8 @@ for _, row in matching_courses.iterrows():
                     "LPU": lpu_data,
                     "Sections": sections
                 }
+                
+                
 
 import numpy as np
 

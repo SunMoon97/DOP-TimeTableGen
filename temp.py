@@ -37,18 +37,24 @@ def is_valid_day_for_course(course, day, assigned_slots):
     """Check if a day is valid for assigning a new session for a course."""
     return all(assigned_day != day for assigned_day, _ in assigned_slots)
 
+
 def not_present_here(day,slot,course):
     """Check if the course is already assigned in the same day and slot."""
     #extract all courses in the day
-    
+    if not course[-1].isdigit() and timetable[day][slot].count(course) > 0:
+            return False
     for all_slots in timetable[day]:
         for c in all_slots:
             if c[0:10] == course[0:10]:
                 return False
             
     for c in timetable[day][slot]:
-        #end charcter of c
+    # if the section of the c course of component same as course and the number of section is 1 then return false
+        
         end = c[-1]
+        # Check if the last character 'end' is not a digit
+        if not end.isdigit():
+            return False
         with open('course_info.txt','w') as f:
             f.write(f"End character of course {c}: {end}\n")
             f.write(f"Last character of course {course}: {course[-1]}\n")
@@ -149,7 +155,7 @@ def assign_course_to_timetable(course, lectures, tutorials, lab_hours, lecture_s
 
     return remaining_lectures, remaining_tutorials
 
-# def assign_courses(courses):
+#  def assign_courses(courses):
     """Assign all courses to the timetable based on their series."""
     unassigned_courses = {}
 
@@ -210,6 +216,8 @@ def assign_courses(courses):
         lecture_sections = load['Sections'].get('lectures', 0)
         for i in range(1, lecture_sections + 1):
             course_variant = generate_component_name(course, "Lecture", i)
+            if lecture_sections == 1:
+                course_variant = course
             lectures_left, _ = assign_course_to_timetable(
                 course_variant, load['LPU']['lectures'], 0, 0, days_mwf, days_tt
             )
@@ -240,8 +248,12 @@ def assign_courses(courses):
         days_tt.append(random_mwf_day)
         # Assign lectures
         lecture_sections = load['Sections'].get('lectures', 0)
+        
+
         for i in range(1, lecture_sections + 1):
             course_variant = generate_component_name(course, "Lecture", i)
+            if lecture_sections == 1:
+                course_variant = course
             lectures_left, _ = assign_course_to_timetable(
                 course_variant, load['LPU']['lectures'], 0, 0, days_tt, days_mwf
             )

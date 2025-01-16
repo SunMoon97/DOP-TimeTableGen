@@ -30,6 +30,9 @@ che_branch = "CHE"
 che_code = "A1"
 
 # Create combined branch names like B1A7, B2A7, B1A1, B2A1, etc.
+# Ensure the order: A7, A1, then BXA7, then BXA1
+
+# Initialize an ordered list for combined branches
 combined_branches_ordered = []
 
 # Add standalone A7 and A1 first
@@ -55,8 +58,8 @@ combined_branches[che_code] = (che_branch, che_code)
 
 # Add BXA7 and BXA1
 for branch_code in combined_branches_ordered[2:]:
-    base_code = branch_code[:-2]
-    target_code = branch_code[-2:]
+    base_code = branch_code[:-2]  # Extract B1 from B1A7
+    target_code = branch_code[-2:]  # Extract A7 from B1A7
     combined_branches[branch_code] = (base_code, target_code)
 
 # Filter and concatenate courses for each combined branch
@@ -78,7 +81,15 @@ course_to_year_branch = {
 # Filter rows in the second sheet where course codes match
 matching_courses = sheet2[sheet2['courseno'].isin(course_codes)]
 
-# Initialize the result structure with ordered combined branches
+# Debug: Print if no matching courses found
+if matching_courses.empty:
+    print("No matching courses found. Check the course codes and 'courseno' column in sheet2.")
+else:
+    print("Matching Courses (first 5 rows):")
+    print(matching_courses.head())
+
+# Create a dictionary to store the final JSON structure
+# Initialize based on the ordered combined_branches_ordered list
 result = {
     combined_branch: {
         f"Year {year} Sem 1": {} for year in range(1, 5)
@@ -88,6 +99,7 @@ result = {
 
 # Function to map LPU values to structured format
 def parse_lpu(lpu):
+    # If LPU is not a string or is NaN, return default structure
     if not isinstance(lpu, str) or pd.isna(lpu):
         return {"lectures": 0, "tutorials": 0, "labs": 0}
     
@@ -127,8 +139,10 @@ def get_section_counts(course_code):
 
 def get_lab_hours(course_code):
     lab_rows = sheet3[(sheet3['STAT'] == 'P') & (sheet3['COURSENO'] == course_code)].head(1)
+    # Standardize column names
     lab_rows.columns = lab_rows.columns.str.strip()
 
+    # Check for variations of 'DAYS/H' column
     if 'DAYS/ H' in lab_rows.columns:
         days_h_values = lab_rows['DAYS/ H'].astype(str)
     elif 'DAY/H' in lab_rows.columns:
@@ -136,18 +150,91 @@ def get_lab_hours(course_code):
     else:
         raise KeyError("Neither 'DAYS/H' nor 'DAY/H' column found in lab rows.")
 
+    # Extract lab hours by counting unique digits in one entry
     def count_lab_hours(entry):
+        # Track unique hour values by using a set
         unique_hours = set()
         for part in entry.split():
             if part.isdigit():
-                unique_hours.add(part)
+                unique_hours.add(part)  # Add only unique hours
         return len(unique_hours)
 
+    # Apply the count function to each entry in days_h_values
     total_lab_hours = days_h_values.apply(count_lab_hours).sum()
     
     return total_lab_hours
 
-# Iterate through matching courses and fill the result dictionary
+def get_parallel_sections(sections):
+    """
+    Calculate the maximum number of parallel sections across lectures, tutorials, and labs.
+    
+    Args:
+        sections (dict): A dictionary with counts of 'lectures', 'tutorials', and 'labs'.
+
+    Returns:
+        int: Maximum number of parallel sections.
+    """
+    return max(sections.values())
+
+def get_parallel_sections_2d(course_code):
+    """
+    Calculate the number of parallel sections for lectures, tutorials, and labs
+    as a 2D array, grouping consecutive sections with the same "DAY/ H" value.
+
+    Args:
+        course_code (str): Course code to process.
+
+    Returns:
+        list: A 2D array representing parallel sections for lectures, tutorials, and labs.
+    """
+    relevant_rows = sheet3[sheet3['COURSENO'] == course_code]
+    relevant_rows = relevant_rows.sort_values(by=['STAT', 'DAYS/ H'])  # Sort by STAT and "DAY/ H" for grouping
+    
+    # Initialize lists for lectures, tutorials, and labs
+    lectures = []
+    tutorials = []
+    labs = []
+
+    def group_by_day_h(stat_rows):
+        """Group rows by consecutive matching 'DAY/ H' values."""
+        grouped_sections = []
+        current_group = []
+
+        prev_day_h = None
+        for _, row in stat_rows.iterrows():
+            day_h = row.get('DAYS/ H', None)  # Get the "DAY/ H" value
+
+            if prev_day_h is None or day_h == prev_day_h:
+                # Add to the current group if it's the same "DAY/ H"
+                current_group.append(row.get('SEC', 0))
+            else:
+                # Start a new group
+                grouped_sections.append(current_group)
+                current_group = [row.get('SEC', 0)]
+
+            prev_day_h = day_h
+
+        # Append the last group if not empty
+        if current_group:
+            grouped_sections.append(current_group)
+
+        return grouped_sections
+
+    # Group and count sections for each type
+    for stat in ['L', 'T', 'P']:
+        stat_rows = relevant_rows[relevant_rows['STAT'] == stat]
+        grouped_sections = group_by_day_h(stat_rows)
+
+        if stat == 'L':
+            lectures.extend(grouped_sections)
+        elif stat == 'T':
+            tutorials.extend(grouped_sections)
+        elif stat == 'P':
+            labs.extend(grouped_sections)
+
+    # Return the counts as a 2D array
+    return [lectures, tutorials, labs]
+
 for _, row in matching_courses.iterrows():
     course_code = row['courseno']
     lpu = row['LPU']
@@ -156,14 +243,15 @@ for _, row in matching_courses.iterrows():
     year_branch = course_to_year_branch.get(course_code, (1, "B2"))
     year, base_branch_code = year_branch
 
+    # Find the corresponding combined branch code (e.g., B1A7, B2A7, etc.)
     for combined_branch in combined_branches_ordered:
         base_code, target_code = combined_branches[combined_branch]
-        
-        is_target_course = base_branch_code == target_code
-        is_base_course = base_branch_code == base_code
+        if base_branch_code == base_code or base_branch_code == target_code:
+            if (base_branch_code == target_code and base_branch_code in {cs_code, che_code}) and combined_branch not in {cs_code, che_code}:
+                adjusted_year = year + 1
+            else:
+                adjusted_year = year
 
-        if is_target_course or is_base_course:
-            adjusted_year = year + 1 if (base_branch_code == target_code and combined_branch not in {cs_code, che_code}) else year
             key = f"Year {adjusted_year} Sem 1"
 
             if key in result[combined_branch]:
@@ -172,48 +260,38 @@ for _, row in matching_courses.iterrows():
                     lpu_data['lab_hours'] = get_lab_hours(course_code)
                 except KeyError as e:
                     print(f"Error processing lab hours for course {course_code}: {e}")
-                    lpu_data['lab_hours'] = 0
+                    lpu_data['lab_hours'] = 0  # Default to 0 if lab hours can't be found
 
                 sections = get_section_counts(course_code)
+                parallel_sections_2d = get_parallel_sections_2d(course_code)  # Get 2D array of parallel sections
 
-                # For Year 1 Sem 1, directly add courses without "A7 Courses" or "Branch-Specific Courses"
-                if adjusted_year == 1:
-                    result[combined_branch][key][course_name] = {
-                        "LPU": lpu_data,
-                        "Sections": sections
-                    }
-                else:
-                    # Ensure "A7 Courses" appear before "Branch-Specific Courses"
-                    if is_target_course:
-                        result[combined_branch][key].setdefault("A7 Courses", {})[course_name] = {
-                            "LPU": lpu_data,
-                            "Sections": sections
-                        }
-                    elif is_base_course:
-                        result[combined_branch][key].setdefault("Branch-Specific Courses", {})[course_name] = {
-                            "LPU": lpu_data,
-                            "Sections": sections
-                        }
-                
-                # Switch the order so "A7 Courses" appears before "Branch-Specific Courses" in each year
-if "A7 Courses" in result[combined_branch][key] or "Branch-Specific Courses" in result[combined_branch][key]:
-    reordered = {}
-    if "A7 Courses" in result[combined_branch][key]:
-        reordered["A7 Courses"] = result[combined_branch][key].pop("A7 Courses")
-    if "Branch-Specific Courses" in result[combined_branch][key]:
-        reordered["Branch-Specific Courses"] = result[combined_branch][key].pop("Branch-Specific Courses")
-    result[combined_branch][key].update(reordered)
+                # Ensure A7/A1 courses are listed first
+                if base_branch_code == target_code:  # A7/A1 courses
+                    if key not in result[combined_branch]:
+                        result[combined_branch][key] = {}
+                    result[combined_branch][key] = {course_name: {}} | result[combined_branch][key]
+                    
+                    
+                else:  # BX courses
+                    if key not in result[combined_branch]:
+                        result[combined_branch][key] = {}
+                    result[combined_branch][key][course_name] = {}
+
+                # Assign courses under the correct label
+                result[combined_branch][key][course_name]['LPU'] = lpu_data
+                result[combined_branch][key][course_name]['Sections'] = sections
+                result[combined_branch][key][course_name]['No of sections parallel'] = parallel_sections_2d  # Add the 2D array
 
 
-# Convert to JSON format and save
+
 def convert_to_native(obj):
     if isinstance(obj, dict):
         return {k: convert_to_native(v) for k, v in obj.items()}
     elif isinstance(obj, list):
         return [convert_to_native(i) for i in obj]
-    elif isinstance(obj, np.int64):
+    elif isinstance(obj, np.int64):  # Check for numpy int64
         return int(obj)
-    elif isinstance(obj, np.float64):
+    elif isinstance(obj, np.float64):  # Check for numpy float64
         return float(obj)
     else:
         return obj

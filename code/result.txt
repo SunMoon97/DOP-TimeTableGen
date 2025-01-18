@@ -1,0 +1,5238 @@
+{
+    "A7": {
+        "Year 1 Sem 1": {},
+        "Year 2 Sem 1": {
+            "DISCR STRUC FOR COMP SCI": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "LOGIC IN COMPUTER SC": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "OBJECT ORIENTED PROGRAMMING": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 0,
+                    "labs": 1,
+                    "lab_hours": 2
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 0,
+                    "labs": 1
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [],
+                    [
+                        [
+                            1
+                        ]
+                    ]
+                ]
+            }
+        },
+        "Year 3 Sem 1": {
+            "OPERATING SYSTEMS": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "THEORY OF COMPUTATION": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "COMPUTER ARCHITECTURE": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 0,
+                    "labs": 1,
+                    "lab_hours": 2
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 0,
+                    "labs": 1
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [],
+                    [
+                        [
+                            1
+                        ]
+                    ]
+                ]
+            },
+            "PRINCIPLES OF PROGG LANG": {
+                "LPU": {
+                    "lectures": 2,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            }
+        },
+        "Year 4 Sem 1": {}
+    },
+    "A1": {
+        "Year 1 Sem 1": {},
+        "Year 2 Sem 1": {
+            "ENGG CHEMISTRY": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "CHEM ENGG THERMODYNAMICS": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "FLUID MECHANICS": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "CHEMICAL PROCESS CALCULA": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            }
+        },
+        "Year 3 Sem 1": {
+            "PROCESS DESIGN PRINCIPLES I": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "SEPARATION PROCESSES II": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "CHEMICAL ENGINEERING LABORATORY I": {
+                "LPU": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 3,
+                    "lab_hours": 3
+                },
+                "Sections": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 1
+                },
+                "No of sections parallel": [
+                    [],
+                    [],
+                    [
+                        [
+                            1
+                        ]
+                    ]
+                ]
+            },
+            "KINETICS & REACTOR DESIGN": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            }
+        },
+        "Year 4 Sem 1": {}
+    },
+    "B1A7": {
+        "Year 1 Sem 1": {
+            "BIOLOGY LABORATORY": {
+                "LPU": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 2,
+                    "lab_hours": 2
+                },
+                "Sections": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 15
+                },
+                "No of sections parallel": [
+                    [],
+                    [],
+                    [
+                        [
+                            11
+                        ],
+                        [
+                            12
+                        ],
+                        [
+                            13
+                        ],
+                        [
+                            1
+                        ],
+                        [
+                            2
+                        ],
+                        [
+                            14
+                        ],
+                        [
+                            15
+                        ],
+                        [
+                            3
+                        ],
+                        [
+                            4
+                        ],
+                        [
+                            8
+                        ],
+                        [
+                            9
+                        ],
+                        [
+                            10
+                        ],
+                        [
+                            5
+                        ],
+                        [
+                            6
+                        ],
+                        [
+                            7
+                        ]
+                    ]
+                ]
+            },
+            "GENERAL BIOLOGY": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 11,
+                    "tutorials": 11,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1,
+                            2,
+                            3,
+                            4
+                        ],
+                        [
+                            5,
+                            6,
+                            7
+                        ],
+                        [
+                            8,
+                            9,
+                            10,
+                            11
+                        ]
+                    ],
+                    [
+                        [
+                            1,
+                            2,
+                            5,
+                            6,
+                            10,
+                            11
+                        ],
+                        [
+                            3,
+                            4,
+                            7,
+                            8,
+                            9
+                        ]
+                    ],
+                    []
+                ]
+            }
+        },
+        "Year 2 Sem 1": {
+            "BIOLOGICAL CHEMISTRY": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "MICROBIOLOGY": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 0,
+                    "labs": 1,
+                    "lab_hours": 3
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 0,
+                    "labs": 2
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [],
+                    [
+                        [
+                            1
+                        ],
+                        [
+                            2
+                        ]
+                    ]
+                ]
+            },
+            "CELL BIOLOGY": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "INTEGRATED BIOLOGY": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "INTRODUCTION TO ENVIRONMENTAL STUDIES": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 0,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [],
+                    []
+                ]
+            }
+        },
+        "Year 3 Sem 1": {
+            "DISCR STRUC FOR COMP SCI": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "LOGIC IN COMPUTER SC": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "OBJECT ORIENTED PROGRAMMING": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 0,
+                    "labs": 1,
+                    "lab_hours": 2
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 0,
+                    "labs": 1
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [],
+                    [
+                        [
+                            1
+                        ]
+                    ]
+                ]
+            },
+            "RECOMBINANT DNA TECH": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "PLANT PHYSIOLOGY": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "ANIMAL PHYSIOLOGY": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            }
+        },
+        "Year 4 Sem 1": {
+            "OPERATING SYSTEMS": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "THEORY OF COMPUTATION": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "COMPUTER ARCHITECTURE": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 0,
+                    "labs": 1,
+                    "lab_hours": 2
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 0,
+                    "labs": 1
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [],
+                    [
+                        [
+                            1
+                        ]
+                    ]
+                ]
+            },
+            "PRINCIPLES OF PROGG LANG": {
+                "LPU": {
+                    "lectures": 2,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            }
+        }
+    },
+    "B2A7": {
+        "Year 1 Sem 1": {
+            "CHEMISTRY LABORATORY": {
+                "LPU": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 2,
+                    "lab_hours": 2
+                },
+                "Sections": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 12
+                },
+                "No of sections parallel": [
+                    [],
+                    [],
+                    [
+                        [
+                            10
+                        ],
+                        [
+                            11
+                        ],
+                        [
+                            1
+                        ],
+                        [
+                            2
+                        ],
+                        [
+                            12
+                        ],
+                        [
+                            3
+                        ],
+                        [
+                            4
+                        ],
+                        [
+                            5
+                        ],
+                        [
+                            8
+                        ],
+                        [
+                            9
+                        ],
+                        [
+                            6
+                        ],
+                        [
+                            7
+                        ]
+                    ]
+                ]
+            },
+            "GENERAL CHEMISTRY": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 11,
+                    "tutorials": 11,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1,
+                            2,
+                            3,
+                            4
+                        ],
+                        [
+                            5,
+                            6,
+                            7
+                        ],
+                        [
+                            8,
+                            9,
+                            10,
+                            11
+                        ]
+                    ],
+                    [
+                        [
+                            4,
+                            8
+                        ],
+                        [
+                            1,
+                            2
+                        ],
+                        [
+                            5,
+                            11
+                        ],
+                        [
+                            3,
+                            10
+                        ],
+                        [
+                            7,
+                            9
+                        ],
+                        [
+                            6
+                        ]
+                    ],
+                    []
+                ]
+            }
+        },
+        "Year 2 Sem 1": {
+            "PHYSICAL CHEMISTRY I": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "ORGANIC CHEMISTRY I": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "PHYSICAL CHEMISTRY II": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "INORGANIC CHEMISTRY I": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            }
+        },
+        "Year 3 Sem 1": {
+            "DISCR STRUC FOR COMP SCI": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "LOGIC IN COMPUTER SC": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "OBJECT ORIENTED PROGRAMMING": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 0,
+                    "labs": 1,
+                    "lab_hours": 2
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 0,
+                    "labs": 1
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [],
+                    [
+                        [
+                            1
+                        ]
+                    ]
+                ]
+            },
+            "ORGANIC CHEMISTRY III": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "PHYSICAL CHEMISTRY IV": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "INSTRU METHODS OF ANAL": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 0,
+                    "labs": 1,
+                    "lab_hours": 3
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 0,
+                    "labs": 1
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [],
+                    [
+                        [
+                            1
+                        ]
+                    ]
+                ]
+            }
+        },
+        "Year 4 Sem 1": {
+            "OPERATING SYSTEMS": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "THEORY OF COMPUTATION": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "COMPUTER ARCHITECTURE": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 0,
+                    "labs": 1,
+                    "lab_hours": 2
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 0,
+                    "labs": 1
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [],
+                    [
+                        [
+                            1
+                        ]
+                    ]
+                ]
+            },
+            "PRINCIPLES OF PROGG LANG": {
+                "LPU": {
+                    "lectures": 2,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            }
+        }
+    },
+    "B3A7": {
+        "Year 1 Sem 1": {},
+        "Year 2 Sem 1": {
+            "PRINCIPLES OF ECONOMICS": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "FUNDA OF FIN AND ACCOUNT": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "MATHEMATIC & STAT METHOD": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "ECONOMIC ENV OF BUSINESSS": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            }
+        },
+        "Year 3 Sem 1": {
+            "DISCR STRUC FOR COMP SCI": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "LOGIC IN COMPUTER SC": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "OBJECT ORIENTED PROGRAMMING": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 0,
+                    "labs": 1,
+                    "lab_hours": 2
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 0,
+                    "labs": 1
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [],
+                    [
+                        [
+                            1
+                        ]
+                    ]
+                ]
+            },
+            "INTERNATIONAL ECONOMICS": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "MONEY BANK & FIN MARKETS": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "ISSUES IN ECONOMIC DEVELOPMENT": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            }
+        },
+        "Year 4 Sem 1": {
+            "OPERATING SYSTEMS": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "THEORY OF COMPUTATION": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "COMPUTER ARCHITECTURE": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 0,
+                    "labs": 1,
+                    "lab_hours": 2
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 0,
+                    "labs": 1
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [],
+                    [
+                        [
+                            1
+                        ]
+                    ]
+                ]
+            },
+            "PRINCIPLES OF PROGG LANG": {
+                "LPU": {
+                    "lectures": 2,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            }
+        }
+    },
+    "B4A7": {
+        "Year 1 Sem 1": {
+            "MATHEMATICS I": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 14,
+                    "tutorials": 14,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1,
+                            2,
+                            3,
+                            4
+                        ],
+                        [
+                            5,
+                            6,
+                            7,
+                            8
+                        ],
+                        [
+                            9,
+                            10
+                        ],
+                        [
+                            11,
+                            12,
+                            13,
+                            14
+                        ]
+                    ],
+                    [
+                        [
+                            1,
+                            9
+                        ],
+                        [
+                            2,
+                            3,
+                            7,
+                            10,
+                            13
+                        ],
+                        [
+                            5,
+                            11
+                        ],
+                        [
+                            4,
+                            6,
+                            8,
+                            12,
+                            14
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "PROBABILITY & STATISTICS": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 8,
+                    "tutorials": 8,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            8
+                        ]
+                    ],
+                    [
+                        [
+                            1,
+                            3,
+                            5,
+                            7
+                        ],
+                        [
+                            2,
+                            4,
+                            6,
+                            8
+                        ]
+                    ],
+                    []
+                ]
+            }
+        },
+        "Year 2 Sem 1": {
+            "MATHEMATICS III": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 12,
+                    "tutorials": 12,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1,
+                            2,
+                            3,
+                            4
+                        ],
+                        [
+                            5,
+                            6,
+                            7,
+                            8
+                        ],
+                        [
+                            9,
+                            10,
+                            11,
+                            12
+                        ]
+                    ],
+                    [
+                        [
+                            2,
+                            6,
+                            10
+                        ],
+                        [
+                            4,
+                            8,
+                            12
+                        ],
+                        [
+                            1,
+                            3,
+                            5,
+                            7,
+                            9,
+                            11
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "OPTIMIZATION": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "DISCREET MATHEMATICS": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "ELEMENTARY REAL ANALYSIS": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "ALGEBRA I": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            }
+        },
+        "Year 3 Sem 1": {
+            "DISCR STRUC FOR COMP SCI": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "LOGIC IN COMPUTER SC": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "OBJECT ORIENTED PROGRAMMING": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 0,
+                    "labs": 1,
+                    "lab_hours": 2
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 0,
+                    "labs": 1
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [],
+                    [
+                        [
+                            1
+                        ]
+                    ]
+                ]
+            },
+            "INTRODUCTION TO TOPOLOGY": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "ORDINARY DIFFERENTIAL EQUATIONS": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "NUMERICAL ANALYSIS": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            }
+        },
+        "Year 4 Sem 1": {
+            "OPERATING SYSTEMS": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "THEORY OF COMPUTATION": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "COMPUTER ARCHITECTURE": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 0,
+                    "labs": 1,
+                    "lab_hours": 2
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 0,
+                    "labs": 1
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [],
+                    [
+                        [
+                            1
+                        ]
+                    ]
+                ]
+            },
+            "PRINCIPLES OF PROGG LANG": {
+                "LPU": {
+                    "lectures": 2,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            }
+        }
+    },
+    "B5A7": {
+        "Year 1 Sem 1": {
+            "PHYSICS LABORATORY": {
+                "LPU": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 2,
+                    "lab_hours": 2
+                },
+                "Sections": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 13
+                },
+                "No of sections parallel": [
+                    [],
+                    [],
+                    [
+                        [
+                            10
+                        ],
+                        [
+                            11
+                        ],
+                        [
+                            1
+                        ],
+                        [
+                            2
+                        ],
+                        [
+                            12
+                        ],
+                        [
+                            13
+                        ],
+                        [
+                            3
+                        ],
+                        [
+                            4
+                        ],
+                        [
+                            7
+                        ],
+                        [
+                            8
+                        ],
+                        [
+                            9
+                        ],
+                        [
+                            5
+                        ],
+                        [
+                            6
+                        ]
+                    ]
+                ]
+            },
+            "MECHANICS OSCILLATIONS &WAVES": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 8,
+                    "tutorials": 8,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1,
+                            2,
+                            3,
+                            4
+                        ],
+                        [
+                            5,
+                            6,
+                            7,
+                            8
+                        ]
+                    ],
+                    [
+                        [
+                            5,
+                            6,
+                            7,
+                            8
+                        ],
+                        [
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    ],
+                    []
+                ]
+            }
+        },
+        "Year 2 Sem 1": {
+            "CLASSICAL MECHANICS": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 0,
+                    "labs": 1,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "OPTICS": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "ELEC, MAGNET & OPTICS LAB": {
+                "LPU": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 2,
+                    "lab_hours": 3
+                },
+                "Sections": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 2
+                },
+                "No of sections parallel": [
+                    [],
+                    [],
+                    [
+                        [
+                            1
+                        ],
+                        [
+                            2
+                        ]
+                    ]
+                ]
+            }
+        },
+        "Year 3 Sem 1": {
+            "DISCR STRUC FOR COMP SCI": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "LOGIC IN COMPUTER SC": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "OBJECT ORIENTED PROGRAMMING": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 0,
+                    "labs": 1,
+                    "lab_hours": 2
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 0,
+                    "labs": 1
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [],
+                    [
+                        [
+                            1
+                        ]
+                    ]
+                ]
+            },
+            "QUANTUM MECHANICS II": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "STATISTICAL MECHANICS": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "COMPUTATIONAL PHYSICS": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            }
+        },
+        "Year 4 Sem 1": {
+            "OPERATING SYSTEMS": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "THEORY OF COMPUTATION": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "COMPUTER ARCHITECTURE": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 0,
+                    "labs": 1,
+                    "lab_hours": 2
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 0,
+                    "labs": 1
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [],
+                    [
+                        [
+                            1
+                        ]
+                    ]
+                ]
+            },
+            "PRINCIPLES OF PROGG LANG": {
+                "LPU": {
+                    "lectures": 2,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            }
+        }
+    },
+    "B1A1": {
+        "Year 1 Sem 1": {
+            "BIOLOGY LABORATORY": {
+                "LPU": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 2,
+                    "lab_hours": 2
+                },
+                "Sections": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 15
+                },
+                "No of sections parallel": [
+                    [],
+                    [],
+                    [
+                        [
+                            11
+                        ],
+                        [
+                            12
+                        ],
+                        [
+                            13
+                        ],
+                        [
+                            1
+                        ],
+                        [
+                            2
+                        ],
+                        [
+                            14
+                        ],
+                        [
+                            15
+                        ],
+                        [
+                            3
+                        ],
+                        [
+                            4
+                        ],
+                        [
+                            8
+                        ],
+                        [
+                            9
+                        ],
+                        [
+                            10
+                        ],
+                        [
+                            5
+                        ],
+                        [
+                            6
+                        ],
+                        [
+                            7
+                        ]
+                    ]
+                ]
+            },
+            "GENERAL BIOLOGY": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 11,
+                    "tutorials": 11,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1,
+                            2,
+                            3,
+                            4
+                        ],
+                        [
+                            5,
+                            6,
+                            7
+                        ],
+                        [
+                            8,
+                            9,
+                            10,
+                            11
+                        ]
+                    ],
+                    [
+                        [
+                            1,
+                            2,
+                            5,
+                            6,
+                            10,
+                            11
+                        ],
+                        [
+                            3,
+                            4,
+                            7,
+                            8,
+                            9
+                        ]
+                    ],
+                    []
+                ]
+            }
+        },
+        "Year 2 Sem 1": {
+            "BIOLOGICAL CHEMISTRY": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "MICROBIOLOGY": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 0,
+                    "labs": 1,
+                    "lab_hours": 3
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 0,
+                    "labs": 2
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [],
+                    [
+                        [
+                            1
+                        ],
+                        [
+                            2
+                        ]
+                    ]
+                ]
+            },
+            "CELL BIOLOGY": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "INTEGRATED BIOLOGY": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "INTRODUCTION TO ENVIRONMENTAL STUDIES": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 0,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [],
+                    []
+                ]
+            }
+        },
+        "Year 3 Sem 1": {
+            "ENGG CHEMISTRY": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "CHEM ENGG THERMODYNAMICS": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "FLUID MECHANICS": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "CHEMICAL PROCESS CALCULA": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "RECOMBINANT DNA TECH": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "PLANT PHYSIOLOGY": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "ANIMAL PHYSIOLOGY": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            }
+        },
+        "Year 4 Sem 1": {
+            "PROCESS DESIGN PRINCIPLES I": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "SEPARATION PROCESSES II": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "CHEMICAL ENGINEERING LABORATORY I": {
+                "LPU": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 3,
+                    "lab_hours": 3
+                },
+                "Sections": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 1
+                },
+                "No of sections parallel": [
+                    [],
+                    [],
+                    [
+                        [
+                            1
+                        ]
+                    ]
+                ]
+            },
+            "KINETICS & REACTOR DESIGN": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            }
+        }
+    },
+    "B2A1": {
+        "Year 1 Sem 1": {
+            "CHEMISTRY LABORATORY": {
+                "LPU": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 2,
+                    "lab_hours": 2
+                },
+                "Sections": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 12
+                },
+                "No of sections parallel": [
+                    [],
+                    [],
+                    [
+                        [
+                            10
+                        ],
+                        [
+                            11
+                        ],
+                        [
+                            1
+                        ],
+                        [
+                            2
+                        ],
+                        [
+                            12
+                        ],
+                        [
+                            3
+                        ],
+                        [
+                            4
+                        ],
+                        [
+                            5
+                        ],
+                        [
+                            8
+                        ],
+                        [
+                            9
+                        ],
+                        [
+                            6
+                        ],
+                        [
+                            7
+                        ]
+                    ]
+                ]
+            },
+            "GENERAL CHEMISTRY": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 11,
+                    "tutorials": 11,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1,
+                            2,
+                            3,
+                            4
+                        ],
+                        [
+                            5,
+                            6,
+                            7
+                        ],
+                        [
+                            8,
+                            9,
+                            10,
+                            11
+                        ]
+                    ],
+                    [
+                        [
+                            4,
+                            8
+                        ],
+                        [
+                            1,
+                            2
+                        ],
+                        [
+                            5,
+                            11
+                        ],
+                        [
+                            3,
+                            10
+                        ],
+                        [
+                            7,
+                            9
+                        ],
+                        [
+                            6
+                        ]
+                    ],
+                    []
+                ]
+            }
+        },
+        "Year 2 Sem 1": {
+            "PHYSICAL CHEMISTRY I": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "ORGANIC CHEMISTRY I": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "PHYSICAL CHEMISTRY II": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "INORGANIC CHEMISTRY I": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            }
+        },
+        "Year 3 Sem 1": {
+            "ENGG CHEMISTRY": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "CHEM ENGG THERMODYNAMICS": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "FLUID MECHANICS": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "CHEMICAL PROCESS CALCULA": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "ORGANIC CHEMISTRY III": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "PHYSICAL CHEMISTRY IV": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "INSTRU METHODS OF ANAL": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 0,
+                    "labs": 1,
+                    "lab_hours": 3
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 0,
+                    "labs": 1
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [],
+                    [
+                        [
+                            1
+                        ]
+                    ]
+                ]
+            }
+        },
+        "Year 4 Sem 1": {
+            "PROCESS DESIGN PRINCIPLES I": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "SEPARATION PROCESSES II": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "CHEMICAL ENGINEERING LABORATORY I": {
+                "LPU": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 3,
+                    "lab_hours": 3
+                },
+                "Sections": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 1
+                },
+                "No of sections parallel": [
+                    [],
+                    [],
+                    [
+                        [
+                            1
+                        ]
+                    ]
+                ]
+            },
+            "KINETICS & REACTOR DESIGN": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            }
+        }
+    },
+    "B3A1": {
+        "Year 1 Sem 1": {},
+        "Year 2 Sem 1": {
+            "PRINCIPLES OF ECONOMICS": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "FUNDA OF FIN AND ACCOUNT": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "MATHEMATIC & STAT METHOD": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "ECONOMIC ENV OF BUSINESSS": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            }
+        },
+        "Year 3 Sem 1": {
+            "ENGG CHEMISTRY": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "CHEM ENGG THERMODYNAMICS": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "FLUID MECHANICS": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "CHEMICAL PROCESS CALCULA": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "INTERNATIONAL ECONOMICS": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "MONEY BANK & FIN MARKETS": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "ISSUES IN ECONOMIC DEVELOPMENT": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            }
+        },
+        "Year 4 Sem 1": {
+            "PROCESS DESIGN PRINCIPLES I": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "SEPARATION PROCESSES II": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "CHEMICAL ENGINEERING LABORATORY I": {
+                "LPU": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 3,
+                    "lab_hours": 3
+                },
+                "Sections": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 1
+                },
+                "No of sections parallel": [
+                    [],
+                    [],
+                    [
+                        [
+                            1
+                        ]
+                    ]
+                ]
+            },
+            "KINETICS & REACTOR DESIGN": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            }
+        }
+    },
+    "B4A1": {
+        "Year 1 Sem 1": {
+            "MATHEMATICS I": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 14,
+                    "tutorials": 14,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1,
+                            2,
+                            3,
+                            4
+                        ],
+                        [
+                            5,
+                            6,
+                            7,
+                            8
+                        ],
+                        [
+                            9,
+                            10
+                        ],
+                        [
+                            11,
+                            12,
+                            13,
+                            14
+                        ]
+                    ],
+                    [
+                        [
+                            1,
+                            9
+                        ],
+                        [
+                            2,
+                            3,
+                            7,
+                            10,
+                            13
+                        ],
+                        [
+                            5,
+                            11
+                        ],
+                        [
+                            4,
+                            6,
+                            8,
+                            12,
+                            14
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "PROBABILITY & STATISTICS": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 8,
+                    "tutorials": 8,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            8
+                        ]
+                    ],
+                    [
+                        [
+                            1,
+                            3,
+                            5,
+                            7
+                        ],
+                        [
+                            2,
+                            4,
+                            6,
+                            8
+                        ]
+                    ],
+                    []
+                ]
+            }
+        },
+        "Year 2 Sem 1": {
+            "MATHEMATICS III": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 12,
+                    "tutorials": 12,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1,
+                            2,
+                            3,
+                            4
+                        ],
+                        [
+                            5,
+                            6,
+                            7,
+                            8
+                        ],
+                        [
+                            9,
+                            10,
+                            11,
+                            12
+                        ]
+                    ],
+                    [
+                        [
+                            2,
+                            6,
+                            10
+                        ],
+                        [
+                            4,
+                            8,
+                            12
+                        ],
+                        [
+                            1,
+                            3,
+                            5,
+                            7,
+                            9,
+                            11
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "OPTIMIZATION": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "DISCREET MATHEMATICS": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "ELEMENTARY REAL ANALYSIS": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "ALGEBRA I": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            }
+        },
+        "Year 3 Sem 1": {
+            "ENGG CHEMISTRY": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "CHEM ENGG THERMODYNAMICS": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "FLUID MECHANICS": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "CHEMICAL PROCESS CALCULA": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "INTRODUCTION TO TOPOLOGY": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "ORDINARY DIFFERENTIAL EQUATIONS": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "NUMERICAL ANALYSIS": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            }
+        },
+        "Year 4 Sem 1": {
+            "PROCESS DESIGN PRINCIPLES I": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "SEPARATION PROCESSES II": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "CHEMICAL ENGINEERING LABORATORY I": {
+                "LPU": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 3,
+                    "lab_hours": 3
+                },
+                "Sections": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 1
+                },
+                "No of sections parallel": [
+                    [],
+                    [],
+                    [
+                        [
+                            1
+                        ]
+                    ]
+                ]
+            },
+            "KINETICS & REACTOR DESIGN": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            }
+        }
+    },
+    "B5A1": {
+        "Year 1 Sem 1": {
+            "PHYSICS LABORATORY": {
+                "LPU": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 2,
+                    "lab_hours": 2
+                },
+                "Sections": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 13
+                },
+                "No of sections parallel": [
+                    [],
+                    [],
+                    [
+                        [
+                            10
+                        ],
+                        [
+                            11
+                        ],
+                        [
+                            1
+                        ],
+                        [
+                            2
+                        ],
+                        [
+                            12
+                        ],
+                        [
+                            13
+                        ],
+                        [
+                            3
+                        ],
+                        [
+                            4
+                        ],
+                        [
+                            7
+                        ],
+                        [
+                            8
+                        ],
+                        [
+                            9
+                        ],
+                        [
+                            5
+                        ],
+                        [
+                            6
+                        ]
+                    ]
+                ]
+            },
+            "MECHANICS OSCILLATIONS &WAVES": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 8,
+                    "tutorials": 8,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1,
+                            2,
+                            3,
+                            4
+                        ],
+                        [
+                            5,
+                            6,
+                            7,
+                            8
+                        ]
+                    ],
+                    [
+                        [
+                            5,
+                            6,
+                            7,
+                            8
+                        ],
+                        [
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    ],
+                    []
+                ]
+            }
+        },
+        "Year 2 Sem 1": {
+            "CLASSICAL MECHANICS": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 0,
+                    "labs": 1,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "OPTICS": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "ELEC, MAGNET & OPTICS LAB": {
+                "LPU": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 2,
+                    "lab_hours": 3
+                },
+                "Sections": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 2
+                },
+                "No of sections parallel": [
+                    [],
+                    [],
+                    [
+                        [
+                            1
+                        ],
+                        [
+                            2
+                        ]
+                    ]
+                ]
+            }
+        },
+        "Year 3 Sem 1": {
+            "ENGG CHEMISTRY": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "CHEM ENGG THERMODYNAMICS": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "FLUID MECHANICS": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "CHEMICAL PROCESS CALCULA": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "QUANTUM MECHANICS II": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "STATISTICAL MECHANICS": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "COMPUTATIONAL PHYSICS": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            }
+        },
+        "Year 4 Sem 1": {
+            "PROCESS DESIGN PRINCIPLES I": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "SEPARATION PROCESSES II": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            },
+            "CHEMICAL ENGINEERING LABORATORY I": {
+                "LPU": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 3,
+                    "lab_hours": 3
+                },
+                "Sections": {
+                    "lectures": 0,
+                    "tutorials": 0,
+                    "labs": 1
+                },
+                "No of sections parallel": [
+                    [],
+                    [],
+                    [
+                        [
+                            1
+                        ]
+                    ]
+                ]
+            },
+            "KINETICS & REACTOR DESIGN": {
+                "LPU": {
+                    "lectures": 3,
+                    "tutorials": 1,
+                    "labs": 0,
+                    "lab_hours": 0
+                },
+                "Sections": {
+                    "lectures": 1,
+                    "tutorials": 1,
+                    "labs": 0
+                },
+                "No of sections parallel": [
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    [
+                        [
+                            1
+                        ]
+                    ],
+                    []
+                ]
+            }
+        }
+    }
+}

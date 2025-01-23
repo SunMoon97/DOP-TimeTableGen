@@ -4,7 +4,7 @@ import json
 import numpy as np
 
 # Load the entire Excel file
-file_path = r"Copy of Data_for_Time_Table_software_-27_july_20(1).xlsx"
+file_path = r"Copy of Data_for_Time_Table_software_-27_july_20(2).xlsx"
 
 # Load specific sheets
 sheet1 = pd.read_excel(file_path, sheet_name="5CDCS of sem I")

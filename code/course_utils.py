@@ -6,7 +6,7 @@ class CourseUtils:
     @staticmethod
     def is_valid_slot(slot, is_tutorial=False):
         if is_tutorial:
-            return slot != "8:00"
+            return slot != "1:00"
         return slot != "1:00" and slot != "8:00"
 
     @staticmethod
@@ -15,14 +15,22 @@ class CourseUtils:
 
     @staticmethod
     def not_present_here(day, slot, course, timetable):
+        
+        if not course[-1].isdigit():
+            for c in timetable[day][slot]:
+                if not c[-1].isdigit():
+                    return False
+        for all_slots in timetable[day].values():
+            if course in all_slots:
+                return False
         if not course[-1].isdigit() and timetable[day][slot].count(course) > 0:
             return False
-            
+
         for all_slots in timetable[day].values():
             for c in all_slots:
                 if c[10:] == course[10:]:
                     return False
-                
+
         for c in timetable[day][slot]:
             end = c[-1]
             if not end.isdigit():
@@ -31,5 +39,6 @@ class CourseUtils:
                 return False
             if c[10:] == course[10:]:
                 return False
-            
+
+
         return True

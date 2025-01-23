@@ -16,7 +16,7 @@ class CourseAssigner:
                              if self.utils.not_present_here(day, slot, course, self.state.timetable) 
                              and self.utils.is_valid_slot(slot, session_type == "Tut")]
                 if valid_slots:
-                    slot = "8:00"
+                    slot = "8:00" if session_type == "Tut" else random.choice(valid_slots)
                     self.state.timetable[day][slot].append(f"{course}")
                     assigned_slots.append((day, slot))
                     self.state.all_course_assignments.setdefault(course, []).append((day, slot, session_type))
@@ -63,7 +63,7 @@ class CourseAssigner:
             if remaining_lectures == 0:
                 print("No more lectures for " + course)
                 break
-            available_slots = ["9:00", "10:00", "4:00", "5:00"] if day in TimetableConfig.DAYS_MWF else ["11:00", "12:00", "2:00", "3:00"]
+            available_slots = ["9:00", "10:00", "11:00", "12:00", "2:00", "3:00", "4:00", "5:00"]
             valid_slots = [slot for slot in available_slots 
                           if self.utils.not_present_here(day, slot, course, self.state.timetable) 
                           and self.utils.is_valid_slot(slot)]
@@ -108,9 +108,10 @@ class CourseAssigner:
 
             lecture_sections = load['Sections'].get('lectures', 0)
             for i in lecture_parallel:
-                course_variant = self.utils.generate_component_name(course, "Lecture", i[0])
                 if lecture_sections == 1:
-                    course_variant = course
+                    course_variant = f"{course}_Lecture"
+                else:
+                    course_variant = self.utils.generate_component_name(course, "Lecture", i[0])
                 lectures_left, _ = self.assign_course_to_timetable(
                     course_variant, load['LPU']['lectures'], 0, 0, TimetableConfig.DAYS_MWF, TimetableConfig.DAYS_TT
                 )
@@ -137,6 +138,8 @@ class CourseAssigner:
             tutorial_sections = load['Sections'].get('tutorials', 0)
             for i in tutorial_parallel:
                 course_variant = self.utils.generate_component_name(course, "Tutorial", i[0])
+                if tutorial_sections == 1:
+                    course_variant = f"{course}_Tut"
                 _, tutorials_left = self.assign_course_to_timetable(
                     course_variant, 0, load['LPU']['tutorials'], 0, TimetableConfig.DAYS_MWF, TimetableConfig.DAYS_TT
                 )
@@ -158,6 +161,8 @@ class CourseAssigner:
             lab_sections = load['Sections'].get('labs', 0)
             for i in range(1, lab_sections + 1):
                 course_variant = self.utils.generate_component_name(course, "Lab", i)
+                if lab_sections == 1:
+                    course_variant = f"{course}_Lab"
                 _, _ = self.assign_course_to_timetable(
                     course_variant, 0, 0, load['LPU']['lab_hours'], TimetableConfig.DAYS_MWF, TimetableConfig.DAYS_TT
                 )
@@ -175,7 +180,7 @@ class CourseAssigner:
             for i in lecture_parallel:
                 course_variant = self.utils.generate_component_name(course, "Lecture", i[0])
                 if lecture_sections == 1:
-                    course_variant = course
+                    course_variant = f"{course}_Lecture"
                 lectures_left, _ = self.assign_course_to_timetable(
                     course_variant, load['LPU']['lectures'], 0, 0, TimetableConfig.DAYS_TT, TimetableConfig.DAYS_MWF
                 )
@@ -204,6 +209,8 @@ class CourseAssigner:
             tutorial_sections = load['Sections'].get('tutorials', 0)
             for i in tutorial_parallel:
                 course_variant = self.utils.generate_component_name(course, "Tutorial", i[0])
+                if tutorial_sections == 1:
+                    course_variant = f"{course}_Tut"
                 _, tutorials_left = self.assign_course_to_timetable(
                     course_variant, 0, load['LPU']['tutorials'], 0, TimetableConfig.DAYS_TT, TimetableConfig.DAYS_MWF
                 )
@@ -225,6 +232,8 @@ class CourseAssigner:
             lab_sections = load['Sections'].get('labs', 0)
             for i in range(1, lab_sections + 1):
                 course_variant = self.utils.generate_component_name(course, "Lab", i)
+                if lab_sections == 1:
+                    course_variant = f"{course}_Lab"
                 _, _ = self.assign_course_to_timetable(
                     course_variant, 0, 0, load['LPU']['lab_hours'], TimetableConfig.DAYS_TT, TimetableConfig.DAYS_MWF
                 )

@@ -311,6 +311,7 @@ for _, row in matching_courses.iterrows():
     course_code = row['courseno']
     lpu = row['LPU']
     course_name = row['coursetitle']
+    course_name = course_code + "-" + course_name
 
     year_branch = course_to_year_branch.get(course_code, (1, "B2"))
     year, base_branch_code = year_branch
@@ -350,6 +351,7 @@ for _, row in matching_courses.iterrows():
                     result[combined_branch][key][course_name] = {}
 
                 # Assign courses under the correct label
+                
                 result[combined_branch][key][course_name]['LPU'] = lpu_data
                 result[combined_branch][key][course_name]['Sections'] = sections
                 result[combined_branch][key][course_name]['No of sections parallel'] = parallel_sections_2d  # Add the 2D array
@@ -372,3 +374,4 @@ result_json = json.dumps(convert_to_native(result), indent=4)
 
 with open('result.txt', 'w') as json_file:
     json_file.write(result_json)
+

@@ -2,7 +2,7 @@
     "A7": {
         "Year 1 Sem 1": {},
         "Year 2 Sem 1": {
-            "DISCR STRUC FOR COMP SCI": {
+            "CS F222-DISCR STRUC FOR COMP SCI": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -28,7 +28,7 @@
                     []
                 ]
             },
-            "DIGITAL DESIGN": {
+            "CS F215-DIGITAL DESIGN": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -79,7 +79,7 @@
                     ]
                 ]
             },
-            "LOGIC IN COMPUTER SC": {
+            "CS F214-LOGIC IN COMPUTER SC": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -105,7 +105,7 @@
                     []
                 ]
             },
-            "OBJECT ORIENTED PROGRAMMING": {
+            "CS F213-OBJECT ORIENTED PROGRAMMING": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -133,7 +133,7 @@
             }
         },
         "Year 3 Sem 1": {
-            "OPERATING SYSTEMS": {
+            "CS F372-OPERATING SYSTEMS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -159,7 +159,7 @@
                     []
                 ]
             },
-            "THEORY OF COMPUTATION": {
+            "CS F351-THEORY OF COMPUTATION": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -185,7 +185,7 @@
                     []
                 ]
             },
-            "COMPUTER ARCHITECTURE": {
+            "CS F342-COMPUTER ARCHITECTURE": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -211,7 +211,7 @@
                     ]
                 ]
             },
-            "PRINCIPLES OF PROGG LANG": {
+            "CS F301-PRINCIPLES OF PROGG LANG": {
                 "LPU": {
                     "lectures": 2,
                     "tutorials": 1,
@@ -243,7 +243,7 @@
     "A1": {
         "Year 1 Sem 1": {},
         "Year 2 Sem 1": {
-            "ENGG CHEMISTRY": {
+            "CHE F214-ENGG CHEMISTRY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -269,7 +269,7 @@
                     []
                 ]
             },
-            "CHEM ENGG THERMODYNAMICS": {
+            "CHE F213-CHEM ENGG THERMODYNAMICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -295,7 +295,7 @@
                     []
                 ]
             },
-            "FLUID MECHANICS": {
+            "CHE F212-FLUID MECHANICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -321,7 +321,7 @@
                     []
                 ]
             },
-            "CHEMICAL PROCESS CALCULA": {
+            "CHE F211-CHEMICAL PROCESS CALCULA": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -349,7 +349,7 @@
             }
         },
         "Year 3 Sem 1": {
-            "PROCESS DESIGN PRINCIPLES I": {
+            "CHE F314-PROCESS DESIGN PRINCIPLES I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -375,7 +375,7 @@
                     []
                 ]
             },
-            "SEPARATION PROCESSES II": {
+            "CHE F313-SEPARATION PROCESSES II": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -401,7 +401,7 @@
                     []
                 ]
             },
-            "CHEMICAL ENGINEERING LABORATORY I": {
+            "CHE F312-CHEMICAL ENGINEERING LABORATORY I": {
                 "LPU": {
                     "lectures": 0,
                     "tutorials": 0,
@@ -423,7 +423,7 @@
                     ]
                 ]
             },
-            "KINETICS & REACTOR DESIGN": {
+            "CHE F311-KINETICS & REACTOR DESIGN": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -454,7 +454,7 @@
     },
     "A4": {
         "Year 1 Sem 1": {
-            "WORKSHOP PRACTICE": {
+            "ME F110-WORKSHOP PRACTICE": {
                 "LPU": {
                     "lectures": 0,
                     "tutorials": 0,
@@ -491,7 +491,7 @@
                     ]
                 ]
             },
-            "ENGINEERING GRAPHICS": {
+            "BITS F110-ENGINEERING GRAPHICS": {
                 "LPU": {
                     "lectures": 1,
                     "tutorials": 0,
@@ -524,7 +524,7 @@
             }
         },
         "Year 2 Sem 1": {
-            "PRODUCTION TECHNIQUES I": {
+            "ME F243-PRODUCTION TECHNIQUES I": {
                 "LPU": {
                     "lectures": 2,
                     "tutorials": 0,
@@ -557,7 +557,7 @@
                     ]
                 ]
             },
-            "APPLIED THERMODYNAMICS": {
+            "ME F214-APPLIED THERMODYNAMICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -583,7 +583,7 @@
                     []
                 ]
             },
-            "MATERIAL SCIENCE & ENGG": {
+            "ME F213-MATERIAL SCIENCE & ENGG": {
                 "LPU": {
                     "lectures": 2,
                     "tutorials": 1,
@@ -609,7 +609,7 @@
                     []
                 ]
             },
-            "FLUID MECHANICS": {
+            "ME F212-FLUID MECHANICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -635,7 +635,7 @@
                     []
                 ]
             },
-            "MECHANICS OF SOLIDS": {
+            "ME F211-MECHANICS OF SOLIDS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -663,7 +663,7 @@
             }
         },
         "Year 3 Sem 1": {
-            "COMPUTER AIDED DESIGN": {
+            "ME F342-COMPUTER AIDED DESIGN": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -689,7 +689,7 @@
                     ]
                 ]
             },
-            "ADVANCED MECHANICS OF SOLIDS": {
+            "ME F312-ADVANCED MECHANICS OF SOLIDS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -715,7 +715,7 @@
                     []
                 ]
             },
-            "HEAT TRANSFER": {
+            "ME F311-HEAT TRANSFER": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -754,7 +754,7 @@
     "A3": {
         "Year 1 Sem 1": {},
         "Year 2 Sem 1": {
-            "ELECTRONIC DEVICES": {
+            "EEE F214-ELECTRONIC DEVICES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -784,7 +784,7 @@
                     []
                 ]
             },
-            "ELECTROMAGNETIC THEO/ ELECTROMAGNETIC THEO I": {
+            "EEE F212-ELECTROMAGNETIC THEO/ ELECTROMAGNETIC THEO I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -830,7 +830,7 @@
                     []
                 ]
             },
-            "ELECTRICAL MACHINES": {
+            "EEE F211-ELECTRICAL MACHINES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -880,7 +880,7 @@
                     ]
                 ]
             },
-            "DIGITAL DESIGN": {
+            "EEE F215-DIGITAL DESIGN": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -927,7 +927,7 @@
             }
         },
         "Year 3 Sem 1": {
-            "ANALOG & DIGIT VLSI DES": {
+            "EEE F313-ANALOG & DIGIT VLSI DES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -955,7 +955,7 @@
                     []
                 ]
             },
-            "COMMUNICATION SYSTEMS": {
+            "EEE F311-COMMUNICATION SYSTEMS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -1002,7 +1002,7 @@
     "AA": {
         "Year 1 Sem 1": {},
         "Year 2 Sem 1": {
-            "ELECTRONIC DEVICES": {
+            "ECE F214-ELECTRONIC DEVICES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -1032,7 +1032,7 @@
                     []
                 ]
             },
-            "ELECTROMAGNETIC THEO/ ELECTROMAGNETIC THEO I": {
+            "ECE F212-ELECTROMAGNETIC THEO/ ELECTROMAGNETIC THEO I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -1078,7 +1078,7 @@
                     []
                 ]
             },
-            "ELECTRICAL MACHINES": {
+            "ECE F211-ELECTRICAL MACHINES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -1128,7 +1128,7 @@
                     ]
                 ]
             },
-            "DIGITAL DESIGN": {
+            "ECE F215-DIGITAL DESIGN": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -1175,7 +1175,7 @@
             }
         },
         "Year 3 Sem 1": {
-            "DIGITAL SIGNAL PROCESSING": {
+            "ECE F434-DIGITAL SIGNAL PROCESSING": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -1204,7 +1204,7 @@
                     ]
                 ]
             },
-            "COMMUNICATION SYSTEMS": {
+            "ECE F311-COMMUNICATION SYSTEMS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -1245,7 +1245,7 @@
                     ]
                 ]
             },
-            "ELECTROMAGNETIC FIEDL & MICROWAVE ENGG": {
+            "ECE F314-ELECTROMAGNETIC FIEDL & MICROWAVE ENGG": {
                 "LPU": {
                     "lectures": 0,
                     "tutorials": 0,
@@ -1278,7 +1278,7 @@
     "A8": {
         "Year 1 Sem 1": {},
         "Year 2 Sem 1": {
-            "ELECTRONIC DEVICES": {
+            "INSTR F214-ELECTRONIC DEVICES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -1308,7 +1308,7 @@
                     []
                 ]
             },
-            "ELECTROMAGNETIC THEO/ ELECTROMAGNETIC THEO I": {
+            "INSTR F212-ELECTROMAGNETIC THEO/ ELECTROMAGNETIC THEO I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -1354,7 +1354,7 @@
                     []
                 ]
             },
-            "ELECTRICAL MACHINES": {
+            "INSTR F211-ELECTRICAL MACHINES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -1404,7 +1404,7 @@
                     ]
                 ]
             },
-            "DIGITAL DESIGN": {
+            "INSTR F215-DIGITAL DESIGN": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -1454,7 +1454,7 @@
             }
         },
         "Year 3 Sem 1": {
-            "TRANSD & MEASUREMENT SYS": {
+            "INSTR F312-TRANSD & MEASUREMENT SYS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -1480,7 +1480,7 @@
                     []
                 ]
             },
-            "ELECTRO INST &INST TECH": {
+            "INSTR F311-ELECTRO INST &INST TECH": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -1512,7 +1512,7 @@
                     ]
                 ]
             },
-            "ANALOG & DIGIT VLSI DES": {
+            "INSTR F313-ANALOG & DIGIT VLSI DES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -1545,7 +1545,7 @@
     },
     "B1A7": {
         "Year 1 Sem 1": {
-            "BIOLOGY LABORATORY": {
+            "BIO F110-BIOLOGY LABORATORY": {
                 "LPU": {
                     "lectures": 0,
                     "tutorials": 0,
@@ -1609,7 +1609,7 @@
                     ]
                 ]
             },
-            "GENERAL BIOLOGY": {
+            "BIO F111-GENERAL BIOLOGY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -1663,7 +1663,7 @@
             }
         },
         "Year 2 Sem 1": {
-            "BIOLOGICAL CHEMISTRY": {
+            "BIO F211-BIOLOGICAL CHEMISTRY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -1689,7 +1689,7 @@
                     []
                 ]
             },
-            "MICROBIOLOGY": {
+            "BIO F212-MICROBIOLOGY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -1718,7 +1718,7 @@
                     ]
                 ]
             },
-            "CELL BIOLOGY": {
+            "BIO F213-CELL BIOLOGY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -1744,7 +1744,7 @@
                     []
                 ]
             },
-            "INTEGRATED BIOLOGY": {
+            "BIO F214-INTEGRATED BIOLOGY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -1770,7 +1770,7 @@
                     []
                 ]
             },
-            "INTRODUCTION TO ENVIRONMENTAL STUDIES": {
+            "BITS F225-INTRODUCTION TO ENVIRONMENTAL STUDIES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -1794,7 +1794,7 @@
             }
         },
         "Year 3 Sem 1": {
-            "DISCR STRUC FOR COMP SCI": {
+            "CS F222-DISCR STRUC FOR COMP SCI": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -1820,7 +1820,7 @@
                     []
                 ]
             },
-            "DIGITAL DESIGN": {
+            "CS F215-DIGITAL DESIGN": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -1871,7 +1871,7 @@
                     ]
                 ]
             },
-            "LOGIC IN COMPUTER SC": {
+            "CS F214-LOGIC IN COMPUTER SC": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -1897,7 +1897,7 @@
                     []
                 ]
             },
-            "OBJECT ORIENTED PROGRAMMING": {
+            "CS F213-OBJECT ORIENTED PROGRAMMING": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -1923,7 +1923,7 @@
                     ]
                 ]
             },
-            "RECOMBINANT DNA TECH": {
+            "BIO F311-RECOMBINANT DNA TECH": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -1949,7 +1949,7 @@
                     []
                 ]
             },
-            "PLANT PHYSIOLOGY": {
+            "BIO F312-PLANT PHYSIOLOGY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -1975,7 +1975,7 @@
                     []
                 ]
             },
-            "ANIMAL PHYSIOLOGY": {
+            "BIO F313-ANIMAL PHYSIOLOGY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -2003,7 +2003,7 @@
             }
         },
         "Year 4 Sem 1": {
-            "OPERATING SYSTEMS": {
+            "CS F372-OPERATING SYSTEMS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -2029,7 +2029,7 @@
                     []
                 ]
             },
-            "THEORY OF COMPUTATION": {
+            "CS F351-THEORY OF COMPUTATION": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -2055,7 +2055,7 @@
                     []
                 ]
             },
-            "COMPUTER ARCHITECTURE": {
+            "CS F342-COMPUTER ARCHITECTURE": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -2081,7 +2081,7 @@
                     ]
                 ]
             },
-            "PRINCIPLES OF PROGG LANG": {
+            "CS F301-PRINCIPLES OF PROGG LANG": {
                 "LPU": {
                     "lectures": 2,
                     "tutorials": 1,
@@ -2111,7 +2111,7 @@
     },
     "B2A7": {
         "Year 1 Sem 1": {
-            "CHEMISTRY LABORATORY": {
+            "CHEM F110-CHEMISTRY LABORATORY": {
                 "LPU": {
                     "lectures": 0,
                     "tutorials": 0,
@@ -2166,7 +2166,7 @@
                     ]
                 ]
             },
-            "GENERAL CHEMISTRY": {
+            "CHEM F111-GENERAL CHEMISTRY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -2228,7 +2228,7 @@
             }
         },
         "Year 2 Sem 1": {
-            "PHYSICAL CHEMISTRY I": {
+            "CHEM F211-PHYSICAL CHEMISTRY I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -2254,7 +2254,7 @@
                     []
                 ]
             },
-            "ORGANIC CHEMISTRY I": {
+            "CHEM F212-ORGANIC CHEMISTRY I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -2280,7 +2280,7 @@
                     []
                 ]
             },
-            "PHYSICAL CHEMISTRY II": {
+            "CHEM F213-PHYSICAL CHEMISTRY II": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -2306,7 +2306,7 @@
                     []
                 ]
             },
-            "INORGANIC CHEMISTRY I": {
+            "CHEM F214-INORGANIC CHEMISTRY I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -2334,7 +2334,7 @@
             }
         },
         "Year 3 Sem 1": {
-            "DISCR STRUC FOR COMP SCI": {
+            "CS F222-DISCR STRUC FOR COMP SCI": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -2360,7 +2360,7 @@
                     []
                 ]
             },
-            "DIGITAL DESIGN": {
+            "CS F215-DIGITAL DESIGN": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -2411,7 +2411,7 @@
                     ]
                 ]
             },
-            "LOGIC IN COMPUTER SC": {
+            "CS F214-LOGIC IN COMPUTER SC": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -2437,7 +2437,7 @@
                     []
                 ]
             },
-            "OBJECT ORIENTED PROGRAMMING": {
+            "CS F213-OBJECT ORIENTED PROGRAMMING": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -2463,7 +2463,7 @@
                     ]
                 ]
             },
-            "ORGANIC CHEMISTRY III": {
+            "CHEM F311-ORGANIC CHEMISTRY III": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -2489,7 +2489,7 @@
                     []
                 ]
             },
-            "PHYSICAL CHEMISTRY IV": {
+            "CHEM F312-PHYSICAL CHEMISTRY IV": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -2515,7 +2515,7 @@
                     []
                 ]
             },
-            "INSTRU METHODS OF ANAL": {
+            "CHEM F313-INSTRU METHODS OF ANAL": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -2543,7 +2543,7 @@
             }
         },
         "Year 4 Sem 1": {
-            "OPERATING SYSTEMS": {
+            "CS F372-OPERATING SYSTEMS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -2569,7 +2569,7 @@
                     []
                 ]
             },
-            "THEORY OF COMPUTATION": {
+            "CS F351-THEORY OF COMPUTATION": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -2595,7 +2595,7 @@
                     []
                 ]
             },
-            "COMPUTER ARCHITECTURE": {
+            "CS F342-COMPUTER ARCHITECTURE": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -2621,7 +2621,7 @@
                     ]
                 ]
             },
-            "PRINCIPLES OF PROGG LANG": {
+            "CS F301-PRINCIPLES OF PROGG LANG": {
                 "LPU": {
                     "lectures": 2,
                     "tutorials": 1,
@@ -2652,7 +2652,7 @@
     "B3A7": {
         "Year 1 Sem 1": {},
         "Year 2 Sem 1": {
-            "PRINCIPLES OF ECONOMICS": {
+            "ECON F211-PRINCIPLES OF ECONOMICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -2678,7 +2678,7 @@
                     []
                 ]
             },
-            "FUNDA OF FIN AND ACCOUNT": {
+            "ECON F212-FUNDA OF FIN AND ACCOUNT": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -2704,7 +2704,7 @@
                     []
                 ]
             },
-            "MATHEMATIC & STAT METHOD": {
+            "ECON F213-MATHEMATIC & STAT METHOD": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -2730,7 +2730,7 @@
                     []
                 ]
             },
-            "ECONOMIC ENV OF BUSINESSS": {
+            "ECON F214-ECONOMIC ENV OF BUSINESSS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -2758,7 +2758,7 @@
             }
         },
         "Year 3 Sem 1": {
-            "DISCR STRUC FOR COMP SCI": {
+            "CS F222-DISCR STRUC FOR COMP SCI": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -2784,7 +2784,7 @@
                     []
                 ]
             },
-            "DIGITAL DESIGN": {
+            "CS F215-DIGITAL DESIGN": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -2835,7 +2835,7 @@
                     ]
                 ]
             },
-            "LOGIC IN COMPUTER SC": {
+            "CS F214-LOGIC IN COMPUTER SC": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -2861,7 +2861,7 @@
                     []
                 ]
             },
-            "OBJECT ORIENTED PROGRAMMING": {
+            "CS F213-OBJECT ORIENTED PROGRAMMING": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -2887,7 +2887,7 @@
                     ]
                 ]
             },
-            "INTERNATIONAL ECONOMICS": {
+            "ECON F311-INTERNATIONAL ECONOMICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -2913,7 +2913,7 @@
                     []
                 ]
             },
-            "MONEY BANK & FIN MARKETS": {
+            "ECON F312-MONEY BANK & FIN MARKETS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -2939,7 +2939,7 @@
                     []
                 ]
             },
-            "ISSUES IN ECONOMIC DEVELOPMENT": {
+            "ECON F313-ISSUES IN ECONOMIC DEVELOPMENT": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -2967,7 +2967,7 @@
             }
         },
         "Year 4 Sem 1": {
-            "OPERATING SYSTEMS": {
+            "CS F372-OPERATING SYSTEMS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -2993,7 +2993,7 @@
                     []
                 ]
             },
-            "THEORY OF COMPUTATION": {
+            "CS F351-THEORY OF COMPUTATION": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -3019,7 +3019,7 @@
                     []
                 ]
             },
-            "COMPUTER ARCHITECTURE": {
+            "CS F342-COMPUTER ARCHITECTURE": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -3045,7 +3045,7 @@
                     ]
                 ]
             },
-            "PRINCIPLES OF PROGG LANG": {
+            "CS F301-PRINCIPLES OF PROGG LANG": {
                 "LPU": {
                     "lectures": 2,
                     "tutorials": 1,
@@ -3075,7 +3075,7 @@
     },
     "B4A7": {
         "Year 1 Sem 1": {
-            "MATHEMATICS I": {
+            "MATH F111-MATHEMATICS I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -3139,7 +3139,7 @@
                     []
                 ]
             },
-            "PROBABILITY & STATISTICS": {
+            "MATH F113-PROBABILITY & STATISTICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -3183,7 +3183,7 @@
             }
         },
         "Year 2 Sem 1": {
-            "MATHEMATICS III": {
+            "MATH F211-MATHEMATICS III": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -3239,7 +3239,7 @@
                     []
                 ]
             },
-            "OPTIMIZATION": {
+            "MATH F212-OPTIMIZATION": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -3265,7 +3265,7 @@
                     []
                 ]
             },
-            "DISCREET MATHEMATICS": {
+            "MATH F213-DISCREET MATHEMATICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -3291,7 +3291,7 @@
                     []
                 ]
             },
-            "ELEMENTARY REAL ANALYSIS": {
+            "MATH F214-ELEMENTARY REAL ANALYSIS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -3317,7 +3317,7 @@
                     []
                 ]
             },
-            "ALGEBRA I": {
+            "MATH F215-ALGEBRA I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -3345,7 +3345,7 @@
             }
         },
         "Year 3 Sem 1": {
-            "DISCR STRUC FOR COMP SCI": {
+            "CS F222-DISCR STRUC FOR COMP SCI": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -3371,7 +3371,7 @@
                     []
                 ]
             },
-            "DIGITAL DESIGN": {
+            "CS F215-DIGITAL DESIGN": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -3422,7 +3422,7 @@
                     ]
                 ]
             },
-            "LOGIC IN COMPUTER SC": {
+            "CS F214-LOGIC IN COMPUTER SC": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -3448,7 +3448,7 @@
                     []
                 ]
             },
-            "OBJECT ORIENTED PROGRAMMING": {
+            "CS F213-OBJECT ORIENTED PROGRAMMING": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -3474,7 +3474,7 @@
                     ]
                 ]
             },
-            "INTRODUCTION TO TOPOLOGY": {
+            "MATH F311-INTRODUCTION TO TOPOLOGY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -3500,7 +3500,7 @@
                     []
                 ]
             },
-            "ORDINARY DIFFERENTIAL EQUATIONS": {
+            "MATH F312-ORDINARY DIFFERENTIAL EQUATIONS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -3526,7 +3526,7 @@
                     []
                 ]
             },
-            "NUMERICAL ANALYSIS": {
+            "MATH F313-NUMERICAL ANALYSIS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -3554,7 +3554,7 @@
             }
         },
         "Year 4 Sem 1": {
-            "OPERATING SYSTEMS": {
+            "CS F372-OPERATING SYSTEMS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -3580,7 +3580,7 @@
                     []
                 ]
             },
-            "THEORY OF COMPUTATION": {
+            "CS F351-THEORY OF COMPUTATION": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -3606,7 +3606,7 @@
                     []
                 ]
             },
-            "COMPUTER ARCHITECTURE": {
+            "CS F342-COMPUTER ARCHITECTURE": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -3632,7 +3632,7 @@
                     ]
                 ]
             },
-            "PRINCIPLES OF PROGG LANG": {
+            "CS F301-PRINCIPLES OF PROGG LANG": {
                 "LPU": {
                     "lectures": 2,
                     "tutorials": 1,
@@ -3662,7 +3662,7 @@
     },
     "B5A7": {
         "Year 1 Sem 1": {
-            "PHYSICS LABORATORY": {
+            "PHY F110-PHYSICS LABORATORY": {
                 "LPU": {
                     "lectures": 0,
                     "tutorials": 0,
@@ -3720,7 +3720,7 @@
                     ]
                 ]
             },
-            "MECHANICS OSCILLATIONS &WAVES": {
+            "PHY F111-MECHANICS OSCILLATIONS &WAVES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -3766,7 +3766,7 @@
             }
         },
         "Year 2 Sem 1": {
-            "ELECTROMAGNETIC THEO/ ELECTROMAGNETIC THEO I": {
+            "PHY F212-ELECTROMAGNETIC THEO/ ELECTROMAGNETIC THEO I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -3812,7 +3812,7 @@
                     []
                 ]
             },
-            "CLASSICAL MECHANICS": {
+            "PHY F211-CLASSICAL MECHANICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -3838,7 +3838,7 @@
                     []
                 ]
             },
-            "OPTICS": {
+            "PHY F213-OPTICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -3864,7 +3864,7 @@
                     []
                 ]
             },
-            "ELEC, MAGNET & OPTICS LAB": {
+            "PHY F214-ELEC, MAGNET & OPTICS LAB": {
                 "LPU": {
                     "lectures": 0,
                     "tutorials": 0,
@@ -3891,7 +3891,7 @@
             }
         },
         "Year 3 Sem 1": {
-            "DISCR STRUC FOR COMP SCI": {
+            "CS F222-DISCR STRUC FOR COMP SCI": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -3917,7 +3917,7 @@
                     []
                 ]
             },
-            "DIGITAL DESIGN": {
+            "CS F215-DIGITAL DESIGN": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -3968,7 +3968,7 @@
                     ]
                 ]
             },
-            "LOGIC IN COMPUTER SC": {
+            "CS F214-LOGIC IN COMPUTER SC": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -3994,7 +3994,7 @@
                     []
                 ]
             },
-            "OBJECT ORIENTED PROGRAMMING": {
+            "CS F213-OBJECT ORIENTED PROGRAMMING": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -4020,7 +4020,7 @@
                     ]
                 ]
             },
-            "QUANTUM MECHANICS II": {
+            "PHY F311-QUANTUM MECHANICS II": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -4046,7 +4046,7 @@
                     []
                 ]
             },
-            "STATISTICAL MECHANICS": {
+            "PHY F312-STATISTICAL MECHANICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -4072,7 +4072,7 @@
                     []
                 ]
             },
-            "COMPUTATIONAL PHYSICS": {
+            "PHY F313-COMPUTATIONAL PHYSICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -4100,7 +4100,7 @@
             }
         },
         "Year 4 Sem 1": {
-            "OPERATING SYSTEMS": {
+            "CS F372-OPERATING SYSTEMS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -4126,7 +4126,7 @@
                     []
                 ]
             },
-            "THEORY OF COMPUTATION": {
+            "CS F351-THEORY OF COMPUTATION": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -4152,7 +4152,7 @@
                     []
                 ]
             },
-            "COMPUTER ARCHITECTURE": {
+            "CS F342-COMPUTER ARCHITECTURE": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -4178,7 +4178,7 @@
                     ]
                 ]
             },
-            "PRINCIPLES OF PROGG LANG": {
+            "CS F301-PRINCIPLES OF PROGG LANG": {
                 "LPU": {
                     "lectures": 2,
                     "tutorials": 1,
@@ -4208,7 +4208,7 @@
     },
     "B1A1": {
         "Year 1 Sem 1": {
-            "BIOLOGY LABORATORY": {
+            "BIO F110-BIOLOGY LABORATORY": {
                 "LPU": {
                     "lectures": 0,
                     "tutorials": 0,
@@ -4272,7 +4272,7 @@
                     ]
                 ]
             },
-            "GENERAL BIOLOGY": {
+            "BIO F111-GENERAL BIOLOGY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -4326,7 +4326,7 @@
             }
         },
         "Year 2 Sem 1": {
-            "BIOLOGICAL CHEMISTRY": {
+            "BIO F211-BIOLOGICAL CHEMISTRY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -4352,7 +4352,7 @@
                     []
                 ]
             },
-            "MICROBIOLOGY": {
+            "BIO F212-MICROBIOLOGY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -4381,7 +4381,7 @@
                     ]
                 ]
             },
-            "CELL BIOLOGY": {
+            "BIO F213-CELL BIOLOGY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -4407,7 +4407,7 @@
                     []
                 ]
             },
-            "INTEGRATED BIOLOGY": {
+            "BIO F214-INTEGRATED BIOLOGY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -4433,7 +4433,7 @@
                     []
                 ]
             },
-            "INTRODUCTION TO ENVIRONMENTAL STUDIES": {
+            "BITS F225-INTRODUCTION TO ENVIRONMENTAL STUDIES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -4457,7 +4457,7 @@
             }
         },
         "Year 3 Sem 1": {
-            "ENGG CHEMISTRY": {
+            "CHE F214-ENGG CHEMISTRY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -4483,7 +4483,7 @@
                     []
                 ]
             },
-            "CHEM ENGG THERMODYNAMICS": {
+            "CHE F213-CHEM ENGG THERMODYNAMICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -4509,7 +4509,7 @@
                     []
                 ]
             },
-            "FLUID MECHANICS": {
+            "CHE F212-FLUID MECHANICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -4535,7 +4535,7 @@
                     []
                 ]
             },
-            "CHEMICAL PROCESS CALCULA": {
+            "CHE F211-CHEMICAL PROCESS CALCULA": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -4561,7 +4561,7 @@
                     []
                 ]
             },
-            "RECOMBINANT DNA TECH": {
+            "BIO F311-RECOMBINANT DNA TECH": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -4587,7 +4587,7 @@
                     []
                 ]
             },
-            "PLANT PHYSIOLOGY": {
+            "BIO F312-PLANT PHYSIOLOGY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -4613,7 +4613,7 @@
                     []
                 ]
             },
-            "ANIMAL PHYSIOLOGY": {
+            "BIO F313-ANIMAL PHYSIOLOGY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -4641,7 +4641,7 @@
             }
         },
         "Year 4 Sem 1": {
-            "PROCESS DESIGN PRINCIPLES I": {
+            "CHE F314-PROCESS DESIGN PRINCIPLES I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -4667,7 +4667,7 @@
                     []
                 ]
             },
-            "SEPARATION PROCESSES II": {
+            "CHE F313-SEPARATION PROCESSES II": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -4693,7 +4693,7 @@
                     []
                 ]
             },
-            "CHEMICAL ENGINEERING LABORATORY I": {
+            "CHE F312-CHEMICAL ENGINEERING LABORATORY I": {
                 "LPU": {
                     "lectures": 0,
                     "tutorials": 0,
@@ -4715,7 +4715,7 @@
                     ]
                 ]
             },
-            "KINETICS & REACTOR DESIGN": {
+            "CHE F311-KINETICS & REACTOR DESIGN": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -4745,7 +4745,7 @@
     },
     "B2A1": {
         "Year 1 Sem 1": {
-            "CHEMISTRY LABORATORY": {
+            "CHEM F110-CHEMISTRY LABORATORY": {
                 "LPU": {
                     "lectures": 0,
                     "tutorials": 0,
@@ -4800,7 +4800,7 @@
                     ]
                 ]
             },
-            "GENERAL CHEMISTRY": {
+            "CHEM F111-GENERAL CHEMISTRY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -4862,7 +4862,7 @@
             }
         },
         "Year 2 Sem 1": {
-            "PHYSICAL CHEMISTRY I": {
+            "CHEM F211-PHYSICAL CHEMISTRY I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -4888,7 +4888,7 @@
                     []
                 ]
             },
-            "ORGANIC CHEMISTRY I": {
+            "CHEM F212-ORGANIC CHEMISTRY I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -4914,7 +4914,7 @@
                     []
                 ]
             },
-            "PHYSICAL CHEMISTRY II": {
+            "CHEM F213-PHYSICAL CHEMISTRY II": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -4940,7 +4940,7 @@
                     []
                 ]
             },
-            "INORGANIC CHEMISTRY I": {
+            "CHEM F214-INORGANIC CHEMISTRY I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -4968,7 +4968,7 @@
             }
         },
         "Year 3 Sem 1": {
-            "ENGG CHEMISTRY": {
+            "CHE F214-ENGG CHEMISTRY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -4994,7 +4994,7 @@
                     []
                 ]
             },
-            "CHEM ENGG THERMODYNAMICS": {
+            "CHE F213-CHEM ENGG THERMODYNAMICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -5020,7 +5020,7 @@
                     []
                 ]
             },
-            "FLUID MECHANICS": {
+            "CHE F212-FLUID MECHANICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -5046,7 +5046,7 @@
                     []
                 ]
             },
-            "CHEMICAL PROCESS CALCULA": {
+            "CHE F211-CHEMICAL PROCESS CALCULA": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -5072,7 +5072,7 @@
                     []
                 ]
             },
-            "ORGANIC CHEMISTRY III": {
+            "CHEM F311-ORGANIC CHEMISTRY III": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -5098,7 +5098,7 @@
                     []
                 ]
             },
-            "PHYSICAL CHEMISTRY IV": {
+            "CHEM F312-PHYSICAL CHEMISTRY IV": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -5124,7 +5124,7 @@
                     []
                 ]
             },
-            "INSTRU METHODS OF ANAL": {
+            "CHEM F313-INSTRU METHODS OF ANAL": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -5152,7 +5152,7 @@
             }
         },
         "Year 4 Sem 1": {
-            "PROCESS DESIGN PRINCIPLES I": {
+            "CHE F314-PROCESS DESIGN PRINCIPLES I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -5178,7 +5178,7 @@
                     []
                 ]
             },
-            "SEPARATION PROCESSES II": {
+            "CHE F313-SEPARATION PROCESSES II": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -5204,7 +5204,7 @@
                     []
                 ]
             },
-            "CHEMICAL ENGINEERING LABORATORY I": {
+            "CHE F312-CHEMICAL ENGINEERING LABORATORY I": {
                 "LPU": {
                     "lectures": 0,
                     "tutorials": 0,
@@ -5226,7 +5226,7 @@
                     ]
                 ]
             },
-            "KINETICS & REACTOR DESIGN": {
+            "CHE F311-KINETICS & REACTOR DESIGN": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -5257,7 +5257,7 @@
     "B3A1": {
         "Year 1 Sem 1": {},
         "Year 2 Sem 1": {
-            "PRINCIPLES OF ECONOMICS": {
+            "ECON F211-PRINCIPLES OF ECONOMICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -5283,7 +5283,7 @@
                     []
                 ]
             },
-            "FUNDA OF FIN AND ACCOUNT": {
+            "ECON F212-FUNDA OF FIN AND ACCOUNT": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -5309,7 +5309,7 @@
                     []
                 ]
             },
-            "MATHEMATIC & STAT METHOD": {
+            "ECON F213-MATHEMATIC & STAT METHOD": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -5335,7 +5335,7 @@
                     []
                 ]
             },
-            "ECONOMIC ENV OF BUSINESSS": {
+            "ECON F214-ECONOMIC ENV OF BUSINESSS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -5363,7 +5363,7 @@
             }
         },
         "Year 3 Sem 1": {
-            "ENGG CHEMISTRY": {
+            "CHE F214-ENGG CHEMISTRY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -5389,7 +5389,7 @@
                     []
                 ]
             },
-            "CHEM ENGG THERMODYNAMICS": {
+            "CHE F213-CHEM ENGG THERMODYNAMICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -5415,7 +5415,7 @@
                     []
                 ]
             },
-            "FLUID MECHANICS": {
+            "CHE F212-FLUID MECHANICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -5441,7 +5441,7 @@
                     []
                 ]
             },
-            "CHEMICAL PROCESS CALCULA": {
+            "CHE F211-CHEMICAL PROCESS CALCULA": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -5467,7 +5467,7 @@
                     []
                 ]
             },
-            "INTERNATIONAL ECONOMICS": {
+            "ECON F311-INTERNATIONAL ECONOMICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -5493,7 +5493,7 @@
                     []
                 ]
             },
-            "MONEY BANK & FIN MARKETS": {
+            "ECON F312-MONEY BANK & FIN MARKETS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -5519,7 +5519,7 @@
                     []
                 ]
             },
-            "ISSUES IN ECONOMIC DEVELOPMENT": {
+            "ECON F313-ISSUES IN ECONOMIC DEVELOPMENT": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -5547,7 +5547,7 @@
             }
         },
         "Year 4 Sem 1": {
-            "PROCESS DESIGN PRINCIPLES I": {
+            "CHE F314-PROCESS DESIGN PRINCIPLES I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -5573,7 +5573,7 @@
                     []
                 ]
             },
-            "SEPARATION PROCESSES II": {
+            "CHE F313-SEPARATION PROCESSES II": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -5599,7 +5599,7 @@
                     []
                 ]
             },
-            "CHEMICAL ENGINEERING LABORATORY I": {
+            "CHE F312-CHEMICAL ENGINEERING LABORATORY I": {
                 "LPU": {
                     "lectures": 0,
                     "tutorials": 0,
@@ -5621,7 +5621,7 @@
                     ]
                 ]
             },
-            "KINETICS & REACTOR DESIGN": {
+            "CHE F311-KINETICS & REACTOR DESIGN": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -5651,7 +5651,7 @@
     },
     "B4A1": {
         "Year 1 Sem 1": {
-            "MATHEMATICS I": {
+            "MATH F111-MATHEMATICS I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -5715,7 +5715,7 @@
                     []
                 ]
             },
-            "PROBABILITY & STATISTICS": {
+            "MATH F113-PROBABILITY & STATISTICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -5759,7 +5759,7 @@
             }
         },
         "Year 2 Sem 1": {
-            "MATHEMATICS III": {
+            "MATH F211-MATHEMATICS III": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -5815,7 +5815,7 @@
                     []
                 ]
             },
-            "OPTIMIZATION": {
+            "MATH F212-OPTIMIZATION": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -5841,7 +5841,7 @@
                     []
                 ]
             },
-            "DISCREET MATHEMATICS": {
+            "MATH F213-DISCREET MATHEMATICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -5867,7 +5867,7 @@
                     []
                 ]
             },
-            "ELEMENTARY REAL ANALYSIS": {
+            "MATH F214-ELEMENTARY REAL ANALYSIS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -5893,7 +5893,7 @@
                     []
                 ]
             },
-            "ALGEBRA I": {
+            "MATH F215-ALGEBRA I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -5921,7 +5921,7 @@
             }
         },
         "Year 3 Sem 1": {
-            "ENGG CHEMISTRY": {
+            "CHE F214-ENGG CHEMISTRY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -5947,7 +5947,7 @@
                     []
                 ]
             },
-            "CHEM ENGG THERMODYNAMICS": {
+            "CHE F213-CHEM ENGG THERMODYNAMICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -5973,7 +5973,7 @@
                     []
                 ]
             },
-            "FLUID MECHANICS": {
+            "CHE F212-FLUID MECHANICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -5999,7 +5999,7 @@
                     []
                 ]
             },
-            "CHEMICAL PROCESS CALCULA": {
+            "CHE F211-CHEMICAL PROCESS CALCULA": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -6025,7 +6025,7 @@
                     []
                 ]
             },
-            "INTRODUCTION TO TOPOLOGY": {
+            "MATH F311-INTRODUCTION TO TOPOLOGY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -6051,7 +6051,7 @@
                     []
                 ]
             },
-            "ORDINARY DIFFERENTIAL EQUATIONS": {
+            "MATH F312-ORDINARY DIFFERENTIAL EQUATIONS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -6077,7 +6077,7 @@
                     []
                 ]
             },
-            "NUMERICAL ANALYSIS": {
+            "MATH F313-NUMERICAL ANALYSIS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -6105,7 +6105,7 @@
             }
         },
         "Year 4 Sem 1": {
-            "PROCESS DESIGN PRINCIPLES I": {
+            "CHE F314-PROCESS DESIGN PRINCIPLES I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -6131,7 +6131,7 @@
                     []
                 ]
             },
-            "SEPARATION PROCESSES II": {
+            "CHE F313-SEPARATION PROCESSES II": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -6157,7 +6157,7 @@
                     []
                 ]
             },
-            "CHEMICAL ENGINEERING LABORATORY I": {
+            "CHE F312-CHEMICAL ENGINEERING LABORATORY I": {
                 "LPU": {
                     "lectures": 0,
                     "tutorials": 0,
@@ -6179,7 +6179,7 @@
                     ]
                 ]
             },
-            "KINETICS & REACTOR DESIGN": {
+            "CHE F311-KINETICS & REACTOR DESIGN": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -6209,7 +6209,7 @@
     },
     "B5A1": {
         "Year 1 Sem 1": {
-            "PHYSICS LABORATORY": {
+            "PHY F110-PHYSICS LABORATORY": {
                 "LPU": {
                     "lectures": 0,
                     "tutorials": 0,
@@ -6267,7 +6267,7 @@
                     ]
                 ]
             },
-            "MECHANICS OSCILLATIONS &WAVES": {
+            "PHY F111-MECHANICS OSCILLATIONS &WAVES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -6313,7 +6313,7 @@
             }
         },
         "Year 2 Sem 1": {
-            "ELECTROMAGNETIC THEO/ ELECTROMAGNETIC THEO I": {
+            "PHY F212-ELECTROMAGNETIC THEO/ ELECTROMAGNETIC THEO I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -6359,7 +6359,7 @@
                     []
                 ]
             },
-            "CLASSICAL MECHANICS": {
+            "PHY F211-CLASSICAL MECHANICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -6385,7 +6385,7 @@
                     []
                 ]
             },
-            "OPTICS": {
+            "PHY F213-OPTICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -6411,7 +6411,7 @@
                     []
                 ]
             },
-            "ELEC, MAGNET & OPTICS LAB": {
+            "PHY F214-ELEC, MAGNET & OPTICS LAB": {
                 "LPU": {
                     "lectures": 0,
                     "tutorials": 0,
@@ -6438,7 +6438,7 @@
             }
         },
         "Year 3 Sem 1": {
-            "ENGG CHEMISTRY": {
+            "CHE F214-ENGG CHEMISTRY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -6464,7 +6464,7 @@
                     []
                 ]
             },
-            "CHEM ENGG THERMODYNAMICS": {
+            "CHE F213-CHEM ENGG THERMODYNAMICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -6490,7 +6490,7 @@
                     []
                 ]
             },
-            "FLUID MECHANICS": {
+            "CHE F212-FLUID MECHANICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -6516,7 +6516,7 @@
                     []
                 ]
             },
-            "CHEMICAL PROCESS CALCULA": {
+            "CHE F211-CHEMICAL PROCESS CALCULA": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -6542,7 +6542,7 @@
                     []
                 ]
             },
-            "QUANTUM MECHANICS II": {
+            "PHY F311-QUANTUM MECHANICS II": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -6568,7 +6568,7 @@
                     []
                 ]
             },
-            "STATISTICAL MECHANICS": {
+            "PHY F312-STATISTICAL MECHANICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -6594,7 +6594,7 @@
                     []
                 ]
             },
-            "COMPUTATIONAL PHYSICS": {
+            "PHY F313-COMPUTATIONAL PHYSICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -6622,7 +6622,7 @@
             }
         },
         "Year 4 Sem 1": {
-            "PROCESS DESIGN PRINCIPLES I": {
+            "CHE F314-PROCESS DESIGN PRINCIPLES I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -6648,7 +6648,7 @@
                     []
                 ]
             },
-            "SEPARATION PROCESSES II": {
+            "CHE F313-SEPARATION PROCESSES II": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -6674,7 +6674,7 @@
                     []
                 ]
             },
-            "CHEMICAL ENGINEERING LABORATORY I": {
+            "CHE F312-CHEMICAL ENGINEERING LABORATORY I": {
                 "LPU": {
                     "lectures": 0,
                     "tutorials": 0,
@@ -6696,7 +6696,7 @@
                     ]
                 ]
             },
-            "KINETICS & REACTOR DESIGN": {
+            "CHE F311-KINETICS & REACTOR DESIGN": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -6726,7 +6726,7 @@
     },
     "B1A4": {
         "Year 1 Sem 1": {
-            "BIOLOGY LABORATORY": {
+            "BIO F110-BIOLOGY LABORATORY": {
                 "LPU": {
                     "lectures": 0,
                     "tutorials": 0,
@@ -6790,7 +6790,7 @@
                     ]
                 ]
             },
-            "GENERAL BIOLOGY": {
+            "BIO F111-GENERAL BIOLOGY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -6844,7 +6844,7 @@
             }
         },
         "Year 2 Sem 1": {
-            "WORKSHOP PRACTICE": {
+            "ME F110-WORKSHOP PRACTICE": {
                 "LPU": {
                     "lectures": 0,
                     "tutorials": 0,
@@ -6881,7 +6881,7 @@
                     ]
                 ]
             },
-            "ENGINEERING GRAPHICS": {
+            "BITS F110-ENGINEERING GRAPHICS": {
                 "LPU": {
                     "lectures": 1,
                     "tutorials": 0,
@@ -6912,7 +6912,7 @@
                     ]
                 ]
             },
-            "BIOLOGICAL CHEMISTRY": {
+            "BIO F211-BIOLOGICAL CHEMISTRY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -6938,7 +6938,7 @@
                     []
                 ]
             },
-            "MICROBIOLOGY": {
+            "BIO F212-MICROBIOLOGY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -6967,7 +6967,7 @@
                     ]
                 ]
             },
-            "CELL BIOLOGY": {
+            "BIO F213-CELL BIOLOGY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -6993,7 +6993,7 @@
                     []
                 ]
             },
-            "INTEGRATED BIOLOGY": {
+            "BIO F214-INTEGRATED BIOLOGY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -7019,7 +7019,7 @@
                     []
                 ]
             },
-            "INTRODUCTION TO ENVIRONMENTAL STUDIES": {
+            "BITS F225-INTRODUCTION TO ENVIRONMENTAL STUDIES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -7043,7 +7043,7 @@
             }
         },
         "Year 3 Sem 1": {
-            "PRODUCTION TECHNIQUES I": {
+            "ME F243-PRODUCTION TECHNIQUES I": {
                 "LPU": {
                     "lectures": 2,
                     "tutorials": 0,
@@ -7076,7 +7076,7 @@
                     ]
                 ]
             },
-            "APPLIED THERMODYNAMICS": {
+            "ME F214-APPLIED THERMODYNAMICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -7102,7 +7102,7 @@
                     []
                 ]
             },
-            "MATERIAL SCIENCE & ENGG": {
+            "ME F213-MATERIAL SCIENCE & ENGG": {
                 "LPU": {
                     "lectures": 2,
                     "tutorials": 1,
@@ -7128,7 +7128,7 @@
                     []
                 ]
             },
-            "FLUID MECHANICS": {
+            "ME F212-FLUID MECHANICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -7154,7 +7154,7 @@
                     []
                 ]
             },
-            "MECHANICS OF SOLIDS": {
+            "ME F211-MECHANICS OF SOLIDS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -7180,7 +7180,7 @@
                     []
                 ]
             },
-            "RECOMBINANT DNA TECH": {
+            "BIO F311-RECOMBINANT DNA TECH": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -7206,7 +7206,7 @@
                     []
                 ]
             },
-            "PLANT PHYSIOLOGY": {
+            "BIO F312-PLANT PHYSIOLOGY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -7232,7 +7232,7 @@
                     []
                 ]
             },
-            "ANIMAL PHYSIOLOGY": {
+            "BIO F313-ANIMAL PHYSIOLOGY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -7260,7 +7260,7 @@
             }
         },
         "Year 4 Sem 1": {
-            "COMPUTER AIDED DESIGN": {
+            "ME F342-COMPUTER AIDED DESIGN": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -7286,7 +7286,7 @@
                     ]
                 ]
             },
-            "ADVANCED MECHANICS OF SOLIDS": {
+            "ME F312-ADVANCED MECHANICS OF SOLIDS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -7312,7 +7312,7 @@
                     []
                 ]
             },
-            "HEAT TRANSFER": {
+            "ME F311-HEAT TRANSFER": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -7349,7 +7349,7 @@
     },
     "B2A4": {
         "Year 1 Sem 1": {
-            "CHEMISTRY LABORATORY": {
+            "CHEM F110-CHEMISTRY LABORATORY": {
                 "LPU": {
                     "lectures": 0,
                     "tutorials": 0,
@@ -7404,7 +7404,7 @@
                     ]
                 ]
             },
-            "GENERAL CHEMISTRY": {
+            "CHEM F111-GENERAL CHEMISTRY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -7466,7 +7466,7 @@
             }
         },
         "Year 2 Sem 1": {
-            "WORKSHOP PRACTICE": {
+            "ME F110-WORKSHOP PRACTICE": {
                 "LPU": {
                     "lectures": 0,
                     "tutorials": 0,
@@ -7503,7 +7503,7 @@
                     ]
                 ]
             },
-            "ENGINEERING GRAPHICS": {
+            "BITS F110-ENGINEERING GRAPHICS": {
                 "LPU": {
                     "lectures": 1,
                     "tutorials": 0,
@@ -7534,7 +7534,7 @@
                     ]
                 ]
             },
-            "PHYSICAL CHEMISTRY I": {
+            "CHEM F211-PHYSICAL CHEMISTRY I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -7560,7 +7560,7 @@
                     []
                 ]
             },
-            "ORGANIC CHEMISTRY I": {
+            "CHEM F212-ORGANIC CHEMISTRY I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -7586,7 +7586,7 @@
                     []
                 ]
             },
-            "PHYSICAL CHEMISTRY II": {
+            "CHEM F213-PHYSICAL CHEMISTRY II": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -7612,7 +7612,7 @@
                     []
                 ]
             },
-            "INORGANIC CHEMISTRY I": {
+            "CHEM F214-INORGANIC CHEMISTRY I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -7640,7 +7640,7 @@
             }
         },
         "Year 3 Sem 1": {
-            "PRODUCTION TECHNIQUES I": {
+            "ME F243-PRODUCTION TECHNIQUES I": {
                 "LPU": {
                     "lectures": 2,
                     "tutorials": 0,
@@ -7673,7 +7673,7 @@
                     ]
                 ]
             },
-            "APPLIED THERMODYNAMICS": {
+            "ME F214-APPLIED THERMODYNAMICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -7699,7 +7699,7 @@
                     []
                 ]
             },
-            "MATERIAL SCIENCE & ENGG": {
+            "ME F213-MATERIAL SCIENCE & ENGG": {
                 "LPU": {
                     "lectures": 2,
                     "tutorials": 1,
@@ -7725,7 +7725,7 @@
                     []
                 ]
             },
-            "FLUID MECHANICS": {
+            "ME F212-FLUID MECHANICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -7751,7 +7751,7 @@
                     []
                 ]
             },
-            "MECHANICS OF SOLIDS": {
+            "ME F211-MECHANICS OF SOLIDS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -7777,7 +7777,7 @@
                     []
                 ]
             },
-            "ORGANIC CHEMISTRY III": {
+            "CHEM F311-ORGANIC CHEMISTRY III": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -7803,7 +7803,7 @@
                     []
                 ]
             },
-            "PHYSICAL CHEMISTRY IV": {
+            "CHEM F312-PHYSICAL CHEMISTRY IV": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -7829,7 +7829,7 @@
                     []
                 ]
             },
-            "INSTRU METHODS OF ANAL": {
+            "CHEM F313-INSTRU METHODS OF ANAL": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -7857,7 +7857,7 @@
             }
         },
         "Year 4 Sem 1": {
-            "COMPUTER AIDED DESIGN": {
+            "ME F342-COMPUTER AIDED DESIGN": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -7883,7 +7883,7 @@
                     ]
                 ]
             },
-            "ADVANCED MECHANICS OF SOLIDS": {
+            "ME F312-ADVANCED MECHANICS OF SOLIDS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -7909,7 +7909,7 @@
                     []
                 ]
             },
-            "HEAT TRANSFER": {
+            "ME F311-HEAT TRANSFER": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -7947,7 +7947,7 @@
     "B3A4": {
         "Year 1 Sem 1": {},
         "Year 2 Sem 1": {
-            "WORKSHOP PRACTICE": {
+            "ME F110-WORKSHOP PRACTICE": {
                 "LPU": {
                     "lectures": 0,
                     "tutorials": 0,
@@ -7984,7 +7984,7 @@
                     ]
                 ]
             },
-            "ENGINEERING GRAPHICS": {
+            "BITS F110-ENGINEERING GRAPHICS": {
                 "LPU": {
                     "lectures": 1,
                     "tutorials": 0,
@@ -8015,7 +8015,7 @@
                     ]
                 ]
             },
-            "PRINCIPLES OF ECONOMICS": {
+            "ECON F211-PRINCIPLES OF ECONOMICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -8041,7 +8041,7 @@
                     []
                 ]
             },
-            "FUNDA OF FIN AND ACCOUNT": {
+            "ECON F212-FUNDA OF FIN AND ACCOUNT": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -8067,7 +8067,7 @@
                     []
                 ]
             },
-            "MATHEMATIC & STAT METHOD": {
+            "ECON F213-MATHEMATIC & STAT METHOD": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -8093,7 +8093,7 @@
                     []
                 ]
             },
-            "ECONOMIC ENV OF BUSINESSS": {
+            "ECON F214-ECONOMIC ENV OF BUSINESSS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -8121,7 +8121,7 @@
             }
         },
         "Year 3 Sem 1": {
-            "PRODUCTION TECHNIQUES I": {
+            "ME F243-PRODUCTION TECHNIQUES I": {
                 "LPU": {
                     "lectures": 2,
                     "tutorials": 0,
@@ -8154,7 +8154,7 @@
                     ]
                 ]
             },
-            "APPLIED THERMODYNAMICS": {
+            "ME F214-APPLIED THERMODYNAMICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -8180,7 +8180,7 @@
                     []
                 ]
             },
-            "MATERIAL SCIENCE & ENGG": {
+            "ME F213-MATERIAL SCIENCE & ENGG": {
                 "LPU": {
                     "lectures": 2,
                     "tutorials": 1,
@@ -8206,7 +8206,7 @@
                     []
                 ]
             },
-            "FLUID MECHANICS": {
+            "ME F212-FLUID MECHANICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -8232,7 +8232,7 @@
                     []
                 ]
             },
-            "MECHANICS OF SOLIDS": {
+            "ME F211-MECHANICS OF SOLIDS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -8258,7 +8258,7 @@
                     []
                 ]
             },
-            "INTERNATIONAL ECONOMICS": {
+            "ECON F311-INTERNATIONAL ECONOMICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -8284,7 +8284,7 @@
                     []
                 ]
             },
-            "MONEY BANK & FIN MARKETS": {
+            "ECON F312-MONEY BANK & FIN MARKETS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -8310,7 +8310,7 @@
                     []
                 ]
             },
-            "ISSUES IN ECONOMIC DEVELOPMENT": {
+            "ECON F313-ISSUES IN ECONOMIC DEVELOPMENT": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -8338,7 +8338,7 @@
             }
         },
         "Year 4 Sem 1": {
-            "COMPUTER AIDED DESIGN": {
+            "ME F342-COMPUTER AIDED DESIGN": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -8364,7 +8364,7 @@
                     ]
                 ]
             },
-            "ADVANCED MECHANICS OF SOLIDS": {
+            "ME F312-ADVANCED MECHANICS OF SOLIDS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -8390,7 +8390,7 @@
                     []
                 ]
             },
-            "HEAT TRANSFER": {
+            "ME F311-HEAT TRANSFER": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -8427,7 +8427,7 @@
     },
     "B4A4": {
         "Year 1 Sem 1": {
-            "MATHEMATICS I": {
+            "MATH F111-MATHEMATICS I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -8491,7 +8491,7 @@
                     []
                 ]
             },
-            "PROBABILITY & STATISTICS": {
+            "MATH F113-PROBABILITY & STATISTICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -8535,7 +8535,7 @@
             }
         },
         "Year 2 Sem 1": {
-            "WORKSHOP PRACTICE": {
+            "ME F110-WORKSHOP PRACTICE": {
                 "LPU": {
                     "lectures": 0,
                     "tutorials": 0,
@@ -8572,7 +8572,7 @@
                     ]
                 ]
             },
-            "ENGINEERING GRAPHICS": {
+            "BITS F110-ENGINEERING GRAPHICS": {
                 "LPU": {
                     "lectures": 1,
                     "tutorials": 0,
@@ -8603,7 +8603,7 @@
                     ]
                 ]
             },
-            "MATHEMATICS III": {
+            "MATH F211-MATHEMATICS III": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -8659,7 +8659,7 @@
                     []
                 ]
             },
-            "OPTIMIZATION": {
+            "MATH F212-OPTIMIZATION": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -8685,7 +8685,7 @@
                     []
                 ]
             },
-            "DISCREET MATHEMATICS": {
+            "MATH F213-DISCREET MATHEMATICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -8711,7 +8711,7 @@
                     []
                 ]
             },
-            "ELEMENTARY REAL ANALYSIS": {
+            "MATH F214-ELEMENTARY REAL ANALYSIS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -8737,7 +8737,7 @@
                     []
                 ]
             },
-            "ALGEBRA I": {
+            "MATH F215-ALGEBRA I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -8765,7 +8765,7 @@
             }
         },
         "Year 3 Sem 1": {
-            "PRODUCTION TECHNIQUES I": {
+            "ME F243-PRODUCTION TECHNIQUES I": {
                 "LPU": {
                     "lectures": 2,
                     "tutorials": 0,
@@ -8798,7 +8798,7 @@
                     ]
                 ]
             },
-            "APPLIED THERMODYNAMICS": {
+            "ME F214-APPLIED THERMODYNAMICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -8824,7 +8824,7 @@
                     []
                 ]
             },
-            "MATERIAL SCIENCE & ENGG": {
+            "ME F213-MATERIAL SCIENCE & ENGG": {
                 "LPU": {
                     "lectures": 2,
                     "tutorials": 1,
@@ -8850,7 +8850,7 @@
                     []
                 ]
             },
-            "FLUID MECHANICS": {
+            "ME F212-FLUID MECHANICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -8876,7 +8876,7 @@
                     []
                 ]
             },
-            "MECHANICS OF SOLIDS": {
+            "ME F211-MECHANICS OF SOLIDS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -8902,7 +8902,7 @@
                     []
                 ]
             },
-            "INTRODUCTION TO TOPOLOGY": {
+            "MATH F311-INTRODUCTION TO TOPOLOGY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -8928,7 +8928,7 @@
                     []
                 ]
             },
-            "ORDINARY DIFFERENTIAL EQUATIONS": {
+            "MATH F312-ORDINARY DIFFERENTIAL EQUATIONS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -8954,7 +8954,7 @@
                     []
                 ]
             },
-            "NUMERICAL ANALYSIS": {
+            "MATH F313-NUMERICAL ANALYSIS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -8982,7 +8982,7 @@
             }
         },
         "Year 4 Sem 1": {
-            "COMPUTER AIDED DESIGN": {
+            "ME F342-COMPUTER AIDED DESIGN": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -9008,7 +9008,7 @@
                     ]
                 ]
             },
-            "ADVANCED MECHANICS OF SOLIDS": {
+            "ME F312-ADVANCED MECHANICS OF SOLIDS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -9034,7 +9034,7 @@
                     []
                 ]
             },
-            "HEAT TRANSFER": {
+            "ME F311-HEAT TRANSFER": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -9071,7 +9071,7 @@
     },
     "B5A4": {
         "Year 1 Sem 1": {
-            "PHYSICS LABORATORY": {
+            "PHY F110-PHYSICS LABORATORY": {
                 "LPU": {
                     "lectures": 0,
                     "tutorials": 0,
@@ -9129,7 +9129,7 @@
                     ]
                 ]
             },
-            "MECHANICS OSCILLATIONS &WAVES": {
+            "PHY F111-MECHANICS OSCILLATIONS &WAVES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -9175,7 +9175,7 @@
             }
         },
         "Year 2 Sem 1": {
-            "WORKSHOP PRACTICE": {
+            "ME F110-WORKSHOP PRACTICE": {
                 "LPU": {
                     "lectures": 0,
                     "tutorials": 0,
@@ -9212,7 +9212,7 @@
                     ]
                 ]
             },
-            "ENGINEERING GRAPHICS": {
+            "BITS F110-ENGINEERING GRAPHICS": {
                 "LPU": {
                     "lectures": 1,
                     "tutorials": 0,
@@ -9243,7 +9243,7 @@
                     ]
                 ]
             },
-            "ELECTROMAGNETIC THEO/ ELECTROMAGNETIC THEO I": {
+            "PHY F212-ELECTROMAGNETIC THEO/ ELECTROMAGNETIC THEO I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -9289,7 +9289,7 @@
                     []
                 ]
             },
-            "CLASSICAL MECHANICS": {
+            "PHY F211-CLASSICAL MECHANICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -9315,7 +9315,7 @@
                     []
                 ]
             },
-            "OPTICS": {
+            "PHY F213-OPTICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -9341,7 +9341,7 @@
                     []
                 ]
             },
-            "ELEC, MAGNET & OPTICS LAB": {
+            "PHY F214-ELEC, MAGNET & OPTICS LAB": {
                 "LPU": {
                     "lectures": 0,
                     "tutorials": 0,
@@ -9368,7 +9368,7 @@
             }
         },
         "Year 3 Sem 1": {
-            "PRODUCTION TECHNIQUES I": {
+            "ME F243-PRODUCTION TECHNIQUES I": {
                 "LPU": {
                     "lectures": 2,
                     "tutorials": 0,
@@ -9401,7 +9401,7 @@
                     ]
                 ]
             },
-            "APPLIED THERMODYNAMICS": {
+            "ME F214-APPLIED THERMODYNAMICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -9427,7 +9427,7 @@
                     []
                 ]
             },
-            "MATERIAL SCIENCE & ENGG": {
+            "ME F213-MATERIAL SCIENCE & ENGG": {
                 "LPU": {
                     "lectures": 2,
                     "tutorials": 1,
@@ -9453,7 +9453,7 @@
                     []
                 ]
             },
-            "FLUID MECHANICS": {
+            "ME F212-FLUID MECHANICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -9479,7 +9479,7 @@
                     []
                 ]
             },
-            "MECHANICS OF SOLIDS": {
+            "ME F211-MECHANICS OF SOLIDS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -9505,7 +9505,7 @@
                     []
                 ]
             },
-            "QUANTUM MECHANICS II": {
+            "PHY F311-QUANTUM MECHANICS II": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -9531,7 +9531,7 @@
                     []
                 ]
             },
-            "STATISTICAL MECHANICS": {
+            "PHY F312-STATISTICAL MECHANICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -9557,7 +9557,7 @@
                     []
                 ]
             },
-            "COMPUTATIONAL PHYSICS": {
+            "PHY F313-COMPUTATIONAL PHYSICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -9585,7 +9585,7 @@
             }
         },
         "Year 4 Sem 1": {
-            "COMPUTER AIDED DESIGN": {
+            "ME F342-COMPUTER AIDED DESIGN": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -9611,7 +9611,7 @@
                     ]
                 ]
             },
-            "ADVANCED MECHANICS OF SOLIDS": {
+            "ME F312-ADVANCED MECHANICS OF SOLIDS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -9637,7 +9637,7 @@
                     []
                 ]
             },
-            "HEAT TRANSFER": {
+            "ME F311-HEAT TRANSFER": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -9674,7 +9674,7 @@
     },
     "B1A3": {
         "Year 1 Sem 1": {
-            "BIOLOGY LABORATORY": {
+            "BIO F110-BIOLOGY LABORATORY": {
                 "LPU": {
                     "lectures": 0,
                     "tutorials": 0,
@@ -9738,7 +9738,7 @@
                     ]
                 ]
             },
-            "GENERAL BIOLOGY": {
+            "BIO F111-GENERAL BIOLOGY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -9792,7 +9792,7 @@
             }
         },
         "Year 2 Sem 1": {
-            "BIOLOGICAL CHEMISTRY": {
+            "BIO F211-BIOLOGICAL CHEMISTRY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -9818,7 +9818,7 @@
                     []
                 ]
             },
-            "MICROBIOLOGY": {
+            "BIO F212-MICROBIOLOGY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -9847,7 +9847,7 @@
                     ]
                 ]
             },
-            "CELL BIOLOGY": {
+            "BIO F213-CELL BIOLOGY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -9873,7 +9873,7 @@
                     []
                 ]
             },
-            "INTEGRATED BIOLOGY": {
+            "BIO F214-INTEGRATED BIOLOGY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -9899,7 +9899,7 @@
                     []
                 ]
             },
-            "INTRODUCTION TO ENVIRONMENTAL STUDIES": {
+            "BITS F225-INTRODUCTION TO ENVIRONMENTAL STUDIES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -9923,7 +9923,7 @@
             }
         },
         "Year 3 Sem 1": {
-            "ELECTRONIC DEVICES": {
+            "EEE F214-ELECTRONIC DEVICES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -9953,7 +9953,7 @@
                     []
                 ]
             },
-            "ELECTROMAGNETIC THEO/ ELECTROMAGNETIC THEO I": {
+            "EEE F212-ELECTROMAGNETIC THEO/ ELECTROMAGNETIC THEO I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -9999,7 +9999,7 @@
                     []
                 ]
             },
-            "ELECTRICAL MACHINES": {
+            "EEE F211-ELECTRICAL MACHINES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -10049,7 +10049,7 @@
                     ]
                 ]
             },
-            "DIGITAL DESIGN": {
+            "EEE F215-DIGITAL DESIGN": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -10094,7 +10094,7 @@
                     ]
                 ]
             },
-            "RECOMBINANT DNA TECH": {
+            "BIO F311-RECOMBINANT DNA TECH": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -10120,7 +10120,7 @@
                     []
                 ]
             },
-            "PLANT PHYSIOLOGY": {
+            "BIO F312-PLANT PHYSIOLOGY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -10146,7 +10146,7 @@
                     []
                 ]
             },
-            "ANIMAL PHYSIOLOGY": {
+            "BIO F313-ANIMAL PHYSIOLOGY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -10174,7 +10174,7 @@
             }
         },
         "Year 4 Sem 1": {
-            "ANALOG & DIGIT VLSI DES": {
+            "EEE F313-ANALOG & DIGIT VLSI DES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -10202,7 +10202,7 @@
                     []
                 ]
             },
-            "COMMUNICATION SYSTEMS": {
+            "EEE F311-COMMUNICATION SYSTEMS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -10247,7 +10247,7 @@
     },
     "B2A3": {
         "Year 1 Sem 1": {
-            "CHEMISTRY LABORATORY": {
+            "CHEM F110-CHEMISTRY LABORATORY": {
                 "LPU": {
                     "lectures": 0,
                     "tutorials": 0,
@@ -10302,7 +10302,7 @@
                     ]
                 ]
             },
-            "GENERAL CHEMISTRY": {
+            "CHEM F111-GENERAL CHEMISTRY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -10364,7 +10364,7 @@
             }
         },
         "Year 2 Sem 1": {
-            "PHYSICAL CHEMISTRY I": {
+            "CHEM F211-PHYSICAL CHEMISTRY I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -10390,7 +10390,7 @@
                     []
                 ]
             },
-            "ORGANIC CHEMISTRY I": {
+            "CHEM F212-ORGANIC CHEMISTRY I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -10416,7 +10416,7 @@
                     []
                 ]
             },
-            "PHYSICAL CHEMISTRY II": {
+            "CHEM F213-PHYSICAL CHEMISTRY II": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -10442,7 +10442,7 @@
                     []
                 ]
             },
-            "INORGANIC CHEMISTRY I": {
+            "CHEM F214-INORGANIC CHEMISTRY I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -10470,7 +10470,7 @@
             }
         },
         "Year 3 Sem 1": {
-            "ELECTRONIC DEVICES": {
+            "EEE F214-ELECTRONIC DEVICES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -10500,7 +10500,7 @@
                     []
                 ]
             },
-            "ELECTROMAGNETIC THEO/ ELECTROMAGNETIC THEO I": {
+            "EEE F212-ELECTROMAGNETIC THEO/ ELECTROMAGNETIC THEO I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -10546,7 +10546,7 @@
                     []
                 ]
             },
-            "ELECTRICAL MACHINES": {
+            "EEE F211-ELECTRICAL MACHINES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -10596,7 +10596,7 @@
                     ]
                 ]
             },
-            "DIGITAL DESIGN": {
+            "EEE F215-DIGITAL DESIGN": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -10641,7 +10641,7 @@
                     ]
                 ]
             },
-            "ORGANIC CHEMISTRY III": {
+            "CHEM F311-ORGANIC CHEMISTRY III": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -10667,7 +10667,7 @@
                     []
                 ]
             },
-            "PHYSICAL CHEMISTRY IV": {
+            "CHEM F312-PHYSICAL CHEMISTRY IV": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -10693,7 +10693,7 @@
                     []
                 ]
             },
-            "INSTRU METHODS OF ANAL": {
+            "CHEM F313-INSTRU METHODS OF ANAL": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -10721,7 +10721,7 @@
             }
         },
         "Year 4 Sem 1": {
-            "ANALOG & DIGIT VLSI DES": {
+            "EEE F313-ANALOG & DIGIT VLSI DES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -10749,7 +10749,7 @@
                     []
                 ]
             },
-            "COMMUNICATION SYSTEMS": {
+            "EEE F311-COMMUNICATION SYSTEMS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -10795,7 +10795,7 @@
     "B3A3": {
         "Year 1 Sem 1": {},
         "Year 2 Sem 1": {
-            "PRINCIPLES OF ECONOMICS": {
+            "ECON F211-PRINCIPLES OF ECONOMICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -10821,7 +10821,7 @@
                     []
                 ]
             },
-            "FUNDA OF FIN AND ACCOUNT": {
+            "ECON F212-FUNDA OF FIN AND ACCOUNT": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -10847,7 +10847,7 @@
                     []
                 ]
             },
-            "MATHEMATIC & STAT METHOD": {
+            "ECON F213-MATHEMATIC & STAT METHOD": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -10873,7 +10873,7 @@
                     []
                 ]
             },
-            "ECONOMIC ENV OF BUSINESSS": {
+            "ECON F214-ECONOMIC ENV OF BUSINESSS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -10901,7 +10901,7 @@
             }
         },
         "Year 3 Sem 1": {
-            "ELECTRONIC DEVICES": {
+            "EEE F214-ELECTRONIC DEVICES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -10931,7 +10931,7 @@
                     []
                 ]
             },
-            "ELECTROMAGNETIC THEO/ ELECTROMAGNETIC THEO I": {
+            "EEE F212-ELECTROMAGNETIC THEO/ ELECTROMAGNETIC THEO I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -10977,7 +10977,7 @@
                     []
                 ]
             },
-            "ELECTRICAL MACHINES": {
+            "EEE F211-ELECTRICAL MACHINES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -11027,7 +11027,7 @@
                     ]
                 ]
             },
-            "DIGITAL DESIGN": {
+            "EEE F215-DIGITAL DESIGN": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -11072,7 +11072,7 @@
                     ]
                 ]
             },
-            "INTERNATIONAL ECONOMICS": {
+            "ECON F311-INTERNATIONAL ECONOMICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -11098,7 +11098,7 @@
                     []
                 ]
             },
-            "MONEY BANK & FIN MARKETS": {
+            "ECON F312-MONEY BANK & FIN MARKETS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -11124,7 +11124,7 @@
                     []
                 ]
             },
-            "ISSUES IN ECONOMIC DEVELOPMENT": {
+            "ECON F313-ISSUES IN ECONOMIC DEVELOPMENT": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -11152,7 +11152,7 @@
             }
         },
         "Year 4 Sem 1": {
-            "ANALOG & DIGIT VLSI DES": {
+            "EEE F313-ANALOG & DIGIT VLSI DES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -11180,7 +11180,7 @@
                     []
                 ]
             },
-            "COMMUNICATION SYSTEMS": {
+            "EEE F311-COMMUNICATION SYSTEMS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -11225,7 +11225,7 @@
     },
     "B4A3": {
         "Year 1 Sem 1": {
-            "MATHEMATICS I": {
+            "MATH F111-MATHEMATICS I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -11289,7 +11289,7 @@
                     []
                 ]
             },
-            "PROBABILITY & STATISTICS": {
+            "MATH F113-PROBABILITY & STATISTICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -11333,7 +11333,7 @@
             }
         },
         "Year 2 Sem 1": {
-            "MATHEMATICS III": {
+            "MATH F211-MATHEMATICS III": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -11389,7 +11389,7 @@
                     []
                 ]
             },
-            "OPTIMIZATION": {
+            "MATH F212-OPTIMIZATION": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -11415,7 +11415,7 @@
                     []
                 ]
             },
-            "DISCREET MATHEMATICS": {
+            "MATH F213-DISCREET MATHEMATICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -11441,7 +11441,7 @@
                     []
                 ]
             },
-            "ELEMENTARY REAL ANALYSIS": {
+            "MATH F214-ELEMENTARY REAL ANALYSIS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -11467,7 +11467,7 @@
                     []
                 ]
             },
-            "ALGEBRA I": {
+            "MATH F215-ALGEBRA I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -11495,7 +11495,7 @@
             }
         },
         "Year 3 Sem 1": {
-            "ELECTRONIC DEVICES": {
+            "EEE F214-ELECTRONIC DEVICES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -11525,7 +11525,7 @@
                     []
                 ]
             },
-            "ELECTROMAGNETIC THEO/ ELECTROMAGNETIC THEO I": {
+            "EEE F212-ELECTROMAGNETIC THEO/ ELECTROMAGNETIC THEO I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -11571,7 +11571,7 @@
                     []
                 ]
             },
-            "ELECTRICAL MACHINES": {
+            "EEE F211-ELECTRICAL MACHINES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -11621,7 +11621,7 @@
                     ]
                 ]
             },
-            "DIGITAL DESIGN": {
+            "EEE F215-DIGITAL DESIGN": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -11666,7 +11666,7 @@
                     ]
                 ]
             },
-            "INTRODUCTION TO TOPOLOGY": {
+            "MATH F311-INTRODUCTION TO TOPOLOGY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -11692,7 +11692,7 @@
                     []
                 ]
             },
-            "ORDINARY DIFFERENTIAL EQUATIONS": {
+            "MATH F312-ORDINARY DIFFERENTIAL EQUATIONS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -11718,7 +11718,7 @@
                     []
                 ]
             },
-            "NUMERICAL ANALYSIS": {
+            "MATH F313-NUMERICAL ANALYSIS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -11746,7 +11746,7 @@
             }
         },
         "Year 4 Sem 1": {
-            "ANALOG & DIGIT VLSI DES": {
+            "EEE F313-ANALOG & DIGIT VLSI DES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -11774,7 +11774,7 @@
                     []
                 ]
             },
-            "COMMUNICATION SYSTEMS": {
+            "EEE F311-COMMUNICATION SYSTEMS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -11819,7 +11819,7 @@
     },
     "B5A3": {
         "Year 1 Sem 1": {
-            "PHYSICS LABORATORY": {
+            "PHY F110-PHYSICS LABORATORY": {
                 "LPU": {
                     "lectures": 0,
                     "tutorials": 0,
@@ -11877,7 +11877,7 @@
                     ]
                 ]
             },
-            "MECHANICS OSCILLATIONS &WAVES": {
+            "PHY F111-MECHANICS OSCILLATIONS &WAVES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -11923,7 +11923,7 @@
             }
         },
         "Year 2 Sem 1": {
-            "ELECTROMAGNETIC THEO/ ELECTROMAGNETIC THEO I": {
+            "PHY F212-ELECTROMAGNETIC THEO/ ELECTROMAGNETIC THEO I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -11969,7 +11969,7 @@
                     []
                 ]
             },
-            "CLASSICAL MECHANICS": {
+            "PHY F211-CLASSICAL MECHANICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -11995,7 +11995,7 @@
                     []
                 ]
             },
-            "OPTICS": {
+            "PHY F213-OPTICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -12021,7 +12021,7 @@
                     []
                 ]
             },
-            "ELEC, MAGNET & OPTICS LAB": {
+            "PHY F214-ELEC, MAGNET & OPTICS LAB": {
                 "LPU": {
                     "lectures": 0,
                     "tutorials": 0,
@@ -12048,7 +12048,7 @@
             }
         },
         "Year 3 Sem 1": {
-            "ELECTRONIC DEVICES": {
+            "EEE F214-ELECTRONIC DEVICES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -12078,7 +12078,7 @@
                     []
                 ]
             },
-            "ELECTROMAGNETIC THEO/ ELECTROMAGNETIC THEO I": {
+            "EEE F212-ELECTROMAGNETIC THEO/ ELECTROMAGNETIC THEO I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -12124,7 +12124,7 @@
                     []
                 ]
             },
-            "ELECTRICAL MACHINES": {
+            "EEE F211-ELECTRICAL MACHINES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -12174,7 +12174,7 @@
                     ]
                 ]
             },
-            "DIGITAL DESIGN": {
+            "EEE F215-DIGITAL DESIGN": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -12219,7 +12219,7 @@
                     ]
                 ]
             },
-            "QUANTUM MECHANICS II": {
+            "PHY F311-QUANTUM MECHANICS II": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -12245,7 +12245,7 @@
                     []
                 ]
             },
-            "STATISTICAL MECHANICS": {
+            "PHY F312-STATISTICAL MECHANICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -12271,7 +12271,7 @@
                     []
                 ]
             },
-            "COMPUTATIONAL PHYSICS": {
+            "PHY F313-COMPUTATIONAL PHYSICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -12299,7 +12299,7 @@
             }
         },
         "Year 4 Sem 1": {
-            "ANALOG & DIGIT VLSI DES": {
+            "EEE F313-ANALOG & DIGIT VLSI DES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -12327,7 +12327,7 @@
                     []
                 ]
             },
-            "COMMUNICATION SYSTEMS": {
+            "EEE F311-COMMUNICATION SYSTEMS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -12372,7 +12372,7 @@
     },
     "B1A8": {
         "Year 1 Sem 1": {
-            "BIOLOGY LABORATORY": {
+            "BIO F110-BIOLOGY LABORATORY": {
                 "LPU": {
                     "lectures": 0,
                     "tutorials": 0,
@@ -12436,7 +12436,7 @@
                     ]
                 ]
             },
-            "GENERAL BIOLOGY": {
+            "BIO F111-GENERAL BIOLOGY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -12490,7 +12490,7 @@
             }
         },
         "Year 2 Sem 1": {
-            "BIOLOGICAL CHEMISTRY": {
+            "BIO F211-BIOLOGICAL CHEMISTRY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -12516,7 +12516,7 @@
                     []
                 ]
             },
-            "MICROBIOLOGY": {
+            "BIO F212-MICROBIOLOGY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -12545,7 +12545,7 @@
                     ]
                 ]
             },
-            "CELL BIOLOGY": {
+            "BIO F213-CELL BIOLOGY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -12571,7 +12571,7 @@
                     []
                 ]
             },
-            "INTEGRATED BIOLOGY": {
+            "BIO F214-INTEGRATED BIOLOGY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -12597,7 +12597,7 @@
                     []
                 ]
             },
-            "INTRODUCTION TO ENVIRONMENTAL STUDIES": {
+            "BITS F225-INTRODUCTION TO ENVIRONMENTAL STUDIES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -12621,7 +12621,7 @@
             }
         },
         "Year 3 Sem 1": {
-            "ELECTRONIC DEVICES": {
+            "INSTR F214-ELECTRONIC DEVICES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -12651,7 +12651,7 @@
                     []
                 ]
             },
-            "ELECTROMAGNETIC THEO/ ELECTROMAGNETIC THEO I": {
+            "INSTR F212-ELECTROMAGNETIC THEO/ ELECTROMAGNETIC THEO I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -12697,7 +12697,7 @@
                     []
                 ]
             },
-            "ELECTRICAL MACHINES": {
+            "INSTR F211-ELECTRICAL MACHINES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -12747,7 +12747,7 @@
                     ]
                 ]
             },
-            "DIGITAL DESIGN": {
+            "INSTR F215-DIGITAL DESIGN": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -12795,7 +12795,7 @@
                     ]
                 ]
             },
-            "RECOMBINANT DNA TECH": {
+            "BIO F311-RECOMBINANT DNA TECH": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -12821,7 +12821,7 @@
                     []
                 ]
             },
-            "PLANT PHYSIOLOGY": {
+            "BIO F312-PLANT PHYSIOLOGY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -12847,7 +12847,7 @@
                     []
                 ]
             },
-            "ANIMAL PHYSIOLOGY": {
+            "BIO F313-ANIMAL PHYSIOLOGY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -12875,7 +12875,7 @@
             }
         },
         "Year 4 Sem 1": {
-            "TRANSD & MEASUREMENT SYS": {
+            "INSTR F312-TRANSD & MEASUREMENT SYS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -12901,7 +12901,7 @@
                     []
                 ]
             },
-            "ELECTRO INST &INST TECH": {
+            "INSTR F311-ELECTRO INST &INST TECH": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -12933,7 +12933,7 @@
                     ]
                 ]
             },
-            "ANALOG & DIGIT VLSI DES": {
+            "INSTR F313-ANALOG & DIGIT VLSI DES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -12965,7 +12965,7 @@
     },
     "B2A8": {
         "Year 1 Sem 1": {
-            "CHEMISTRY LABORATORY": {
+            "CHEM F110-CHEMISTRY LABORATORY": {
                 "LPU": {
                     "lectures": 0,
                     "tutorials": 0,
@@ -13020,7 +13020,7 @@
                     ]
                 ]
             },
-            "GENERAL CHEMISTRY": {
+            "CHEM F111-GENERAL CHEMISTRY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -13082,7 +13082,7 @@
             }
         },
         "Year 2 Sem 1": {
-            "PHYSICAL CHEMISTRY I": {
+            "CHEM F211-PHYSICAL CHEMISTRY I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -13108,7 +13108,7 @@
                     []
                 ]
             },
-            "ORGANIC CHEMISTRY I": {
+            "CHEM F212-ORGANIC CHEMISTRY I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -13134,7 +13134,7 @@
                     []
                 ]
             },
-            "PHYSICAL CHEMISTRY II": {
+            "CHEM F213-PHYSICAL CHEMISTRY II": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -13160,7 +13160,7 @@
                     []
                 ]
             },
-            "INORGANIC CHEMISTRY I": {
+            "CHEM F214-INORGANIC CHEMISTRY I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -13188,7 +13188,7 @@
             }
         },
         "Year 3 Sem 1": {
-            "ELECTRONIC DEVICES": {
+            "INSTR F214-ELECTRONIC DEVICES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -13218,7 +13218,7 @@
                     []
                 ]
             },
-            "ELECTROMAGNETIC THEO/ ELECTROMAGNETIC THEO I": {
+            "INSTR F212-ELECTROMAGNETIC THEO/ ELECTROMAGNETIC THEO I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -13264,7 +13264,7 @@
                     []
                 ]
             },
-            "ELECTRICAL MACHINES": {
+            "INSTR F211-ELECTRICAL MACHINES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -13314,7 +13314,7 @@
                     ]
                 ]
             },
-            "DIGITAL DESIGN": {
+            "INSTR F215-DIGITAL DESIGN": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -13362,7 +13362,7 @@
                     ]
                 ]
             },
-            "ORGANIC CHEMISTRY III": {
+            "CHEM F311-ORGANIC CHEMISTRY III": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -13388,7 +13388,7 @@
                     []
                 ]
             },
-            "PHYSICAL CHEMISTRY IV": {
+            "CHEM F312-PHYSICAL CHEMISTRY IV": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -13414,7 +13414,7 @@
                     []
                 ]
             },
-            "INSTRU METHODS OF ANAL": {
+            "CHEM F313-INSTRU METHODS OF ANAL": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -13442,7 +13442,7 @@
             }
         },
         "Year 4 Sem 1": {
-            "TRANSD & MEASUREMENT SYS": {
+            "INSTR F312-TRANSD & MEASUREMENT SYS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -13468,7 +13468,7 @@
                     []
                 ]
             },
-            "ELECTRO INST &INST TECH": {
+            "INSTR F311-ELECTRO INST &INST TECH": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -13500,7 +13500,7 @@
                     ]
                 ]
             },
-            "ANALOG & DIGIT VLSI DES": {
+            "INSTR F313-ANALOG & DIGIT VLSI DES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -13533,7 +13533,7 @@
     "B3A8": {
         "Year 1 Sem 1": {},
         "Year 2 Sem 1": {
-            "PRINCIPLES OF ECONOMICS": {
+            "ECON F211-PRINCIPLES OF ECONOMICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -13559,7 +13559,7 @@
                     []
                 ]
             },
-            "FUNDA OF FIN AND ACCOUNT": {
+            "ECON F212-FUNDA OF FIN AND ACCOUNT": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -13585,7 +13585,7 @@
                     []
                 ]
             },
-            "MATHEMATIC & STAT METHOD": {
+            "ECON F213-MATHEMATIC & STAT METHOD": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -13611,7 +13611,7 @@
                     []
                 ]
             },
-            "ECONOMIC ENV OF BUSINESSS": {
+            "ECON F214-ECONOMIC ENV OF BUSINESSS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -13639,7 +13639,7 @@
             }
         },
         "Year 3 Sem 1": {
-            "ELECTRONIC DEVICES": {
+            "INSTR F214-ELECTRONIC DEVICES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -13669,7 +13669,7 @@
                     []
                 ]
             },
-            "ELECTROMAGNETIC THEO/ ELECTROMAGNETIC THEO I": {
+            "INSTR F212-ELECTROMAGNETIC THEO/ ELECTROMAGNETIC THEO I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -13715,7 +13715,7 @@
                     []
                 ]
             },
-            "ELECTRICAL MACHINES": {
+            "INSTR F211-ELECTRICAL MACHINES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -13765,7 +13765,7 @@
                     ]
                 ]
             },
-            "DIGITAL DESIGN": {
+            "INSTR F215-DIGITAL DESIGN": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -13813,7 +13813,7 @@
                     ]
                 ]
             },
-            "INTERNATIONAL ECONOMICS": {
+            "ECON F311-INTERNATIONAL ECONOMICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -13839,7 +13839,7 @@
                     []
                 ]
             },
-            "MONEY BANK & FIN MARKETS": {
+            "ECON F312-MONEY BANK & FIN MARKETS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -13865,7 +13865,7 @@
                     []
                 ]
             },
-            "ISSUES IN ECONOMIC DEVELOPMENT": {
+            "ECON F313-ISSUES IN ECONOMIC DEVELOPMENT": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -13893,7 +13893,7 @@
             }
         },
         "Year 4 Sem 1": {
-            "TRANSD & MEASUREMENT SYS": {
+            "INSTR F312-TRANSD & MEASUREMENT SYS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -13919,7 +13919,7 @@
                     []
                 ]
             },
-            "ELECTRO INST &INST TECH": {
+            "INSTR F311-ELECTRO INST &INST TECH": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -13951,7 +13951,7 @@
                     ]
                 ]
             },
-            "ANALOG & DIGIT VLSI DES": {
+            "INSTR F313-ANALOG & DIGIT VLSI DES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -13983,7 +13983,7 @@
     },
     "B4A8": {
         "Year 1 Sem 1": {
-            "MATHEMATICS I": {
+            "MATH F111-MATHEMATICS I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -14047,7 +14047,7 @@
                     []
                 ]
             },
-            "PROBABILITY & STATISTICS": {
+            "MATH F113-PROBABILITY & STATISTICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -14091,7 +14091,7 @@
             }
         },
         "Year 2 Sem 1": {
-            "MATHEMATICS III": {
+            "MATH F211-MATHEMATICS III": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -14147,7 +14147,7 @@
                     []
                 ]
             },
-            "OPTIMIZATION": {
+            "MATH F212-OPTIMIZATION": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -14173,7 +14173,7 @@
                     []
                 ]
             },
-            "DISCREET MATHEMATICS": {
+            "MATH F213-DISCREET MATHEMATICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -14199,7 +14199,7 @@
                     []
                 ]
             },
-            "ELEMENTARY REAL ANALYSIS": {
+            "MATH F214-ELEMENTARY REAL ANALYSIS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -14225,7 +14225,7 @@
                     []
                 ]
             },
-            "ALGEBRA I": {
+            "MATH F215-ALGEBRA I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -14253,7 +14253,7 @@
             }
         },
         "Year 3 Sem 1": {
-            "ELECTRONIC DEVICES": {
+            "INSTR F214-ELECTRONIC DEVICES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -14283,7 +14283,7 @@
                     []
                 ]
             },
-            "ELECTROMAGNETIC THEO/ ELECTROMAGNETIC THEO I": {
+            "INSTR F212-ELECTROMAGNETIC THEO/ ELECTROMAGNETIC THEO I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -14329,7 +14329,7 @@
                     []
                 ]
             },
-            "ELECTRICAL MACHINES": {
+            "INSTR F211-ELECTRICAL MACHINES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -14379,7 +14379,7 @@
                     ]
                 ]
             },
-            "DIGITAL DESIGN": {
+            "INSTR F215-DIGITAL DESIGN": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -14427,7 +14427,7 @@
                     ]
                 ]
             },
-            "INTRODUCTION TO TOPOLOGY": {
+            "MATH F311-INTRODUCTION TO TOPOLOGY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -14453,7 +14453,7 @@
                     []
                 ]
             },
-            "ORDINARY DIFFERENTIAL EQUATIONS": {
+            "MATH F312-ORDINARY DIFFERENTIAL EQUATIONS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -14479,7 +14479,7 @@
                     []
                 ]
             },
-            "NUMERICAL ANALYSIS": {
+            "MATH F313-NUMERICAL ANALYSIS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -14507,7 +14507,7 @@
             }
         },
         "Year 4 Sem 1": {
-            "TRANSD & MEASUREMENT SYS": {
+            "INSTR F312-TRANSD & MEASUREMENT SYS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -14533,7 +14533,7 @@
                     []
                 ]
             },
-            "ELECTRO INST &INST TECH": {
+            "INSTR F311-ELECTRO INST &INST TECH": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -14565,7 +14565,7 @@
                     ]
                 ]
             },
-            "ANALOG & DIGIT VLSI DES": {
+            "INSTR F313-ANALOG & DIGIT VLSI DES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -14597,7 +14597,7 @@
     },
     "B5A8": {
         "Year 1 Sem 1": {
-            "PHYSICS LABORATORY": {
+            "PHY F110-PHYSICS LABORATORY": {
                 "LPU": {
                     "lectures": 0,
                     "tutorials": 0,
@@ -14655,7 +14655,7 @@
                     ]
                 ]
             },
-            "MECHANICS OSCILLATIONS &WAVES": {
+            "PHY F111-MECHANICS OSCILLATIONS &WAVES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -14701,7 +14701,7 @@
             }
         },
         "Year 2 Sem 1": {
-            "ELECTROMAGNETIC THEO/ ELECTROMAGNETIC THEO I": {
+            "PHY F212-ELECTROMAGNETIC THEO/ ELECTROMAGNETIC THEO I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -14747,7 +14747,7 @@
                     []
                 ]
             },
-            "CLASSICAL MECHANICS": {
+            "PHY F211-CLASSICAL MECHANICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -14773,7 +14773,7 @@
                     []
                 ]
             },
-            "OPTICS": {
+            "PHY F213-OPTICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -14799,7 +14799,7 @@
                     []
                 ]
             },
-            "ELEC, MAGNET & OPTICS LAB": {
+            "PHY F214-ELEC, MAGNET & OPTICS LAB": {
                 "LPU": {
                     "lectures": 0,
                     "tutorials": 0,
@@ -14826,7 +14826,7 @@
             }
         },
         "Year 3 Sem 1": {
-            "ELECTRONIC DEVICES": {
+            "INSTR F214-ELECTRONIC DEVICES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -14856,7 +14856,7 @@
                     []
                 ]
             },
-            "ELECTROMAGNETIC THEO/ ELECTROMAGNETIC THEO I": {
+            "INSTR F212-ELECTROMAGNETIC THEO/ ELECTROMAGNETIC THEO I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -14902,7 +14902,7 @@
                     []
                 ]
             },
-            "ELECTRICAL MACHINES": {
+            "INSTR F211-ELECTRICAL MACHINES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -14952,7 +14952,7 @@
                     ]
                 ]
             },
-            "DIGITAL DESIGN": {
+            "INSTR F215-DIGITAL DESIGN": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -15000,7 +15000,7 @@
                     ]
                 ]
             },
-            "QUANTUM MECHANICS II": {
+            "PHY F311-QUANTUM MECHANICS II": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -15026,7 +15026,7 @@
                     []
                 ]
             },
-            "STATISTICAL MECHANICS": {
+            "PHY F312-STATISTICAL MECHANICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -15052,7 +15052,7 @@
                     []
                 ]
             },
-            "COMPUTATIONAL PHYSICS": {
+            "PHY F313-COMPUTATIONAL PHYSICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -15080,7 +15080,7 @@
             }
         },
         "Year 4 Sem 1": {
-            "TRANSD & MEASUREMENT SYS": {
+            "INSTR F312-TRANSD & MEASUREMENT SYS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -15106,7 +15106,7 @@
                     []
                 ]
             },
-            "ELECTRO INST &INST TECH": {
+            "INSTR F311-ELECTRO INST &INST TECH": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -15138,7 +15138,7 @@
                     ]
                 ]
             },
-            "ANALOG & DIGIT VLSI DES": {
+            "INSTR F313-ANALOG & DIGIT VLSI DES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -15170,7 +15170,7 @@
     },
     "B1AA": {
         "Year 1 Sem 1": {
-            "BIOLOGY LABORATORY": {
+            "BIO F110-BIOLOGY LABORATORY": {
                 "LPU": {
                     "lectures": 0,
                     "tutorials": 0,
@@ -15234,7 +15234,7 @@
                     ]
                 ]
             },
-            "GENERAL BIOLOGY": {
+            "BIO F111-GENERAL BIOLOGY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -15288,7 +15288,7 @@
             }
         },
         "Year 2 Sem 1": {
-            "BIOLOGICAL CHEMISTRY": {
+            "BIO F211-BIOLOGICAL CHEMISTRY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -15314,7 +15314,7 @@
                     []
                 ]
             },
-            "MICROBIOLOGY": {
+            "BIO F212-MICROBIOLOGY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -15343,7 +15343,7 @@
                     ]
                 ]
             },
-            "CELL BIOLOGY": {
+            "BIO F213-CELL BIOLOGY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -15369,7 +15369,7 @@
                     []
                 ]
             },
-            "INTEGRATED BIOLOGY": {
+            "BIO F214-INTEGRATED BIOLOGY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -15395,7 +15395,7 @@
                     []
                 ]
             },
-            "INTRODUCTION TO ENVIRONMENTAL STUDIES": {
+            "BITS F225-INTRODUCTION TO ENVIRONMENTAL STUDIES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -15419,7 +15419,7 @@
             }
         },
         "Year 3 Sem 1": {
-            "ELECTRONIC DEVICES": {
+            "ECE F214-ELECTRONIC DEVICES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -15449,7 +15449,7 @@
                     []
                 ]
             },
-            "ELECTROMAGNETIC THEO/ ELECTROMAGNETIC THEO I": {
+            "ECE F212-ELECTROMAGNETIC THEO/ ELECTROMAGNETIC THEO I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -15495,7 +15495,7 @@
                     []
                 ]
             },
-            "ELECTRICAL MACHINES": {
+            "ECE F211-ELECTRICAL MACHINES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -15545,7 +15545,7 @@
                     ]
                 ]
             },
-            "DIGITAL DESIGN": {
+            "ECE F215-DIGITAL DESIGN": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -15590,7 +15590,7 @@
                     ]
                 ]
             },
-            "RECOMBINANT DNA TECH": {
+            "BIO F311-RECOMBINANT DNA TECH": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -15616,7 +15616,7 @@
                     []
                 ]
             },
-            "PLANT PHYSIOLOGY": {
+            "BIO F312-PLANT PHYSIOLOGY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -15642,7 +15642,7 @@
                     []
                 ]
             },
-            "ANIMAL PHYSIOLOGY": {
+            "BIO F313-ANIMAL PHYSIOLOGY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -15670,7 +15670,7 @@
             }
         },
         "Year 4 Sem 1": {
-            "DIGITAL SIGNAL PROCESSING": {
+            "ECE F434-DIGITAL SIGNAL PROCESSING": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -15699,7 +15699,7 @@
                     ]
                 ]
             },
-            "COMMUNICATION SYSTEMS": {
+            "ECE F311-COMMUNICATION SYSTEMS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -15740,7 +15740,7 @@
                     ]
                 ]
             },
-            "ELECTROMAGNETIC FIEDL & MICROWAVE ENGG": {
+            "ECE F314-ELECTROMAGNETIC FIEDL & MICROWAVE ENGG": {
                 "LPU": {
                     "lectures": 0,
                     "tutorials": 0,
@@ -15771,7 +15771,7 @@
     },
     "B2AA": {
         "Year 1 Sem 1": {
-            "CHEMISTRY LABORATORY": {
+            "CHEM F110-CHEMISTRY LABORATORY": {
                 "LPU": {
                     "lectures": 0,
                     "tutorials": 0,
@@ -15826,7 +15826,7 @@
                     ]
                 ]
             },
-            "GENERAL CHEMISTRY": {
+            "CHEM F111-GENERAL CHEMISTRY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -15888,7 +15888,7 @@
             }
         },
         "Year 2 Sem 1": {
-            "PHYSICAL CHEMISTRY I": {
+            "CHEM F211-PHYSICAL CHEMISTRY I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -15914,7 +15914,7 @@
                     []
                 ]
             },
-            "ORGANIC CHEMISTRY I": {
+            "CHEM F212-ORGANIC CHEMISTRY I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -15940,7 +15940,7 @@
                     []
                 ]
             },
-            "PHYSICAL CHEMISTRY II": {
+            "CHEM F213-PHYSICAL CHEMISTRY II": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -15966,7 +15966,7 @@
                     []
                 ]
             },
-            "INORGANIC CHEMISTRY I": {
+            "CHEM F214-INORGANIC CHEMISTRY I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -15994,7 +15994,7 @@
             }
         },
         "Year 3 Sem 1": {
-            "ELECTRONIC DEVICES": {
+            "ECE F214-ELECTRONIC DEVICES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -16024,7 +16024,7 @@
                     []
                 ]
             },
-            "ELECTROMAGNETIC THEO/ ELECTROMAGNETIC THEO I": {
+            "ECE F212-ELECTROMAGNETIC THEO/ ELECTROMAGNETIC THEO I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -16070,7 +16070,7 @@
                     []
                 ]
             },
-            "ELECTRICAL MACHINES": {
+            "ECE F211-ELECTRICAL MACHINES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -16120,7 +16120,7 @@
                     ]
                 ]
             },
-            "DIGITAL DESIGN": {
+            "ECE F215-DIGITAL DESIGN": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -16165,7 +16165,7 @@
                     ]
                 ]
             },
-            "ORGANIC CHEMISTRY III": {
+            "CHEM F311-ORGANIC CHEMISTRY III": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -16191,7 +16191,7 @@
                     []
                 ]
             },
-            "PHYSICAL CHEMISTRY IV": {
+            "CHEM F312-PHYSICAL CHEMISTRY IV": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -16217,7 +16217,7 @@
                     []
                 ]
             },
-            "INSTRU METHODS OF ANAL": {
+            "CHEM F313-INSTRU METHODS OF ANAL": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -16245,7 +16245,7 @@
             }
         },
         "Year 4 Sem 1": {
-            "DIGITAL SIGNAL PROCESSING": {
+            "ECE F434-DIGITAL SIGNAL PROCESSING": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -16274,7 +16274,7 @@
                     ]
                 ]
             },
-            "COMMUNICATION SYSTEMS": {
+            "ECE F311-COMMUNICATION SYSTEMS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -16315,7 +16315,7 @@
                     ]
                 ]
             },
-            "ELECTROMAGNETIC FIEDL & MICROWAVE ENGG": {
+            "ECE F314-ELECTROMAGNETIC FIEDL & MICROWAVE ENGG": {
                 "LPU": {
                     "lectures": 0,
                     "tutorials": 0,
@@ -16347,7 +16347,7 @@
     "B3AA": {
         "Year 1 Sem 1": {},
         "Year 2 Sem 1": {
-            "PRINCIPLES OF ECONOMICS": {
+            "ECON F211-PRINCIPLES OF ECONOMICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -16373,7 +16373,7 @@
                     []
                 ]
             },
-            "FUNDA OF FIN AND ACCOUNT": {
+            "ECON F212-FUNDA OF FIN AND ACCOUNT": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -16399,7 +16399,7 @@
                     []
                 ]
             },
-            "MATHEMATIC & STAT METHOD": {
+            "ECON F213-MATHEMATIC & STAT METHOD": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -16425,7 +16425,7 @@
                     []
                 ]
             },
-            "ECONOMIC ENV OF BUSINESSS": {
+            "ECON F214-ECONOMIC ENV OF BUSINESSS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -16453,7 +16453,7 @@
             }
         },
         "Year 3 Sem 1": {
-            "ELECTRONIC DEVICES": {
+            "ECE F214-ELECTRONIC DEVICES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -16483,7 +16483,7 @@
                     []
                 ]
             },
-            "ELECTROMAGNETIC THEO/ ELECTROMAGNETIC THEO I": {
+            "ECE F212-ELECTROMAGNETIC THEO/ ELECTROMAGNETIC THEO I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -16529,7 +16529,7 @@
                     []
                 ]
             },
-            "ELECTRICAL MACHINES": {
+            "ECE F211-ELECTRICAL MACHINES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -16579,7 +16579,7 @@
                     ]
                 ]
             },
-            "DIGITAL DESIGN": {
+            "ECE F215-DIGITAL DESIGN": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -16624,7 +16624,7 @@
                     ]
                 ]
             },
-            "INTERNATIONAL ECONOMICS": {
+            "ECON F311-INTERNATIONAL ECONOMICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -16650,7 +16650,7 @@
                     []
                 ]
             },
-            "MONEY BANK & FIN MARKETS": {
+            "ECON F312-MONEY BANK & FIN MARKETS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -16676,7 +16676,7 @@
                     []
                 ]
             },
-            "ISSUES IN ECONOMIC DEVELOPMENT": {
+            "ECON F313-ISSUES IN ECONOMIC DEVELOPMENT": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -16704,7 +16704,7 @@
             }
         },
         "Year 4 Sem 1": {
-            "DIGITAL SIGNAL PROCESSING": {
+            "ECE F434-DIGITAL SIGNAL PROCESSING": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -16733,7 +16733,7 @@
                     ]
                 ]
             },
-            "COMMUNICATION SYSTEMS": {
+            "ECE F311-COMMUNICATION SYSTEMS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -16774,7 +16774,7 @@
                     ]
                 ]
             },
-            "ELECTROMAGNETIC FIEDL & MICROWAVE ENGG": {
+            "ECE F314-ELECTROMAGNETIC FIEDL & MICROWAVE ENGG": {
                 "LPU": {
                     "lectures": 0,
                     "tutorials": 0,
@@ -16805,7 +16805,7 @@
     },
     "B4AA": {
         "Year 1 Sem 1": {
-            "MATHEMATICS I": {
+            "MATH F111-MATHEMATICS I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -16869,7 +16869,7 @@
                     []
                 ]
             },
-            "PROBABILITY & STATISTICS": {
+            "MATH F113-PROBABILITY & STATISTICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -16913,7 +16913,7 @@
             }
         },
         "Year 2 Sem 1": {
-            "MATHEMATICS III": {
+            "MATH F211-MATHEMATICS III": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -16969,7 +16969,7 @@
                     []
                 ]
             },
-            "OPTIMIZATION": {
+            "MATH F212-OPTIMIZATION": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -16995,7 +16995,7 @@
                     []
                 ]
             },
-            "DISCREET MATHEMATICS": {
+            "MATH F213-DISCREET MATHEMATICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -17021,7 +17021,7 @@
                     []
                 ]
             },
-            "ELEMENTARY REAL ANALYSIS": {
+            "MATH F214-ELEMENTARY REAL ANALYSIS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -17047,7 +17047,7 @@
                     []
                 ]
             },
-            "ALGEBRA I": {
+            "MATH F215-ALGEBRA I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -17075,7 +17075,7 @@
             }
         },
         "Year 3 Sem 1": {
-            "ELECTRONIC DEVICES": {
+            "ECE F214-ELECTRONIC DEVICES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -17105,7 +17105,7 @@
                     []
                 ]
             },
-            "ELECTROMAGNETIC THEO/ ELECTROMAGNETIC THEO I": {
+            "ECE F212-ELECTROMAGNETIC THEO/ ELECTROMAGNETIC THEO I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -17151,7 +17151,7 @@
                     []
                 ]
             },
-            "ELECTRICAL MACHINES": {
+            "ECE F211-ELECTRICAL MACHINES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -17201,7 +17201,7 @@
                     ]
                 ]
             },
-            "DIGITAL DESIGN": {
+            "ECE F215-DIGITAL DESIGN": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -17246,7 +17246,7 @@
                     ]
                 ]
             },
-            "INTRODUCTION TO TOPOLOGY": {
+            "MATH F311-INTRODUCTION TO TOPOLOGY": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -17272,7 +17272,7 @@
                     []
                 ]
             },
-            "ORDINARY DIFFERENTIAL EQUATIONS": {
+            "MATH F312-ORDINARY DIFFERENTIAL EQUATIONS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -17298,7 +17298,7 @@
                     []
                 ]
             },
-            "NUMERICAL ANALYSIS": {
+            "MATH F313-NUMERICAL ANALYSIS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -17326,7 +17326,7 @@
             }
         },
         "Year 4 Sem 1": {
-            "DIGITAL SIGNAL PROCESSING": {
+            "ECE F434-DIGITAL SIGNAL PROCESSING": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -17355,7 +17355,7 @@
                     ]
                 ]
             },
-            "COMMUNICATION SYSTEMS": {
+            "ECE F311-COMMUNICATION SYSTEMS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -17396,7 +17396,7 @@
                     ]
                 ]
             },
-            "ELECTROMAGNETIC FIEDL & MICROWAVE ENGG": {
+            "ECE F314-ELECTROMAGNETIC FIEDL & MICROWAVE ENGG": {
                 "LPU": {
                     "lectures": 0,
                     "tutorials": 0,
@@ -17427,7 +17427,7 @@
     },
     "B5AA": {
         "Year 1 Sem 1": {
-            "PHYSICS LABORATORY": {
+            "PHY F110-PHYSICS LABORATORY": {
                 "LPU": {
                     "lectures": 0,
                     "tutorials": 0,
@@ -17485,7 +17485,7 @@
                     ]
                 ]
             },
-            "MECHANICS OSCILLATIONS &WAVES": {
+            "PHY F111-MECHANICS OSCILLATIONS &WAVES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -17531,7 +17531,7 @@
             }
         },
         "Year 2 Sem 1": {
-            "ELECTROMAGNETIC THEO/ ELECTROMAGNETIC THEO I": {
+            "PHY F212-ELECTROMAGNETIC THEO/ ELECTROMAGNETIC THEO I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -17577,7 +17577,7 @@
                     []
                 ]
             },
-            "CLASSICAL MECHANICS": {
+            "PHY F211-CLASSICAL MECHANICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -17603,7 +17603,7 @@
                     []
                 ]
             },
-            "OPTICS": {
+            "PHY F213-OPTICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -17629,7 +17629,7 @@
                     []
                 ]
             },
-            "ELEC, MAGNET & OPTICS LAB": {
+            "PHY F214-ELEC, MAGNET & OPTICS LAB": {
                 "LPU": {
                     "lectures": 0,
                     "tutorials": 0,
@@ -17656,7 +17656,7 @@
             }
         },
         "Year 3 Sem 1": {
-            "ELECTRONIC DEVICES": {
+            "ECE F214-ELECTRONIC DEVICES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -17686,7 +17686,7 @@
                     []
                 ]
             },
-            "ELECTROMAGNETIC THEO/ ELECTROMAGNETIC THEO I": {
+            "ECE F212-ELECTROMAGNETIC THEO/ ELECTROMAGNETIC THEO I": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -17732,7 +17732,7 @@
                     []
                 ]
             },
-            "ELECTRICAL MACHINES": {
+            "ECE F211-ELECTRICAL MACHINES": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -17782,7 +17782,7 @@
                     ]
                 ]
             },
-            "DIGITAL DESIGN": {
+            "ECE F215-DIGITAL DESIGN": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -17827,7 +17827,7 @@
                     ]
                 ]
             },
-            "QUANTUM MECHANICS II": {
+            "PHY F311-QUANTUM MECHANICS II": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -17853,7 +17853,7 @@
                     []
                 ]
             },
-            "STATISTICAL MECHANICS": {
+            "PHY F312-STATISTICAL MECHANICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -17879,7 +17879,7 @@
                     []
                 ]
             },
-            "COMPUTATIONAL PHYSICS": {
+            "PHY F313-COMPUTATIONAL PHYSICS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 1,
@@ -17907,7 +17907,7 @@
             }
         },
         "Year 4 Sem 1": {
-            "DIGITAL SIGNAL PROCESSING": {
+            "ECE F434-DIGITAL SIGNAL PROCESSING": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -17936,7 +17936,7 @@
                     ]
                 ]
             },
-            "COMMUNICATION SYSTEMS": {
+            "ECE F311-COMMUNICATION SYSTEMS": {
                 "LPU": {
                     "lectures": 3,
                     "tutorials": 0,
@@ -17977,7 +17977,7 @@
                     ]
                 ]
             },
-            "ELECTROMAGNETIC FIEDL & MICROWAVE ENGG": {
+            "ECE F314-ELECTROMAGNETIC FIEDL & MICROWAVE ENGG": {
                 "LPU": {
                     "lectures": 0,
                     "tutorials": 0,

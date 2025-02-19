@@ -113,7 +113,7 @@ class ClassroomAllocator:
     
     def allocate_classrooms(self):
         """
-        Allocate classrooms using best-fit algorithm
+        Allocate classrooms using best-fit algorithm with backtracking
         
         Returns:
             tuple: DataFrames for allocation and room schedule
@@ -121,7 +121,8 @@ class ClassroomAllocator:
         classroom_allocation = {}
         room_schedule = {}
         room_specific_timetables = {}
-        
+        failed_assignments = []
+
         # Group timetable by unique course-day-time combinations
         unique_slots = self.combined_timetable.drop_duplicates(
             subset=['Course', 'Day', 'Time', 'Type']
@@ -163,11 +164,62 @@ class ClassroomAllocator:
                 # Mark room as used
                 self._mark_room_usage(best_room, day, time, course)
             else:
+                failed_assignments.append((course, day, time, session_type, student_count))
+        
+        # Backtracking to reassign failed assignments
+        for course, day, time, session_type, student_count in failed_assignments:
+            best_room = self._find_best_fit_room(student_count, day, time)
+            if best_room:
+                room_capacity = self._get_room_capacity(best_room)
                 classroom_allocation[(course, day, time, session_type)] = {
-                    'room': "No Room Available",
-                    'capacity': 0,
+                    'room': best_room,
+                    'capacity': room_capacity,
                     'strength': student_count
                 }
+                room_schedule.setdefault((day, time), []).append((best_room, course, room_capacity, student_count))
+                room_specific_timetables.setdefault(best_room, []).append({
+                    'Day': day,
+                    'Time': time,
+                    'Course': course,
+                    'Type': session_type,
+                    'Room Capacity': room_capacity,
+                    'Course Strength': student_count
+                })
+                self._mark_room_usage(best_room, day, time, course)
+            else:
+                # Try to reassign from other slots
+                reassigned = False
+                for reassigned_day in self.combined_timetable['Day'].unique():
+                    for reassigned_time in self.combined_timetable['Time'].unique():
+                        if (reassigned_day, reassigned_time) != (day, time):
+                            best_room = self._find_best_fit_room(student_count, reassigned_day, reassigned_time)
+                            if best_room:
+                                room_capacity = self._get_room_capacity(best_room)
+                                classroom_allocation[(course, reassigned_day, reassigned_time, session_type)] = {
+                                    'room': best_room,
+                                    'capacity': room_capacity,
+                                    'strength': student_count
+                                }
+                                room_schedule.setdefault((reassigned_day, reassigned_time), []).append((best_room, course, room_capacity, student_count))
+                                room_specific_timetables.setdefault(best_room, []).append({
+                                    'Day': reassigned_day,
+                                    'Time': reassigned_time,
+                                    'Course': course,
+                                    'Type': session_type,
+                                    'Room Capacity': room_capacity,
+                                    'Course Strength': student_count
+                                })
+                                self._mark_room_usage(best_room, reassigned_day, reassigned_time, course)
+                                reassigned = True
+                                break
+                    if reassigned:
+                        break
+                if not reassigned:
+                    classroom_allocation[(course, day, time, session_type)] = {
+                        'room': "No Room Available",
+                        'capacity': 0,
+                        'strength': student_count
+                    }
         
         # Create output DataFrames
         allocation_df = pd.DataFrame(
@@ -261,10 +313,10 @@ class ClassroomAllocator:
 # Main execution
 def main():
     # File paths
-    timetable_file = "combined_timetable.xlsx"
+    timetable_file = "combined_timetable1.xlsx"
     erp_file = "sem 1 23-24 erp tt& reg.xlsx"
     rooms_file = "data.xlsx"
-    output_file = "classroom_allocation.xlsx"
+    output_file = "classroom_allocation1.xlsx"
     
     # Initialize and run allocator
     allocator = ClassroomAllocator(timetable_file, erp_file, rooms_file)

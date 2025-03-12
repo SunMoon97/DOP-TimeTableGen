@@ -11,7 +11,7 @@ class TimetableGenerator:
         all_semester_data = {}
 
         for semester, courses in course_data[branch].items():
-            print(f"\nAssigning courses for {branch} - {semester}...")
+            # print(f"\nAssigning courses for {branch} - {semester}...")
             self.state.timetable = {day: {slot: [] for slot in TimetableConfig.TIME_SLOTS} 
                                   for day in TimetableConfig.ORDERED_DAYS}
             self.state.visited = {day: {slot: False for slot in TimetableConfig.TIME_SLOTS} 

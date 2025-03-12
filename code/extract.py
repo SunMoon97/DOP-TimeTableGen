@@ -164,7 +164,7 @@ else:
 # Initialize based on the ordered combined_branches_ordered list
 result = {
     combined_branch: {
-        f"Year {year} Sem 1": {} for year in range(1, 5)
+        f"Year {year} Sem 1": {} for year in range(2, 5)
     }
     for combined_branch in combined_branches_ordered
 }

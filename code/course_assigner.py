@@ -48,9 +48,9 @@ class CourseAssigner:
         if course in self.state.all_course_assignments:
             for day, slot, session_type in self.state.all_course_assignments[course]:
                 if session_type == "Lecture" and remaining_lectures != 0:
-                    print(f"{course} already assigned on {day} at {slot}")
+                    # print(f"{course} already assigned on {day} at {slot}")
                     remaining_lectures -= 1
-                    print(f"Remaining lectures: {remaining_lectures}")
+                    # print(f"Remaining lectures: {remaining_lectures}")
                 elif session_type == "Tut":
                     remaining_tutorials -= 1
                 elif session_type == "Lab":
@@ -61,7 +61,7 @@ class CourseAssigner:
 
         for day in lecture_series:
             if remaining_lectures == 0:
-                print("No more lectures for " + course)
+                # print("No more lectures for " + course)
                 break
             available_slots = ["9:00", "10:00", "11:00", "12:00", "2:00", "3:00", "4:00", "5:00"]
             valid_slots = [slot for slot in available_slots 
@@ -244,7 +244,7 @@ class CourseAssigner:
 
     def reassign_unassigned_courses(self, unassigned_courses):
         for course, load in unassigned_courses.items():
-            print(f"Reassigning remaining sessions for {course}...")
+            # print(f"Reassigning remaining sessions for {course}...")
 
             lectures_left = load.get('lectures', 0)
             tutorials_left = load.get('tutorials', 0)

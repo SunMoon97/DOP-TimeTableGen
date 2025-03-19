@@ -7,8 +7,8 @@ class FileHandler:
             return json.load(file)
 
     @staticmethod
-    def save_timetable_to_excel(all_semester_data, all_course_assignments):
-        with pd.ExcelWriter("combined_timetable1.xlsx", engine='xlsxwriter') as writer:
+    def save_timetable_to_excel(all_semester_data, all_course_assignments, output_file="combined_timetable1.xlsx"):
+        with pd.ExcelWriter(output_file, engine='xlsxwriter') as writer:
             for semester, branches in all_semester_data.items():
                 combined_df = pd.DataFrame()
                 
